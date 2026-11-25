@@ -1,0 +1,1032 @@
+﻿station_id,station_name,departures,arrivals,total_activity,balance_arrivals_minus_departures,absolute_imbalance
+43,39 - Plaza de la Cebada,46647,47145,93792,498,498
+57,53 - Plaza de Lavapiés,44398,43656,88054,-742,742
+175,167 - Segovia 45,37972,38647,76619,675,675
+220,212 - Marqués de Vadillo,36862,40117,76979,3255,3255
+208,200 - Quevedo,34211,34774,68985,563,563
+90,85 - Puerta de Madrid,33527,32433,65960,-1094,1094
+45,41 - Antón Martín,32810,33292,66102,482,482
+49,45 - Puerta de Toledo,31443,32024,63467,581,581
+41,37 - Plaza de San Francisco,29685,30624,60309,939,939
+64,60 - Plaza de la Independencia,29654,29746,59400,92,92
+132,161 - Paseo de la Florida,29641,33357,62998,3716,3716
+62,58 - Augusto Figueroa,29595,29820,59415,225,225
+254,246 - Santa Engracia 87,29354,29237,58591,-117,117
+13,12 - San Hermenegildo,29157,28897,58054,-260,260
+149,132 - Glorieta de los Cuatro Caminos,28803,28025,56828,-778,778
+224,216 - Puerta del Ángel,28475,31978,60453,3503,3503
+59,55 - Plaza de San Ildefonso,27683,27806,55489,123,123
+129,121 - Santa María de la Cabeza,27610,28795,56405,1185,1185
+9,8 - Alonso Martínez,27253,27203,54456,-50,50
+58,54 - Barceló,27040,26985,54025,-55,55
+204,196 - Prosperidad,26737,26781,53518,44,44
+30,26 - Plaza de las Salesas,26421,26421,52842,0,0
+46,42 - Santa Isabel,26166,26447,52613,281,281
+157,130 - Santa Engracia 127,25779,25876,51655,97,97
+52,48 - Embajadores 2,25571,25532,51103,-39,39
+135,165 - Entrada Matadero,25398,27179,52577,1781,1781
+19,18 - Plaza de Pedro Zerolo,25391,25525,50916,134,134
+169,124 - Manuel Silvela,25358,25342,50700,-16,16
+145,151 - Orense 12,25200,25308,50508,108,108
+163,126 - General Álvarez de Castro,25046,25139,50185,93,93
+168,127 - Fernando el Católico,24420,24925,49345,505,505
+170,144 - Juan Bravo 50,24357,24267,48624,-90,90
+189,181 - Retiro-Ibiza,24270,23710,47980,-560,560
+83,79 - Puerta de Granada,24199,24913,49112,714,714
+244,236 - Paseo Imperial,24191,24812,49003,621,621
+42,38 - Plaza de los Carros,23543,24237,47780,694,694
+38,34 - Jacinto Benavente,23213,23411,46624,198,198
+253,245 - Galileo,22990,22882,45872,-108,108
+78,74 - Puerta del Pacífico,22972,22924,45896,-48,48
+79,75 - Menéndez Pelayo,22925,24240,47165,1315,1315
+179,171 - Embajadores-Cáceres,21534,22058,43592,524,524
+124,116b - Plaza de España B,21207,21050,42257,-157,157
+131,123 - Guzmán el Bueno,21128,21195,42323,67,67
+232,224 - Caramuel,21094,23191,44285,2097,2097
+6,5 - Fuencarral,21089,20457,41546,-632,632
+26,23 - Santo Domingo,21006,21016,42022,10,10
+56,52 - Plaza de Santa Ana,20844,21197,42041,353,353
+48,44 - Plaza de Nelson Mandela,20839,21185,42024,346,346
+103,98 - Plaza de Felipe II,20683,20359,41042,-324,324
+53,49 - Casa Encendida,20372,20844,41216,472,472
+235,228 - San Delfín,20336,21276,41612,940,940
+136,164 - Paseo de las Delicias,20290,20267,40557,-23,23
+164,125 - General Martínez Campos,20232,19809,40041,-423,423
+231,223 - Ermita Santo,20205,21774,41979,1569,1569
+55,51 - Ronda de Atocha,20146,20008,40154,-138,138
+50,46 - Ribera de Curtidores,19950,20299,40249,349,349
+31,27 - Huertas,19938,19993,39931,55,55
+65,61 - Narváez,19876,19846,39722,-30,30
+186,178 - Junta Municipal Retiro,19840,20854,40694,1014,1014
+128,120 - Palos de la Frontera,19800,20325,40125,525,525
+213,205 - Estrecho,19790,19953,39743,163,163
+74,70 - Puerta del Doce de Octubre,19787,19127,38914,-660,660
+181,173 - Puente Praga,19752,19785,39537,33,33
+178,170 - Paseo de la Esperanza,19511,19691,39202,180,180
+84,80a - Atocha A,19369,20138,39507,769,769
+91,86 - Cibeles,19331,18634,37965,-697,697
+77,73 - Plaza de los Astros,19101,18994,38095,-107,107
+17,16 - San Bernardo,18984,18957,37941,-27,27
+161,129 - José Abascal,18957,17841,36798,-1116,1116
+202,194 - Avenida de América 2,18885,18372,37257,-513,513
+221,213 - Glorieta de Cádiz,18838,20700,39538,1862,1862
+177,169 - Pirámides,18828,19692,38520,864,864
+139,155 - San Germán 57,18783,18161,36944,-622,622
+44,40 - Conde de Romanones,18485,18863,37348,378,378
+14,13 - Conde Duque,18384,18093,36477,-291,291
+95,90 - General Pardiñas,18365,17218,35583,-1147,1147
+207,199 - Fernando el Católico,18264,18176,36440,-88,88
+154,138 - Paseo de la Castellana con Raimundo Fernández,18204,16097,34301,-2107,2107
+81,77 - Conde de Casal,18175,19288,37463,1113,1113
+73,69 - Puerta del Ángel Caído,18042,18545,36587,503,503
+51,47 - Embajadores 1,18040,18149,36189,109,109
+32,28 - Sevilla,18000,17903,35903,-97,97
+212,204 - Cuatro Caminos 2,17996,17629,35625,-367,367
+219,211 - Desengaño,17858,18061,35919,203,203
+187,179 - Puente de Vallecas,17556,19435,36991,1879,1879
+206,198 - Rubén Darío,17476,16896,34372,-580,580
+210,202 - Parque Santander,17367,18516,35883,1149,1149
+160,128 - Cea Bermúdez,17275,16728,34003,-547,547
+172,160 - Colombia,17164,17165,34329,1,1
+8,7 - Hortaleza,17158,17121,34279,-37,37
+75,71 - Doce de Octubre,17154,17197,34351,43,43
+133,162 - Metro Pirámides,17145,17769,34914,624,624
+183,175 - Jaime el Conquistador,17138,17842,34980,704,704
+80,76 - Puerta de Mariano de Cavia,17065,17515,34580,450,450
+10,9 - Plaza de San Miguel,16871,16782,33653,-89,89
+76,72 - Sainz de Baranda,16835,16990,33825,155,155
+67,63 - Ibiza,16731,16627,33358,-104,104
+230,222 - Antonio López,16602,17939,34541,1337,1337
+180,172 - Delicias,16602,16498,33100,-104,104
+86,81 - Cuesta de Moyano,16596,16540,33136,-56,56
+182,174 - Madrid Río-Yeserías,16514,16870,33384,356,356
+241,233 - Marqués de Corbera 12,16468,16616,33084,148,148
+134,163 - Paseo de la Esperanza,16356,16990,33346,634,634
+33,29 - Marqués de Cubas,16184,16259,32443,75,75
+114,108 - Mártires Concepcionistas,16148,15717,31865,-431,431
+153,134 - Agustín de Betancourt,16139,15545,31684,-594,594
+123,116a - Plaza de España A,16072,16323,32395,251,251
+71,67 - Almadén,16057,16103,32160,46,46
+7,6 - Colegio Arquitectos,15988,16095,32083,107,107
+54,50 - Museo Reina Sofía,15988,16006,31994,18,18
+63,59 - Plaza de Juan Pujol,15944,15947,31891,3,3
+247,239 - Francos Rodríguez,15916,15316,31232,-600,600
+184,176 - Beata,15806,16265,32071,459,459
+99,94 - Biblioteca Nacional,15657,15012,30669,-645,645
+18,17 - Carlos Cambronero,15631,15673,31304,42,42
+66,62 - O'Donnell,15613,15094,30707,-519,519
+110,105 - Serrano,15550,14888,30438,-662,662
+3,2 - Miguel Moya,15517,15519,31036,2,2
+118,111b - Arcipreste de Hita B,15495,15444,30939,-51,51
+198,190 - Velázquez-Diego de León,15492,15232,30724,-260,260
+236,227 - Concordia,15469,16918,32387,1449,1449
+162,140 - Velázquez 130,15349,14751,30100,-598,598
+4,3 - Plaza Conde Suchil,15274,15276,30550,2,2
+47,43 - Jesús y María,15236,15234,30470,-2,2
+1,1a - Puerta del Sol A,15157,14520,29677,-637,637
+113,107 - Columela,15144,14751,29895,-393,393
+130,122 - Santa Engracia 14,14981,14866,29847,-115,115
+197,189 - Avenida Donostiarra,14977,15193,30170,216,216
+156,131 - Bravo Murillo 44,14847,13376,28223,-1471,1471
+125,117 - Altamirano,14827,15098,29925,271,271
+200,192 - Avenida de los Toreros,14644,12795,27439,-1849,1849
+166,143 - Diego de León 52,14560,14235,28795,-325,325
+141,154 - Orense 36,14548,13425,27973,-1123,1123
+176,168 - Batalla del Salado,14531,15181,29712,650,650
+34,30 - San Quintín,14323,13131,27454,-1192,1192
+39,35 - Plaza del Cordón,14316,14412,28728,96,96
+12,11 - San Andrés,14312,14293,28605,-19,19
+126,118 - Juan Martín,14294,14779,29073,485,485
+92,87 - Ayala,14259,14281,28540,22,22
+192,184 - Marqués de Zafra,14220,14181,28401,-39,39
+27,24 - Palacio de Oriente,14156,13003,27159,-1153,1153
+171,145 - Ortega y Gasset 87,14126,13728,27854,-398,398
+214,206 - Metro Tetuán,14072,13140,27212,-932,932
+209,201 - Canal,14063,13015,27078,-1048,1048
+115,109 - Marqués de Salamanca,14018,14277,28295,259,259
+190,182 - Parque Roma,13827,13762,27589,-65,65
+106,101 - Jorge Juan,13820,13799,27619,-21,21
+199,191 - Diego de león,13781,13706,27487,-75,75
+82,78 - Pedro Bosch,13647,15277,28924,1630,1630
+264,256 - Reina Victoria,13545,13472,27017,-73,73
+185,177 - Legazpi,13467,14617,28084,1150,1150
+94,89 - Conde Peñalver,13455,13222,26677,-233,233
+251,243 - Cartagena,13355,13117,26472,-238,238
+96,91 - Príncipe de Vergara,13345,13300,26645,-45,45
+194,186 - General Pardiñas,13324,13334,26658,10,10
+259,251 - Corazón de María,13274,13204,26478,-70,70
+155,146 - María Francisca 1,12999,12791,25790,-208,208
+69,65 - Antonio Maura,12951,12959,25910,8,8
+243,235 - Embajadores 191,12899,13953,26852,1054,1054
+102,97 - Alcalá,12844,11177,24021,-1667,1667
+240,232 - José María Pereda,12803,12852,25655,49,49
+5,4 - Malasaña,12795,12745,25540,-50,50
+116,110 - Moncloa,12717,12806,25523,89,89
+167,142 - Castellana 42,12669,12215,24884,-454,454
+25,22 - Jacometrezo,12605,12569,25174,-36,36
+40,36 - Plaza Ramales,12593,12214,24807,-379,379
+121,114 - Quintana,12408,12703,25111,295,295
+16,15 - San Vicente Ferrer,12340,12275,24615,-65,65
+226,218 - Camino Vinateros,12243,13157,25400,914,914
+252,244 - Hospital Clínico,12235,11995,24230,-240,240
+146,149 - Paseo de la Habana 42,12018,12149,24167,131,131
+104,99 - Alcántara,11991,11949,23940,-42,42
+15,14 - Ventura Rodríguez,11797,11403,23200,-394,394
+201,193 - Ventas,11764,10888,22652,-876,876
+270,247 - Zurbano,11603,11067,22670,-536,536
+127,119 - Méndez Álvaro,11558,11633,23191,75,75
+122,115 - Ferraz,11137,10935,22072,-202,202
+203,195 - Avenida de América 1,10988,10168,21156,-820,820
+37,33 - Carretas,10967,10967,21934,0,0
+215,207 - Remonta,10955,10912,21867,-43,43
+93,88 - Embajada de Italia,10942,10553,21495,-389,389
+108,103 - Ortega y Gasset,10936,11162,22098,226,226
+158,135 - Plaza de San Juan de la Cruz,10838,9534,20372,-1304,1304
+87,82 - Niño Jesús,10775,10961,21736,186,186
+216,208 - Plaza de Castilla,10596,10108,20704,-488,488
+35,31 - Calle Mayor,10547,10360,20907,-187,187
+218,210 - Tres Cruces,10370,10171,20541,-199,199
+195,187 - Alcalá-Ventas,10289,10318,20607,29,29
+148,147 - Doctor Arce 45,10286,9149,19435,-1137,1137
+100,95 - Villanueva,10205,10159,20364,-46,46
+36,32 - Plaza de la Provincia,10144,10772,20916,628,628
+246,238 - San Germán 5,10133,9518,19651,-615,615
+205,197 - Parque Berlín,10103,9484,19587,-619,619
+101,96 - Castelló,9998,8773,18771,-1225,1225
+151,136 - Castellana 106,9925,9900,19825,-25,25
+150,133 - Raimundo Fernández,9760,9364,19124,-396,396
+2,1b - Puerta del Sol B,9730,9046,18776,-684,684
+11,10 - Marqués de la Ensenada,9719,9328,19047,-391,391
+72,68 - Espalter,9712,9952,19664,240,240
+109,104 - Castellana,9620,8754,18374,-866,866
+140,156 - Sor Ángela de la Cruz,9604,8710,18314,-894,894
+242,234 - Marqués de Corbera 52,9599,9979,19578,380,380
+137,157 - Castellana 164,9575,8930,18505,-645,645
+249,241 - Camilo José Cela,9472,9103,18575,-369,369
+107,102 - Velázquez,9443,9288,18731,-155,155
+193,185 - Quinta Fuente del Berro,9436,8458,17894,-978,978
+120,113 - Pintor Rosales,9422,9260,18682,-162,162
+227,219 - Marroquina,9276,10268,19544,992,992
+85,80b - Atocha B,9225,10359,19584,1134,1134
+112,106b - Colón B,9216,8188,17404,-1028,1028
+196,188 - Puente de Ventas,9212,9242,18454,30,30
+217,209 - Plaza de Castilla 2,9183,9396,18579,213,213
+223,215 - Gutierre de Cetina,9161,9622,18783,461,461
+117,111a - Arcipreste de Hita A,9151,8894,18045,-257,257
+105,100 - Palacio de Deportes,9134,8570,17704,-564,564
+265,257 - INEF,9099,9228,18327,129,129
+159,139 - José Gutiérrez Abascal,9094,8414,17508,-680,680
+234,226 - Sierra Toledana,9046,9686,18732,640,640
+188,180 - Méndez Álvaro,8909,9339,18248,430,430
+97,92 - Claudio Coello,8563,8535,17098,-28,28
+211,203 - San Francisco de Sales,8372,8531,16903,159,159
+152,137 - Plaza de la República Argentina,8160,7279,15439,-881,881
+191,183 - Doctor Esquerdo-Hermosilla,8141,8184,16325,43,43
+138,158 - Alberto Alcocer,8109,7878,15987,-231,231
+111,106a - Colón A,8058,7126,15184,-932,932
+237,229 - C.D. Concepción,8018,8194,16212,176,176
+262,254 - Pío XII,8017,7942,15959,-75,75
+165,141 - Paseo de la Castellana - Glorieta de Emilio Castelar,7927,7702,15629,-225,225
+61,57 - Santa Cruz del Marcenado,7924,7743,15667,-181,181
+119,112 - Paseo de Moret,7618,7567,15185,-51,51
+98,93 - Plaza de Colón,7583,7000,14583,-583,583
+256,248 - Torre Cepsa,7443,6623,14066,-820,820
+89,84 - Valderribas,7351,7812,15163,461,461
+174,166 - Segovia 26,7157,6817,13974,-340,340
+222,214 - Condesa de Venadito,7122,6878,14000,-244,244
+268,260 - Facultad Biología,6889,6864,13753,-25,25
+228,220 - Plaza del Encuentro,6834,7259,14093,425,425
+60,56 - Plaza del Carmen,6775,6824,13599,49,49
+43,Plaza de la Cebada,6459,6566,13025,107,107
+88,83 - Pío Baroja,6218,5807,12025,-411,411
+173,159 - Paseo de la Habana 63,5992,6078,12070,86,86
+269,261 - Facultad Derecho,5969,6140,12109,171,171
+250,242 - Avenida Bruselas,5952,5957,11909,5,5
+261,253 - Doctor Fleming,5929,5735,11664,-194,194
+245,237 - Pablo Iglesias,5828,5885,11713,57,57
+57,Plaza de Lavapiés,5557,5628,11185,71,71
+29,25b - Plaza de Celenque B,5429,4654,10083,-775,775
+233,225 - Doctor Lozano,5403,6224,11627,821,821
+144,148 - Serrano 210,5385,4620,10005,-765,765
+239,231 - Derechos Humanos,5325,5384,10709,59,59
+175,Segovia 45,5291,5483,10774,192,192
+238,230 - Carlota O’Neill,5290,5486,10776,196,196
+263,255 - López Pozas,4965,4652,9617,-313,313
+267,259 - Ciudad Universitaria 2,4767,4611,9378,-156,156
+41,Plaza de San Francisco,4721,4986,9707,265,265
+248,240 - Avenida Brasilia,4714,4717,9431,3,3
+258,250 - Serrano 113,4528,4049,8577,-479,479
+49,Puerta de Toledo,4505,4676,9181,171,171
+90,Puerta de Madrid,4467,4388,8855,-79,79
+45,Antón Martín,4301,4326,8627,25,25
+13,San Hermenegildo,4183,4259,8442,76,76
+21,20a - Banco de España A,4156,4109,8265,-47,47
+220,Marqués de Vadillo,4149,4623,8772,474,474
+260,252 - Chamartín,4115,3685,7800,-430,430
+208,Quevedo,4075,4312,8387,237,237
+28,25a - Plaza de Celenque A,4065,3213,7278,-852,852
+62,Augusto Figueroa,4015,4067,8082,52,52
+64,Plaza de la Independencia,3997,4041,8038,44,44
+59,Plaza de San Ildefonso,3876,3886,7762,10,10
+83,Puerta de Granada,3846,3892,7738,46,46
+30,Plaza de las Salesas,3810,3842,7652,32,32
+46,Santa Isabel,3800,3819,7619,19,19
+266,258 - Ciudad Universitaria 1,3762,3553,7315,-209,209
+257,249 - Manuel Caldeiro,3742,3832,7574,90,90
+19,Plaza de Pedro Zerolo,3742,3783,7525,41,41
+189,Retiro-Ibiza,3722,3686,7408,-36,36
+254,Santa Engracia 87,3722,3752,7474,30,30
+9,Alonso Martínez,3717,3792,7509,75,75
+204,Prosperidad,3688,3703,7391,15,15
+132,Paseo de la Florida,3680,4019,7699,339,339
+149,Glorieta de los Cuatro Caminos,3664,3575,7239,-89,89
+129,Santa María de la Cabeza,3647,3753,7400,106,106
+79,Menéndez Pelayo,3631,3730,7361,99,99
+42,Plaza de los Carros,3559,3770,7329,211,211
+229,221 - Pavones,3556,3919,7475,363,363
+170,Juan Bravo 50,3511,3503,7014,-8,8
+169,Manuel Silvela,3500,3608,7108,108,108
+168,Fernando el Católico,3484,3602,7086,118,118
+224,Puerta del Ángel,3450,3786,7236,336,336
+157,Santa Engracia 127,3444,3462,6906,18,18
+58,Barceló,3432,3474,6906,42,42
+163,General Álvarez de Castro,3316,3420,6736,104,104
+52,Embajadores 2,3255,3310,6565,55,55
+225,217 - Pedro Rico,3231,3069,6300,-162,162
+78,Puerta del Pacífico,3204,3297,6501,93,93
+38,Jacinto Benavente,3177,3235,6412,58,58
+147,150 - Castellana frente a Hermanos Pinzón,3113,3126,6239,13,13
+244,Paseo Imperial,3071,3225,6296,154,154
+17,San Bernardo,3019,3059,6078,40,40
+135,Entrada Matadero,2973,3337,6310,364,364
+145,Orense 12,2937,2874,5811,-63,63
+48,Plaza de Nelson Mandela,2937,2993,5930,56,56
+161,José Abascal,2926,2881,5807,-45,45
+74,Puerta del Doce de Octubre,2885,2862,5747,-23,23
+253,Galileo,2879,2866,5745,-13,13
+103,Plaza de Felipe II,2877,2883,5760,6,6
+65,Narváez,2877,2895,5772,18,18
+56,Plaza de Santa Ana,2871,2948,5819,77,77
+131,Guzmán el Bueno,2864,2900,5764,36,36
+210,Parque Santander,2829,2964,5793,135,135
+179,Embajadores-Cáceres,2828,2866,5694,38,38
+84,Atocha A,2815,2938,5753,123,123
+76,Sainz de Baranda,2775,2751,5526,-24,24
+108,Ortega y Gasset,2754,2791,5545,37,37
+183,Jaime el Conquistador,2753,2844,5597,91,91
+67,Ibiza,2747,2803,5550,56,56
+164,General Martínez Campos,2733,2707,5440,-26,26
+7,Colegio Arquitectos,2710,2732,5442,22,22
+6,Fuencarral,2707,2710,5417,3,3
+136,Paseo de las Delicias,2698,2656,5354,-42,42
+16,San Vicente Ferrer,2665,2700,5365,35,35
+55,Ronda de Atocha,2664,2727,5391,63,63
+14,Conde Duque,2660,2685,5345,25,25
+53,Casa Encendida,2655,2850,5505,195,195
+128,Palos de la Frontera,2650,2749,5399,99,99
+133,Metro Pirámides,2650,2719,5369,69,69
+31,Huertas,2644,2678,5322,34,34
+26,Santo Domingo,2627,2657,5284,30,30
+32,Sevilla,2601,2639,5240,38,38
+231,Ermita Santo,2588,2673,5261,85,85
+91,Cibeles,2583,2446,5029,-137,137
+77,Plaza de los Astros,2563,2559,5122,-4,4
+232,Caramuel,2550,2742,5292,192,192
+197,Avenida Donostiarra,2528,2538,5066,10,10
+15,Ventura Rodríguez,2524,2597,5121,73,73
+50,Ribera de Curtidores,2508,2579,5087,71,71
+160,Cea Bermúdez,2501,2431,4932,-70,70
+139,San Germán 57,2500,2459,4959,-41,41
+172,Colombia,2471,2402,4873,-69,69
+71,Almadén,2470,2499,4969,29,29
+178,Paseo de la Esperanza,2468,2514,4982,46,46
+75,Doce de Octubre,2458,2484,4942,26,26
+95,General Pardiñas,2433,2341,4774,-92,92
+207,Fernando el Católico,2422,2459,4881,37,37
+80,Puerta de Mariano de Cavia,2402,2412,4814,10,10
+4,Plaza Conde Suchil,2394,2435,4829,41,41
+66,O'Donnell,2388,2352,4740,-36,36
+206,Rubén Darío,2386,2385,4771,-1,1
+181,Puente Praga,2366,2389,4755,23,23
+18,Carlos Cambronero,2364,2364,4728,0,0
+235,San Delfín,2350,2505,4855,155,155
+154,Paseo de la Castellana con Raimundo Fernández,2349,2167,4516,-182,182
+184,Beata,2349,2368,4717,19,19
+221,Glorieta de Cádiz,2346,2482,4828,136,136
+187,Puente de Vallecas,2340,2457,4797,117,117
+186,Junta Municipal Retiro,2328,2427,4755,99,99
+212,Cuatro Caminos 2,2295,2283,4578,-12,12
+73,Puerta del Ángel Caído,2292,2345,4637,53,53
+96,Príncipe de Vergara,2288,2288,4576,0,0
+198,Velázquez-Diego de León,2276,2260,4536,-16,16
+194,General Pardiñas,2274,2263,4537,-11,11
+202,Avenida de América 2,2250,2212,4462,-38,38
+8,Hortaleza,2247,2296,4543,49,49
+1,Puerta del Sol A,2243,2233,4476,-10,10
+92,Ayala,2230,2251,4481,21,21
+44,Conde de Romanones,2212,2293,4505,81,81
+81,Conde de Casal,2209,2335,4544,126,126
+10,Plaza de San Miguel,2200,2247,4447,47,47
+51,Embajadores 1,2192,2228,4420,36,36
+54,Museo Reina Sofía,2173,2193,4366,20,20
+47,Jesús y María,2160,2202,4362,42,42
+180,Delicias,2151,2144,4295,-7,7
+134,Paseo de la Esperanza,2139,2237,4376,98,98
+192,Marqués de Zafra,2129,2114,4243,-15,15
+114,Mártires Concepcionistas,2125,2056,4181,-69,69
+118,Arcipreste de Hita B,2108,2117,4225,9,9
+126,Juan Martín,2106,2127,4233,21,21
+99,Biblioteca Nacional,2100,2070,4170,-30,30
+113,Columela,2099,2067,4166,-32,32
+34,San Quintín,2088,1998,4086,-90,90
+156,Bravo Murillo 44,2084,1963,4047,-121,121
+241,Marqués de Corbera 12,2070,2120,4190,50,50
+25,Jacometrezo,2069,2106,4175,37,37
+182,Madrid Río-Yeserías,2068,2123,4191,55,55
+162,Velázquez 130,2051,1958,4009,-93,93
+12,San Andrés,2044,2058,4102,14,14
+176,Batalla del Salado,2043,2182,4225,139,139
+142,General Perón 1,2039,1921,3960,-118,118
+69,Antonio Maura,2036,1903,3939,-133,133
+166,Diego de León 52,2029,1978,4007,-51,51
+200,Avenida de los Toreros,2028,1830,3858,-198,198
+214,Metro Tetuán,2026,1951,3977,-75,75
+3,Miguel Moya,2023,2065,4088,42,42
+86,Cuesta de Moyano,2017,2048,4065,31,31
+247,Francos Rodríguez,2006,1923,3929,-83,83
+199,Diego de león,2004,2007,4011,3,3
+219,Desengaño,2004,2052,4056,48,48
+171,Ortega y Gasset 87,1987,1929,3916,-58,58
+106,Jorge Juan,1983,1983,3966,0,0
+155,María Francisca 1,1981,2000,3981,19,19
+177,Pirámides,1960,2061,4021,101,101
+125,Altamirano,1952,1988,3940,36,36
+89,Valderribas,1943,1988,3931,45,45
+153,Agustín de Betancourt,1920,1765,3685,-155,155
+213,Estrecho,1908,1853,3761,-55,55
+236,Concordia,1901,1925,3826,24,24
+63,Plaza de Juan Pujol,1899,1908,3807,9,9
+39,Plaza del Cordón,1895,1896,3791,1,1
+121,Quintana,1871,1947,3818,76,76
+110,Serrano,1849,1779,3628,-70,70
+230,Antonio López,1807,1933,3740,126,126
+143,General Perón con Poeta Joan Maragall,1801,1681,3482,-120,120
+190,Parque Roma,1780,1735,3515,-45,45
+27,Palacio de Oriente,1779,1672,3451,-107,107
+33,Marqués de Cubas,1773,1800,3573,27,27
+245,Pablo Iglesias,1756,1716,3472,-40,40
+94,Conde Peñalver,1722,1688,3410,-34,34
+82,Pedro Bosch,1720,1814,3534,94,94
+252,Hospital Clínico,1715,1597,3312,-118,118
+130,Santa Engracia 14,1707,1768,3475,61,61
+209,Canal,1700,1633,3333,-67,67
+87,Niño Jesús,1676,1693,3369,17,17
+251,Cartagena,1665,1701,3366,36,36
+5,Malasaña,1635,1658,3293,23,23
+264,Reina Victoria,1627,1556,3183,-71,71
+93,Embajada de Italia,1624,1552,3176,-72,72
+158,Plaza de San Juan de la Cruz,1624,1444,3068,-180,180
+40,Plaza Ramales,1621,1655,3276,34,34
+185,Legazpi,1588,1706,3294,118,118
+122,Ferraz,1582,1653,3235,71,71
+259,Corazón de María,1573,1534,3107,-39,39
+226,Camino Vinateros,1566,1669,3235,103,103
+193,Quinta Fuente del Berro,1548,1313,2861,-235,235
+102,Alcalá,1541,1398,2939,-143,143
+243,Embajadores 191,1532,1679,3211,147,147
+205,Parque Berlín,1512,1458,2970,-54,54
+127,Méndez Álvaro,1494,1460,2954,-34,34
+215,Remonta,1493,1527,3020,34,34
+196,Puente de Ventas,1480,1474,2954,-6,6
+146,Paseo de la Habana 42,1458,1448,2906,-10,10
+148,Doctor Arce 45,1454,1253,2707,-201,201
+201,Ventas,1449,1320,2769,-129,129
+218,Tres Cruces,1424,1398,2822,-26,26
+116,Moncloa,1421,1420,2841,-1,1
+211,San Francisco de Sales,1411,1419,2830,8,8
+227,Marroquina,1409,1562,2971,153,153
+100,Villanueva,1409,1418,2827,9,9
+72,Espalter,1399,1376,2775,-23,23
+104,Alcántara,1369,1363,2732,-6,6
+217,Plaza de Castilla 2,1364,1335,2699,-29,29
+101,Castelló,1364,1238,2602,-126,126
+240,José María Pereda,1352,1401,2753,49,49
+167,Castellana 42,1342,1329,2671,-13,13
+105,Palacio de Deportes,1341,1304,2645,-37,37
+140,Sor Ángela de la Cruz,1331,1190,2521,-141,141
+117,Arcipreste de Hita A,1326,1288,2614,-38,38
+35,Calle Mayor,1312,1329,2641,17,17
+203,Avenida de América 1,1312,1220,2532,-92,92
+107,Velázquez,1310,1336,2646,26,26
+37,Carretas,1309,1336,2645,27,27
+191,Doctor Esquerdo-Hermosilla,1297,1320,2617,23,23
+112,Colón B,1295,1161,2456,-134,134
+137,Castellana 164,1290,1264,2554,-26,26
+2,Puerta del Sol B,1281,1295,2576,14,14
+36,Plaza de la Provincia,1276,1347,2623,71,71
+237,C.D. Concepción,1276,1282,2558,6,6
+195,Alcalá-Ventas,1275,1275,2550,0,0
+234,Sierra Toledana,1257,1336,2593,79,79
+270,Zurbano,1251,1151,2402,-100,100
+11,Marqués de la Ensenada,1246,1235,2481,-11,11
+268,Facultad Biología,1198,1176,2374,-22,22
+216,Plaza de Castilla,1194,1154,2348,-40,40
+97,Claudio Coello,1192,1211,2403,19,19
+141,Orense 36,1173,961,2134,-212,212
+246,San Germán 5,1171,1105,2276,-66,66
+174,Segovia 26,1165,1173,2338,8,8
+242,Marqués de Corbera 52,1165,1221,2386,56,56
+120,Pintor Rosales,1161,1111,2272,-50,50
+262,Pío XII,1138,1045,2183,-93,93
+147,Castellana frente a Hermanos Pinzón,1113,1141,2254,28,28
+223,Gutierre de Cetina,1112,1103,2215,-9,9
+61,Santa Cruz del Marcenado,1089,1085,2174,-4,4
+85,Atocha B,1083,1221,2304,138,138
+152,Plaza de la República Argentina,1081,996,2077,-85,85
+109,Castellana,1076,926,2002,-150,150
+150,Raimundo Fernández,1075,1025,2100,-50,50
+159,José Gutiérrez Abascal,1071,1004,2075,-67,67
+188,Méndez Álvaro,1065,1040,2105,-25,25
+143,153 - General Perón con Poeta Joan Maragall,1063,1034,2097,-29,29
+265,INEF,1055,1104,2159,49,49
+165,Paseo de la Castellana - Glorieta de Emilio Castelar,1055,1041,2096,-14,14
+151,Castellana 106,1042,997,2039,-45,45
+256,Torre Cepsa,1010,780,1790,-230,230
+249,Camilo José Cela,1000,959,1959,-41,41
+250,Avenida Bruselas,988,976,1964,-12,12
+111,Colón A,974,885,1859,-89,89
+60,Plaza del Carmen,973,995,1968,22,22
+269,Facultad Derecho,936,995,1931,59,59
+138,Alberto Alcocer,935,953,1888,18,18
+261,Doctor Fleming,915,869,1784,-46,46
+228,Plaza del Encuentro,909,954,1863,45,45
+173,Paseo de la Habana 63,896,854,1750,-42,42
+98,Plaza de Colón,883,876,1759,-7,7
+119,Paseo de Moret,863,859,1722,-4,4
+88,Pío Baroja,862,856,1718,-6,6
+144,Serrano 210,860,763,1623,-97,97
+142,152 - General Perón 1,812,761,1573,-51,51
+267,Ciudad Universitaria 2,807,732,1539,-75,75
+233,Doctor Lozano,792,910,1702,118,118
+222,Condesa de Venadito,784,716,1500,-68,68
+248,Avenida Brasilia,662,663,1325,1,1
+263,López Pozas,655,601,1256,-54,54
+260,Chamartín,646,540,1186,-106,106
+239,Derechos Humanos,643,590,1233,-53,53
+238,Carlota O’Neill,616,639,1255,23,23
+258,Serrano 113,603,521,1124,-82,82
+29,Plaza de Celenque B,534,513,1047,-21,21
+229,Pavones,490,540,1030,50,50
+257,Manuel Caldeiro,446,405,851,-41,41
+225,Pedro Rico,437,413,850,-24,24
+28,Plaza de Celenque A,411,372,783,-39,39
+266,Ciudad Universitaria 1,393,341,734,-52,52
+115,Marqués de Salamanca,380,384,764,4,4
+506,5 - Fuencarral,115,102,217,-13,13
+505,4 - Malasaña,83,70,153,-13,13
+503,2 - Miguel Moya,81,70,151,-11,11
+504,3 - Plaza Conde Suchil,63,62,125,-1,1
+508,7 - Hortaleza,60,49,109,-11,11
+243,Cartagena,52,0,52,-52,52
+167,167 - Segovia 45,45,0,45,-45,45
+507,6 - Colegio Arquitectos,42,41,83,-1,1
+8,Alonso Martínez,39,0,39,-39,39
+161,Paseo de la Florida,39,0,39,-39,39
+167,Segovia 45,38,0,38,-38,38
+212,212 - Marqués de Vadillo,37,0,37,-37,37
+196,Prosperidad,35,0,35,-35,35
+60,Plaza de la Independencia,34,0,34,-34,34
+55,55 - Plaza de San Ildefonso,32,0,32,-32,32
+246,Santa Engracia 87,29,0,29,-29,29
+155,San Germán 57,28,0,28,-28,28
+161,161 - Paseo de la Florida,28,0,28,-28,28
+74,Puerta del Pacífico,27,0,27,-27,27
+8,8 - Alonso Martínez,27,0,27,-27,27
+214,214 - Condesa de Venadito,26,0,26,-26,26
+53,Plaza de Lavapiés,26,0,26,-26,26
+164,Paseo de las Delicias,26,0,26,-26,26
+178,Junta Municipal Retiro,25,0,25,-25,25
+232,232 - José María Pereda,25,0,25,-25,25
+140,Velázquez 130,25,0,25,-25,25
+216,216 - Puerta del Ángel,24,0,24,-24,24
+190,Velázquez-Diego de León,24,0,24,-24,24
+41,41 - Antón Martín,24,0,24,-24,24
+60,60 - Plaza de la Independencia,24,0,24,-24,24
+223,223 - Ermita Santo,23,0,23,-23,23
+55,Plaza de San Ildefonso,23,0,23,-23,23
+127,Fernando el Católico,23,0,23,-23,23
+204,Cuatro Caminos 2,22,0,22,-22,22
+196,196 - Prosperidad,22,0,22,-22,22
+37,Plaza de San Francisco,22,0,22,-22,22
+18,Plaza de Pedro Zerolo,22,0,22,-22,22
+9,Plaza de San Miguel,22,0,22,-22,22
+130,Santa Engracia 127,22,0,22,-22,22
+53,53 - Plaza de Lavapiés,21,0,21,-21,21
+151,151 - Orense 12,21,0,21,-21,21
+85,Puerta de Madrid,21,0,21,-21,21
+202,Parque Santander,21,0,21,-21,21
+214,Condesa de Venadito,21,0,21,-21,21
+189,189 - Avenida Donostiarra,20,0,20,-20,20
+12,San Hermenegildo,20,0,20,-20,20
+121,Santa María de la Cabeza,20,0,20,-20,20
+103,Ortega y Gasset,20,0,20,-20,20
+233,Marqués de Corbera 12,19,0,19,-19,19
+82,Niño Jesús,19,0,19,-19,19
+39,39 - Plaza de la Cebada,19,0,19,-19,19
+18,18 - Plaza de Pedro Zerolo,19,0,19,-19,19
+138,Paseo de la Castellana con Raimundo Fernández,19,0,19,-19,19
+198,Rubén Darío,19,0,19,-19,19
+181,Retiro-Ibiza,19,0,19,-19,19
+248,Torre Cepsa,18,0,18,-18,18
+171,Embajadores-Cáceres,18,0,18,-18,18
+165,Entrada Matadero,18,0,18,-18,18
+69,Puerta del Ángel Caído,18,0,18,-18,18
+200,Quevedo,18,0,18,-18,18
+65,65 - Antonio Maura,18,0,18,-18,18
+42,42 - Santa Isabel,18,0,18,-18,18
+97,Alcalá,18,0,18,-18,18
+26,26 - Plaza de las Salesas,18,0,18,-18,18
+115,Ferraz,18,0,18,-18,18
+88,88 - Embajada de Italia,18,0,18,-18,18
+246,246 - Santa Engracia 87,18,0,18,-18,18
+213,213 - Glorieta de Cádiz,18,0,18,-18,18
+151,Orense 12,18,0,18,-18,18
+160,160 - Colombia,18,0,18,-18,18
+63,Ibiza,17,0,17,-17,17
+65,Antonio Maura,17,0,17,-17,17
+207,Remonta,17,0,17,-17,17
+132,Glorieta de los Cuatro Caminos,17,0,17,-17,17
+16,16 - San Bernardo,17,0,17,-17,17
+145,Ortega y Gasset 87,17,0,17,-17,17
+7,Hortaleza,17,0,17,-17,17
+48,48 - Embajadores 2,17,0,17,-17,17
+75,Menéndez Pelayo,17,0,17,-17,17
+213,Glorieta de Cádiz,17,0,17,-17,17
+27,27 - Huertas,17,0,17,-17,17
+14,Ventura Rodríguez,17,0,17,-17,17
+12,12 - San Hermenegildo,17,0,17,-17,17
+126,General Álvarez de Castro,16,0,16,-16,16
+126,126 - General Álvarez de Castro,16,0,16,-16,16
+144,144 - Juan Bravo 50,16,0,16,-16,16
+189,Avenida Donostiarra,16,0,16,-16,16
+54,Barceló,16,0,16,-16,16
+177,Legazpi,16,0,16,-16,16
+86,Cibeles,16,0,16,-16,16
+123,Guzmán el Bueno,16,0,16,-16,16
+39,Plaza de la Cebada,16,0,16,-16,16
+54,54 - Barceló,16,0,16,-16,16
+74,74 - Puerta del Pacífico,16,0,16,-16,16
+86,86 - Cibeles,16,0,16,-16,16
+120,Palos de la Frontera,16,0,16,-16,16
+26,Plaza de las Salesas,16,0,16,-16,16
+131,Bravo Murillo 44,16,0,16,-16,16
+15,San Vicente Ferrer,16,0,16,-16,16
+160,Colombia,15,0,15,-15,15
+116b,116b - Plaza de España B,15,0,15,-15,15
+128,Cea Bermúdez,15,0,15,-15,15
+130,130 - Santa Engracia 127,15,0,15,-15,15
+169,169 - Pirámides,15,0,15,-15,15
+200,200 - Quevedo,15,0,15,-15,15
+58,Augusto Figueroa,15,0,15,-15,15
+230,230 - Carlota O’Neill,15,0,15,-15,15
+233,233 - Marqués de Corbera 12,15,0,15,-15,15
+125,General Martínez Campos,15,0,15,-15,15
+58,58 - Augusto Figueroa,15,0,15,-15,15
+129,José Abascal,15,0,15,-15,15
+190,190 - Velázquez-Diego de León,15,0,15,-15,15
+164,164 - Paseo de las Delicias,15,0,15,-15,15
+239,239 - Francos Rodríguez,14,0,14,-14,14
+88,Embajada de Italia,14,0,14,-14,14
+118,118 - Juan Martín,14,0,14,-14,14
+232,José María Pereda,14,0,14,-14,14
+194,194 - Avenida de América 2,14,0,14,-14,14
+156,156 - Sor Ángela de la Cruz,14,0,14,-14,14
+45,45 - Puerta de Toledo,14,0,14,-14,14
+197,Parque Berlín,14,0,14,-14,14
+172,172 - Delicias,14,0,14,-14,14
+223,Ermita Santo,14,0,14,-14,14
+239,Francos Rodríguez,14,0,14,-14,14
+67,Almadén,14,0,14,-14,14
+251,Corazón de María,14,0,14,-14,14
+80a,80a - Atocha A,14,0,14,-14,14
+121,121 - Santa María de la Cabeza,13,0,13,-13,13
+502,1b - Puerta del Sol B,13,10,23,-3,3
+180,180 - Méndez Álvaro,13,0,13,-13,13
+23,23 - Santo Domingo,13,0,13,-13,13
+118,Juan Martín,13,0,13,-13,13
+218,Camino Vinateros,13,0,13,-13,13
+79,79 - Puerta de Granada,13,0,13,-13,13
+61,Narváez,13,0,13,-13,13
+11,San Andrés,13,0,13,-13,13
+98,Plaza de Felipe II,13,0,13,-13,13
+42,Santa Isabel,13,0,13,-13,13
+29,29 - Marqués de Cubas,13,0,13,-13,13
+124,Manuel Silvela,13,0,13,-13,13
+226,Sierra Toledana,13,0,13,-13,13
+90,General Pardiñas,13,0,13,-13,13
+211,Desengaño,13,0,13,-13,13
+169,Pirámides,13,0,13,-13,13
+30,San Quintín,13,0,13,-13,13
+4,Malasaña,13,0,13,-13,13
+2,Miguel Moya,13,0,13,-13,13
+149,Paseo de la Habana 42,13,0,13,-13,13
+51,51 - Ronda de Atocha,13,0,13,-13,13
+89,Conde Peñalver,13,0,13,-13,13
+212,Marqués de Vadillo,13,0,13,-13,13
+224,Caramuel,13,0,13,-13,13
+174,174 - Madrid Río-Yeserías,13,0,13,-13,13
+501,1a - Puerta del Sol A,12,8,20,-4,4
+87,87 - Ayala,12,0,12,-12,12
+175,Jaime el Conquistador,12,0,12,-12,12
+230,Carlota O’Neill,12,0,12,-12,12
+238,San Germán 5,12,0,12,-12,12
+132,132 - Glorieta de los Cuatro Caminos,12,0,12,-12,12
+175,175 - Jaime el Conquistador,12,0,12,-12,12
+79,Puerta de Granada,12,0,12,-12,12
+81,Cuesta de Moyano,12,0,12,-12,12
+44,Plaza de Nelson Mandela,12,0,12,-12,12
+51,Ronda de Atocha,12,0,12,-12,12
+245,245 - Galileo,12,0,12,-12,12
+107,Columela,12,0,12,-12,12
+29,Marqués de Cubas,12,0,12,-12,12
+227,227 - Concordia,12,0,12,-12,12
+153,General Perón con Poeta Joan Maragall,12,0,12,-12,12
+224,224 - Caramuel,12,0,12,-12,12
+28,28 - Sevilla,12,0,12,-12,12
+44,44 - Plaza de Nelson Mandela,12,0,12,-12,12
+236,Paseo Imperial,12,0,12,-12,12
+1a,1a - Puerta del Sol A,12,0,12,-12,12
+124,124 - Manuel Silvela,12,0,12,-12,12
+9,9 - Plaza de San Miguel,12,0,12,-12,12
+168,Batalla del Salado,12,0,12,-12,12
+210,Tres Cruces,12,0,12,-12,12
+16,San Bernardo,12,0,12,-12,12
+142,Castellana 42,11,0,11,-11,11
+63,63 - Ibiza,11,0,11,-11,11
+146,146 - María Francisca 1,11,0,11,-11,11
+91,91 - Príncipe de Vergara,11,0,11,-11,11
+129,129 - José Abascal,11,0,11,-11,11
+73,73 - Plaza de los Astros,11,0,11,-11,11
+40,40 - Conde de Romanones,11,0,11,-11,11
+199,199 - Fernando el Católico,11,0,11,-11,11
+215,215 - Gutierre de Cetina,11,0,11,-11,11
+6,6 - Colegio Arquitectos,11,0,11,-11,11
+45,Puerta de Toledo,11,0,11,-11,11
+144,Juan Bravo 50,11,0,11,-11,11
+119,119 - Méndez Álvaro,11,0,11,-11,11
+76,Puerta de Mariano de Cavia,11,0,11,-11,11
+241,241 - Camilo José Cela,11,0,11,-11,11
+222,Antonio López,11,0,11,-11,11
+205,205 - Estrecho,11,0,11,-11,11
+67,67 - Almadén,11,0,11,-11,11
+125,125 - General Martínez Campos,11,0,11,-11,11
+112,Paseo de Moret,11,0,11,-11,11
+154,Orense 36,11,0,11,-11,11
+245,Galileo,11,0,11,-11,11
+5,5 - Fuencarral,11,0,11,-11,11
+6,Colegio Arquitectos,10,0,10,-10,10
+43,Jesús y María,10,0,10,-10,10
+94,Biblioteca Nacional,10,0,10,-10,10
+84,84 - Valderribas,10,0,10,-10,10
+210,210 - Tres Cruces,10,0,10,-10,10
+236,236 - Paseo Imperial,10,0,10,-10,10
+211,211 - Desengaño,10,0,10,-10,10
+241,Camilo José Cela,10,0,10,-10,10
+93,93 - Plaza de Colón,10,0,10,-10,10
+234,234 - Marqués de Corbera 52,10,0,10,-10,10
+105,105 - Serrano,10,0,10,-10,10
+172,Delicias,10,0,10,-10,10
+28,Sevilla,10,0,10,-10,10
+89,89 - Conde Peñalver,10,0,10,-10,10
+201,Canal,10,0,10,-10,10
+222,222 - Antonio López,10,0,10,-10,10
+85,85 - Puerta de Madrid,10,0,10,-10,10
+170,Paseo de la Esperanza,10,0,10,-10,10
+61,61 - Narváez,10,0,10,-10,10
+162,Metro Pirámides,10,0,10,-10,10
+156,Sor Ángela de la Cruz,10,0,10,-10,10
+46,46 - Ribera de Curtidores,10,0,10,-10,10
+59,Plaza de Juan Pujol,10,0,10,-10,10
+37,37 - Plaza de San Francisco,10,0,10,-10,10
+117,Altamirano,10,0,10,-10,10
+78,78 - Pedro Bosch,10,0,10,-10,10
+215,Gutierre de Cetina,9,0,9,-9,9
+120,120 - Palos de la Frontera,9,0,9,-9,9
+225,225 - Doctor Lozano,9,0,9,-9,9
+159,Paseo de la Habana 63,9,0,9,-9,9
+186,General Pardiñas,9,0,9,-9,9
+4,4 - Malasaña,9,0,9,-9,9
+237,Pablo Iglesias,9,0,9,-9,9
+59,59 - Plaza de Juan Pujol,9,0,9,-9,9
+225,Doctor Lozano,9,0,9,-9,9
+228,228 - San Delfín,9,0,9,-9,9
+98,98 - Plaza de Felipe II,9,0,9,-9,9
+90,90 - General Pardiñas,9,0,9,-9,9
+162,162 - Metro Pirámides,9,0,9,-9,9
+81,81 - Cuesta de Moyano,9,0,9,-9,9
+108,Mártires Concepcionistas,9,0,9,-9,9
+165,165 - Entrada Matadero,9,0,9,-9,9
+38,38 - Plaza de los Carros,9,0,9,-9,9
+122,Santa Engracia 14,9,0,9,-9,9
+179,179 - Puente de Vallecas,9,0,9,-9,9
+48,Embajadores 2,9,0,9,-9,9
+41,Antón Martín,9,0,9,-9,9
+194,Avenida de América 2,9,0,9,-9,9
+72,Sainz de Baranda,9,0,9,-9,9
+110,110 - Moncloa,9,0,9,-9,9
+105,Serrano,9,0,9,-9,9
+147,Doctor Arce 45,9,0,9,-9,9
+34,Jacinto Benavente,9,0,9,-9,9
+50,50 - Museo Reina Sofía,9,0,9,-9,9
+87,Ayala,9,0,9,-9,9
+216,Puerta del Ángel,9,0,9,-9,9
+73,Plaza de los Astros,9,0,9,-9,9
+191,191 - Diego de león,9,0,9,-9,9
+261,Facultad Derecho,9,0,9,-9,9
+46,Ribera de Curtidores,9,0,9,-9,9
+166,166 - Segovia 26,8,0,8,-8,8
+27,Huertas,8,0,8,-8,8
+237,237 - Pablo Iglesias,8,0,8,-8,8
+102,Velázquez,8,0,8,-8,8
+204,204 - Cuatro Caminos 2,8,0,8,-8,8
+253,253 - Doctor Fleming,8,0,8,-8,8
+15,15 - San Vicente Ferrer,8,0,8,-8,8
+179,Puente de Vallecas,8,0,8,-8,8
+184,Marqués de Zafra,8,0,8,-8,8
+17,Carlos Cambronero,8,0,8,-8,8
+127,127 - Fernando el Católico,8,0,8,-8,8
+182,182 - Parque Roma,8,0,8,-8,8
+78,Pedro Bosch,8,0,8,-8,8
+3,Plaza Conde Suchil,8,0,8,-8,8
+38,Plaza de los Carros,8,0,8,-8,8
+36,36 - Plaza Ramales,8,0,8,-8,8
+134,134 - Agustín de Betancourt,8,0,8,-8,8
+11,11 - San Andrés,8,0,8,-8,8
+30,30 - San Quintín,8,0,8,-8,8
+70,70 - Puerta del Doce de Octubre,8,0,8,-8,8
+97,97 - Alcalá,8,0,8,-8,8
+119,Méndez Álvaro,8,0,8,-8,8
+143,Diego de León 52,8,0,8,-8,8
+256,256 - Reina Victoria,8,0,8,-8,8
+76,76 - Puerta de Mariano de Cavia,8,0,8,-8,8
+235,235 - Embajadores 191,8,0,8,-8,8
+138,138 - Paseo de la Castellana con Raimundo Fernández,8,0,8,-8,8
+140,140 - Velázquez 130,8,0,8,-8,8
+168,168 - Batalla del Salado,8,0,8,-8,8
+188,188 - Puente de Ventas,8,0,8,-8,8
+198,198 - Rubén Darío,8,0,8,-8,8
+136,Castellana 106,8,0,8,-8,8
+257,257 - INEF,8,0,8,-8,8
+146,María Francisca 1,8,0,8,-8,8
+69,69 - Puerta del Ángel Caído,8,0,8,-8,8
+197,197 - Parque Berlín,8,0,8,-8,8
+47,Embajadores 1,8,0,8,-8,8
+157,Castellana 164,8,0,8,-8,8
+109,109 - Marqués de Salamanca,8,0,8,-8,8
+181,181 - Retiro-Ibiza,8,0,8,-8,8
+52,Plaza de Santa Ana,8,0,8,-8,8
+191,Diego de león,8,0,8,-8,8
+205,Estrecho,8,0,8,-8,8
+142,142 - Castellana 42,8,0,8,-8,8
+68,68 - Espalter,7,0,7,-7,7
+185,185 - Quinta Fuente del Berro,7,0,7,-7,7
+243,243 - Cartagena,7,0,7,-7,7
+176,176 - Beata,7,0,7,-7,7
+229,C.D. Concepción,7,0,7,-7,7
+195,Avenida de América 1,7,0,7,-7,7
+96,Castelló,7,0,7,-7,7
+231,231 - Derechos Humanos,7,0,7,-7,7
+40,Conde de Romanones,7,0,7,-7,7
+195,195 - Avenida de América 1,7,0,7,-7,7
+3,3 - Plaza Conde Suchil,7,0,7,-7,7
+176,Beata,7,0,7,-7,7
+32,32 - Plaza de la Provincia,7,0,7,-7,7
+5,Fuencarral,7,0,7,-7,7
+93,Plaza de Colón,7,0,7,-7,7
+31,31 - Calle Mayor,7,0,7,-7,7
+104,104 - Castellana,7,0,7,-7,7
+238,238 - San Germán 5,7,0,7,-7,7
+254,254 - Pío XII,7,0,7,-7,7
+47,47 - Embajadores 1,7,0,7,-7,7
+192,Avenida de los Toreros,7,0,7,-7,7
+33,33 - Carretas,7,0,7,-7,7
+131,131 - Bravo Murillo 44,7,0,7,-7,7
+49,Casa Encendida,7,0,7,-7,7
+259,259 - Ciudad Universitaria 2,7,0,7,-7,7
+31,Calle Mayor,7,0,7,-7,7
+84,Valderribas,7,0,7,-7,7
+207,207 - Remonta,7,0,7,-7,7
+154,154 - Orense 36,7,0,7,-7,7
+180,Méndez Álvaro,7,0,7,-7,7
+148,Serrano 210,7,0,7,-7,7
+244,244 - Hospital Clínico,7,0,7,-7,7
+231,Derechos Humanos,7,0,7,-7,7
+188,Puente de Ventas,7,0,7,-7,7
+174,Madrid Río-Yeserías,7,0,7,-7,7
+135,Plaza de San Juan de la Cruz,7,0,7,-7,7
+206,Metro Tetuán,7,0,7,-7,7
+33,Carretas,7,0,7,-7,7
+133,Raimundo Fernández,7,0,7,-7,7
+114,Quintana,7,0,7,-7,7
+261,261 - Facultad Derecho,7,0,7,-7,7
+202,202 - Parque Santander,7,0,7,-7,7
+75,75 - Menéndez Pelayo,7,0,7,-7,7
+229,229 - C.D. Concepción,7,0,7,-7,7
+13,Conde Duque,7,0,7,-7,7
+134,Agustín de Betancourt,7,0,7,-7,7
+71,Doce de Octubre,6,0,6,-6,6
+13,13 - Conde Duque,6,0,6,-6,6
+187,187 - Alcalá-Ventas,6,0,6,-6,6
+141,Paseo de la Castellana - Glorieta de Emilio Castelar,6,0,6,-6,6
+83,Pío Baroja,6,0,6,-6,6
+234,Marqués de Corbera 52,6,0,6,-6,6
+34,34 - Jacinto Benavente,6,0,6,-6,6
+24,24 - Palacio de Oriente,6,0,6,-6,6
+208,208 - Plaza de Castilla,6,0,6,-6,6
+170,170 - Paseo de la Esperanza,6,0,6,-6,6
+152,General Perón 1,6,0,6,-6,6
+251,251 - Corazón de María,6,0,6,-6,6
+209,Plaza de Castilla 2,6,0,6,-6,6
+177,177 - Legazpi,6,0,6,-6,6
+50,Museo Reina Sofía,6,0,6,-6,6
+226,226 - Sierra Toledana,6,0,6,-6,6
+114,114 - Quintana,6,0,6,-6,6
+52,52 - Plaza de Santa Ana,6,0,6,-6,6
+206,206 - Metro Tetuán,6,0,6,-6,6
+185,Quinta Fuente del Berro,6,0,6,-6,6
+71,71 - Doce de Octubre,6,0,6,-6,6
+100,100 - Palacio de Deportes,6,0,6,-6,6
+260,Facultad Biología,6,0,6,-6,6
+62,62 - O'Donnell,6,0,6,-6,6
+123,123 - Guzmán el Bueno,6,0,6,-6,6
+104,Castellana,6,0,6,-6,6
+139,139 - José Gutiérrez Abascal,6,0,6,-6,6
+99,99 - Alcántara,6,0,6,-6,6
+227,Concordia,6,0,6,-6,6
+135,135 - Plaza de San Juan de la Cruz,6,0,6,-6,6
+122,122 - Santa Engracia 14,6,0,6,-6,6
+218,218 - Camino Vinateros,5,0,5,-5,5
+32,Plaza de la Provincia,5,0,5,-5,5
+77,Conde de Casal,5,0,5,-5,5
+186,186 - General Pardiñas,5,0,5,-5,5
+115,115 - Ferraz,5,0,5,-5,5
+157,157 - Castellana 164,5,0,5,-5,5
+150,Castellana frente a Hermanos Pinzón,5,0,5,-5,5
+91,Príncipe de Vergara,5,0,5,-5,5
+49,49 - Casa Encendida,5,0,5,-5,5
+242,Avenida Bruselas,5,0,5,-5,5
+128,128 - Cea Bermúdez,5,0,5,-5,5
+247,247 - Zurbano,5,0,5,-5,5
+136,136 - Castellana 106,5,0,5,-5,5
+184,184 - Marqués de Zafra,5,0,5,-5,5
+139,José Gutiérrez Abascal,5,0,5,-5,5
+101,Jorge Juan,5,0,5,-5,5
+72,72 - Sainz de Baranda,5,0,5,-5,5
+10,10 - Marqués de la Ensenada,5,0,5,-5,5
+10,Marqués de la Ensenada,5,0,5,-5,5
+257,INEF,5,0,5,-5,5
+240,240 - Avenida Brasilia,5,0,5,-5,5
+17,17 - Carlos Cambronero,5,0,5,-5,5
+158,Alberto Alcocer,5,0,5,-5,5
+193,193 - Ventas,5,0,5,-5,5
+220,220 - Plaza del Encuentro,5,0,5,-5,5
+145,145 - Ortega y Gasset 87,5,0,5,-5,5
+77,77 - Conde de Casal,5,0,5,-5,5
+260,260 - Facultad Biología,5,0,5,-5,5
+62,O'Donnell,5,0,5,-5,5
+219,Marroquina,5,0,5,-5,5
+255,255 - López Pozas,5,0,5,-5,5
+107,107 - Columela,5,0,5,-5,5
+7,7 - Hortaleza,5,0,5,-5,5
+111b,111b - Arcipreste de Hita B,5,0,5,-5,5
+2,2 - Miguel Moya,5,0,5,-5,5
+183,183 - Doctor Esquerdo-Hermosilla,5,0,5,-5,5
+80b,80b - Atocha B,5,0,5,-5,5
+199,Fernando el Católico,5,0,5,-5,5
+182,Parque Roma,5,0,5,-5,5
+102,102 - Velázquez,4,0,4,-4,4
+92,Claudio Coello,4,0,4,-4,4
+155,155 - San Germán 57,4,0,4,-4,4
+228,San Delfín,4,0,4,-4,4
+235,Embajadores 191,4,0,4,-4,4
+252,Chamartín,4,0,4,-4,4
+247,Zurbano,4,0,4,-4,4
+147,147 - Doctor Arce 45,4,0,4,-4,4
+171,171 - Embajadores-Cáceres,4,0,4,-4,4
+133,133 - Raimundo Fernández,4,0,4,-4,4
+106b,106b - Colón B,4,0,4,-4,4
+192,192 - Avenida de los Toreros,4,0,4,-4,4
+256,Reina Victoria,4,0,4,-4,4
+258,Ciudad Universitaria 1,4,0,4,-4,4
+57,57 - Santa Cruz del Marcenado,4,0,4,-4,4
+96,96 - Castelló,4,0,4,-4,4
+141,141 - Paseo de la Castellana - Glorieta de Emilio Castelar,4,0,4,-4,4
+253,Doctor Fleming,4,0,4,-4,4
+35,35 - Plaza del Cordón,4,0,4,-4,4
+208,Plaza de Castilla,4,0,4,-4,4
+221,221 - Pavones,4,0,4,-4,4
+178,178 - Junta Municipal Retiro,4,0,4,-4,4
+173,173 - Puente Praga,4,0,4,-4,4
+149,149 - Paseo de la Habana 42,4,0,4,-4,4
+240,Avenida Brasilia,4,0,4,-4,4
+110,Moncloa,4,0,4,-4,4
+201,201 - Canal,4,0,4,-4,4
+99,Alcántara,4,0,4,-4,4
+92,92 - Claudio Coello,4,0,4,-4,4
+143,143 - Diego de León 52,4,0,4,-4,4
+95,Villanueva,4,0,4,-4,4
+148,148 - Serrano 210,4,0,4,-4,4
+83,83 - Pío Baroja,4,0,4,-4,4
+101,101 - Jorge Juan,4,0,4,-4,4
+22,22 - Jacometrezo,3,0,3,-3,3
+244,Hospital Clínico,3,0,3,-3,3
+95,95 - Villanueva,3,0,3,-3,3
+113,113 - Pintor Rosales,3,0,3,-3,3
+221,Pavones,3,0,3,-3,3
+82,82 - Niño Jesús,3,0,3,-3,3
+43,43 - Jesús y María,3,0,3,-3,3
+1b,1b - Puerta del Sol B,3,0,3,-3,3
+889,889 - 889 - Virtual PBSC pruebas - Cerro de la Plata,3,4,7,1,1
+220,Plaza del Encuentro,3,0,3,-3,3
+36,Plaza Ramales,3,0,3,-3,3
+137,Plaza de la República Argentina,3,0,3,-3,3
+158,158 - Alberto Alcocer,3,0,3,-3,3
+103,103 - Ortega y Gasset,3,0,3,-3,3
+183,Doctor Esquerdo-Hermosilla,3,0,3,-3,3
+248,248 - Torre Cepsa,3,0,3,-3,3
+163,Paseo de la Esperanza,3,0,3,-3,3
+153,153 - General Perón con Poeta Joan Maragall,3,0,3,-3,3
+14,14 - Ventura Rodríguez,3,0,3,-3,3
+108,108 - Mártires Concepcionistas,3,0,3,-3,3
+242,242 - Avenida Bruselas,3,0,3,-3,3
+159,159 - Paseo de la Habana 63,3,0,3,-3,3
+173,Puente Praga,3,0,3,-3,3
+113,Pintor Rosales,2,0,2,-2,2
+254,Pío XII,2,0,2,-2,2
+217,217 - Pedro Rico,2,0,2,-2,2
+100,Palacio de Deportes,2,0,2,-2,2
+203,203 - San Francisco de Sales,2,0,2,-2,2
+109,Marqués de Salamanca,2,0,2,-2,2
+94,94 - Biblioteca Nacional,2,0,2,-2,2
+187,Alcalá-Ventas,2,0,2,-2,2
+203,San Francisco de Sales,2,0,2,-2,2
+250,250 - Serrano 113,2,0,2,-2,2
+163,163 - Paseo de la Esperanza,2,0,2,-2,2
+35,Plaza del Cordón,2,0,2,-2,2
+137,137 - Plaza de la República Argentina,2,0,2,-2,2
+209,209 - Plaza de Castilla 2,2,0,2,-2,2
+258,258 - Ciudad Universitaria 1,2,0,2,-2,2
+117,117 - Altamirano,2,0,2,-2,2
+219,219 - Marroquina,2,0,2,-2,2
+56,Plaza del Carmen,2,0,2,-2,2
+25a,25a - Plaza de Celenque A,2,0,2,-2,2
+193,Ventas,2,0,2,-2,2
+112,112 - Paseo de Moret,2,0,2,-2,2
+111a,111a - Arcipreste de Hita A,1,0,1,-1,1
+116a,116a - Plaza de España A,1,0,1,-1,1
+252,252 - Chamartín,1,0,1,-1,1
+250,Serrano 113,1,0,1,-1,1
+217,Pedro Rico,1,0,1,-1,1
+152,152 - General Perón 1,1,0,1,-1,1
+150,150 - Castellana frente a Hermanos Pinzón,1,0,1,-1,1
+20,19 - Prim,0,7,7,7,7
