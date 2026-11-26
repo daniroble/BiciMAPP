@@ -1,0 +1,16 @@
+weekday,weekday_name,hour,min,max,nunique,count
+0,Monday,7,59,59,1,154
+0,Monday,8,59,59,1,237
+0,Monday,9,59,59,1,94
+1,Tuesday,7,59,59,1,227
+1,Tuesday,8,59,59,1,410
+1,Tuesday,9,59,59,1,160
+2,Wednesday,7,59,59,1,252
+2,Wednesday,8,59,59,1,398
+2,Wednesday,9,59,59,1,162
+3,Thursday,7,59,59,1,226
+3,Thursday,8,59,59,1,354
+3,Thursday,9,59,59,1,130
+4,Friday,7,59,59,1,189
+4,Friday,8,59,59,1,277
+4,Friday,9,59,59,1,131

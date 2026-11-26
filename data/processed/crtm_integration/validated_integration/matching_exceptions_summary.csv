@@ -1,0 +1,5 @@
+﻿exception_group,rows,description
+exact_matches_requiring_review,11,"Exact name matches with distance, multiplicity or nearest-candidate issues"
+municipal_without_exact_name,23,Municipal stations without exact normalized name match
+spatial_candidates_without_exact_name,13,"Potential geographic candidates within 25m, not validated"
+crtm_without_exact_name,17,CRTM stations without exact municipal name association

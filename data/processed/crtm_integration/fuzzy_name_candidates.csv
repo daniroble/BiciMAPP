@@ -1,0 +1,1380 @@
+﻿municipal_id,municipal_name,municipal_name_normalized,crtm_id,crtm_name,crtm_system_name,crtm_name_normalized,similarity_score
+2,3 - Plaza Conde Suchil,plaza conde suchil,3,Plaza Conde Suchil,3,plaza conde suchil,1.0
+628,22 - Jacometrezo 3,jacometrezo 3,21,Jacometrezo 3,22,jacometrezo 3,1.0
+629,8000 - EV Puente de Vallecas,ev puente de vallecas,625,EV Puente de Vallecas,8000,ev puente de vallecas,1.0
+344,"327 - El Greco, 27 - C. Cultural El Greco",el greco 27 c cultural el greco,322,"El Greco, 27 - C. Cultural El Greco",327,el greco 27 c cultural el greco,1.0
+345,458 - Metro Vinateros,metro vinateros,451,Metro Vinateros,458,metro vinateros,1.0
+346,459 - Moratalaz,moratalaz,452,Moratalaz,459,moratalaz,1.0
+347,461 - Plaza Corregidor Ldo. Antonio de Mena,plaza corregidor ldo antonio de mena,454,Plaza Corregidor Ldo. Antonio de Mena,461,plaza corregidor ldo antonio de mena,1.0
+348,356 - Portalegre - Tinamús,portalegre tinamus,351,Portalegre - Tinamús,356,portalegre tinamus,1.0
+349,572 - Junta Mpal. Dtto. Fuencarral - El Pardo,junta mpal dtto fuencarral el pardo,564,Junta Mpal. Dtto. Fuencarral - El Pardo,572,junta mpal dtto fuencarral el pardo,1.0
+350,573 - Melchor Fernández Almagro - Villa Marín,melchor fernandez almagro villa marin,565,Melchor Fernández Almagro - Villa Marín,573,melchor fernandez almagro villa marin,1.0
+351,575 - Metro Barrio del Pilar,metro barrio del pilar,567,Metro Barrio del Pilar,575,metro barrio del pilar,1.0
+352,574 - Chantada,chantada,566,Chantada,574,chantada,1.0
+353,440 - Metro Villa de Vallecas,metro villa de vallecas,433,Metro Villa de Vallecas,440,metro villa de vallecas,1.0
+354,507 - Seis - Sexta,seis sexta,500,Seis - Sexta,507,seis sexta,1.0
+338,504 - Biblioteca Pública Municipal San Blas,biblioteca publica municipal san blas,497,Biblioteca Pública Municipal San Blas,504,biblioteca publica municipal san blas,1.0
+18,19 - Prim,prim,19,Prim,19,prim,1.0
+19,20 - Banco de España,banco de espana,20,Banco de España,20,banco de espana,1.0
+20,23 - Santo Domingo,santo domingo,22,Santo Domingo,23,santo domingo,1.0
+21,24 - Palacio de Oriente,palacio de oriente,23,Palacio de Oriente,24,palacio de oriente,1.0
+24,26 - Plaza de las Salesas,plaza de las salesas,24,Plaza de las Salesas,26,plaza de las salesas,1.0
+8,9 - Plaza de San Miguel,plaza de san miguel,9,Plaza de San Miguel,9,plaza de san miguel,1.0
+9,10 - Marqués de la Ensenada,marques de la ensenada,10,Marqués de la Ensenada,10,marques de la ensenada,1.0
+10,11 - Plaza del Dos de Mayo,plaza del dos de mayo,11,Plaza del Dos de Mayo,11,plaza del dos de mayo,1.0
+11,12 - San Hermenegildo,san hermenegildo,12,San Hermenegildo,12,san hermenegildo,1.0
+12,13 - Conde Duque,conde duque,13,Conde Duque,13,conde duque,1.0
+13,14 - Ventura Rodríguez,ventura rodriguez,14,Ventura Rodríguez,14,ventura rodriguez,1.0
+602,610 - Bardegueral,bardegueral,602,Bardegueral,610,bardegueral,1.0
+603,237 - Acueducto de Amaniel,acueducto de amaniel,232,Acueducto de Amaniel,237,acueducto de amaniel,1.0
+604,262 - María de las Mercedes de Borbón B,maria de las mercedes de borbon b,259,María de las Mercedes de Borbón B,262,maria de las mercedes de borbon b,1.0
+25,27 - Huertas,huertas,25,Huertas,27,huertas,1.0
+26,29 - Marqués de Cubas,marques de cubas,26,Marqués de Cubas,29,marques de cubas,1.0
+27,30 - San Quintín,san quintin,27,San Quintín,30,san quintin,1.0
+28,31 - Mayor,mayor,28,Mayor,31,mayor,1.0
+29,32 - Plaza de la Provincia,plaza de la provincia,29,Plaza de la Provincia,32,plaza de la provincia,1.0
+30,33 - Puerta del Sol,puerta del sol,30,Puerta del Sol,33,puerta del sol,1.0
+31,34 - Jacinto Benavente,jacinto benavente,31,Jacinto Benavente,34,jacinto benavente,1.0
+15,16 - San Bernardo,san bernardo,16,San Bernardo,16,san bernardo,1.0
+16,17 - Plaza de Carlos Cambronero,plaza de carlos cambronero,17,Plaza de Carlos Cambronero,17,plaza de carlos cambronero,1.0
+17,18 - Plaza de Pedro Zerolo,plaza de pedro zerolo,18,Plaza de Pedro Zerolo,18,plaza de pedro zerolo,1.0
+594,474 - Estación de tren de Vicálvaro,estacion de tren de vicalvaro,467,Estación de tren de Vicálvaro,474,estacion de tren de vicalvaro,1.0
+595,541 - Metro Pinar del Rey,metro pinar del rey,533,Metro Pinar del Rey,541,metro pinar del rey,1.0
+596,546 - Andorra - Canillas,andorra canillas,538,Andorra - Canillas,546,andorra canillas,1.0
+597,"550 - Príncipe Carlos, 54",principe carlos 54,542,"Príncipe Carlos, 54",550,principe carlos 54,1.0
+598,553 - María Portugal - Niceto Alcalá Zamora,maria portugal niceto alcala zamora,545,María Portugal - Niceto Alcalá Zamora,553,maria portugal niceto alcala zamora,1.0
+32,"35 - Doctor Letamendi, 3",doctor letamendi 3,32,"Doctor Letamendi, 3",35,doctor letamendi 3,1.0
+33,36 - Plaza Ramales,plaza ramales,33,Plaza Ramales,36,plaza ramales,1.0
+35,38 - Plaza de los Carros,plaza de los carros,35,Plaza de los Carros,38,plaza de los carros,1.0
+36,39 - Plaza de la Cebada,plaza de la cebada,36,Plaza de la Cebada,39,plaza de la cebada,1.0
+599,601 - Estación de tren de Fuencarral,estacion de tren de fuencarral,593,Estación de tren de Fuencarral,601,estacion de tren de fuencarral,1.0
+600,"603 - Castiello de Jaca, 14",castiello de jaca 14,595,"Castiello de Jaca, 14",603,castiello de jaca 14,1.0
+601,607 - Metro Ligero - Palas de Rey,metro ligero palas de rey,599,Metro Ligero - Palas de Rey,607,metro ligero palas de rey,1.0
+38,41 - Metro Antón Martín,metro anton martin,37,Metro Antón Martín,41,metro anton martin,1.0
+39,42 - Santa Isabel,santa isabel,38,Santa Isabel,42,santa isabel,1.0
+40,43 - Jesús y María,jesus y maria,39,Jesús y María,43,jesus y maria,1.0
+41,44 - Plaza de Nelson Mandela,plaza de nelson mandela,40,Plaza de Nelson Mandela,44,plaza de nelson mandela,1.0
+42,45 - Metro Puerta de Toledo,metro puerta de toledo,41,Metro Puerta de Toledo,45,metro puerta de toledo,1.0
+43,46 - Ribera de Curtidores,ribera de curtidores,42,Ribera de Curtidores,46,ribera de curtidores,1.0
+44,47 - Renfe/Cercanías Embajadores,renfe cercanias embajadores,43,Renfe/Cercanías Embajadores,47,renfe cercanias embajadores,1.0
+588,342 - Osa de la Vega - Rafael Finat,osa de la vega rafael finat,337,Osa de la Vega - Rafael Finat,342,osa de la vega rafael finat,1.0
+589,381 - Alfredo Aleix - Mercedes Rodríguez,alfredo aleix mercedes rodriguez,376,Alfredo Aleix - Mercedes Rodríguez,381,alfredo aleix mercedes rodriguez,1.0
+590,"444 - Valderrebollo, 18",valderrebollo 18,437,"Valderrebollo, 18",444,valderrebollo 18,1.0
+591,448 - Metro Las Suertes,metro las suertes,441,Metro Las Suertes,448,metro las suertes,1.0
+592,472 - Metro Valdebernardo,metro valdebernardo,465,Metro Valdebernardo,472,metro valdebernardo,1.0
+593,473 - Villablanca - Parque Forestal Vicálvaro,villablanca parque forestal vicalvaro,466,Villablanca - Parque Forestal Vicálvaro,473,villablanca parque forestal vicalvaro,1.0
+339,503 - Zaldívar - Valdecanillas,zaldivar valdecanillas,496,Zaldívar - Valdecanillas,503,zaldivar valdecanillas,1.0
+340,404 - Junta Municipal Distrito de Villaverde,junta municipal distrito de villaverde,399,Junta Municipal Distrito de Villaverde,404,junta municipal distrito de villaverde,1.0
+341,"353 - Mercedes Arteaga, 21",mercedes arteaga 21,348,"Mercedes Arteaga, 21",353,mercedes arteaga 21,1.0
+342,355 - Intercambiador de Plaza Elíptica,intercambiador de plaza eliptica,350,Intercambiador de Plaza Elíptica,355,intercambiador de plaza eliptica,1.0
+343,326 - Metro Alto de Extremadura,metro alto de extremadura,321,Metro Alto de Extremadura,326,metro alto de extremadura,1.0
+355,299 - Rosario Pino - Joan Maragall,rosario pino joan maragall,294,Rosario Pino - Joan Maragall,299,rosario pino joan maragall,1.0
+356,300 - Capitan Blanco Argibay - Alfalfa,capitan blanco argibay alfalfa,295,Capitan Blanco Argibay - Alfalfa,300,capitan blanco argibay alfalfa,1.0
+357,301 - Muller - Capitan Blanco Argibay,muller capitan blanco argibay,296,Muller - Capitan Blanco Argibay,301,muller capitan blanco argibay,1.0
+358,"396 - Gran Avenida, 27",gran avenida 27,391,"Gran Avenida, 27",396,gran avenida 27,1.0
+359,"394 - Periana, 24",periana 24,389,"Periana, 24",394,periana 24,1.0
+45,48 - Juan Sebastián Elcano,juan sebastian elcano,44,Juan Sebastián Elcano,48,juan sebastian elcano,1.0
+46,49 - Casa Encendida,casa encendida,45,Casa Encendida,49,casa encendida,1.0
+47,50 - Museo Reina Sofía,museo reina sofia,46,Museo Reina Sofía,50,museo reina sofia,1.0
+48,51 - Ronda de Atocha,ronda de atocha,47,Ronda de Atocha,51,ronda de atocha,1.0
+49,52 - Plaza de Santa Ana,plaza de santa ana,48,Plaza de Santa Ana,52,plaza de santa ana,1.0
+50,53 - Plaza de Lavapiés,plaza de lavapies,49,Plaza de Lavapiés,53,plaza de lavapies,1.0
+581,354 - Jacinto Verdaguer - Lola de Membrives,jacinto verdaguer lola de membrives,349,Jacinto Verdaguer - Lola de Membrives,354,jacinto verdaguer lola de membrives,1.0
+582,318 - C. Deportivo Mpal. José María Cagigal,c deportivo mpal jose maria cagigal,313,C. Deportivo Mpal. José María Cagigal,318,c deportivo mpal jose maria cagigal,1.0
+583,549 - Francisco Pi y Maragall,francisco pi y maragall,541,Francisco Pi y Maragall,549,francisco pi y maragall,1.0
+584,"279 - Paseo de los Melancólicos, 1",paseo de los melancolicos 1,274,"Paseo de los Melancólicos, 1",279,paseo de los melancolicos 1,1.0
+585,"407 - Carmen de Burgos, 4",carmen de burgos 4,402,"Carmen de Burgos, 4",407,carmen de burgos 4,1.0
+586,"276 - Paseo de las Yeserías, 15",paseo de las yeserias 15,271,"Paseo de las Yeserías, 15",276,paseo de las yeserias 15,1.0
+587,340 - Illescas - Seseña,illescas sesena,335,Illescas - Seseña,340,illescas sesena,1.0
+51,54 - Metro Tribunal,metro tribunal,50,Metro Tribunal,54,metro tribunal,1.0
+52,55 - Plaza de San Ildefonso,plaza de san ildefonso,51,Plaza de San Ildefonso,55,plaza de san ildefonso,1.0
+53,56 - Plaza del Carmen,plaza del carmen,52,Plaza del Carmen,56,plaza del carmen,1.0
+54,57 - Santa Cruz de Marcenado,santa cruz de marcenado,53,Santa Cruz de Marcenado,57,santa cruz de marcenado,1.0
+55,58 - Metro Chueca,metro chueca,54,Metro Chueca,58,metro chueca,1.0
+573,311 - C. Universitaria - F. Geografía e Histo,c universitaria f geografia e histo,306,C. Universitaria - F. Geografía e Histo,311,c universitaria f geografia e histo,1.0
+574,283 - Museo Nacional del Prado,museo nacional del prado,278,Museo Nacional del Prado,283,museo nacional del prado,1.0
+575,564 - IFEMA B,ifema b,556,IFEMA B,564,ifema b,1.0
+576,468 - Caños de San Pedro - San Cipriano,canos de san pedro san cipriano,461,Caños de San Pedro - San Cipriano,468,canos de san pedro san cipriano,1.0
+577,465 - Cordel de Pavones - Bulevar José Prat,cordel de pavones bulevar jose prat,458,Cordel de Pavones - Bulevar José Prat,465,cordel de pavones bulevar jose prat,1.0
+578,414 - Metro Villaverde Bajo-Cruce,metro villaverde bajo cruce,409,Metro Villaverde Bajo-Cruce,414,metro villaverde bajo cruce,1.0
+579,380 - Oca,oca,375,Oca,380,oca,1.0
+580,411 - Estación de tren de Villaverde Alto,estacion de tren de villaverde alto,406,Estación de tren de Villaverde Alto,411,estacion de tren de villaverde alto,1.0
+570,312 - Metro Batán,metro batan,307,Metro Batán,312,metro batan,1.0
+56,59 - Plaza de Juan Pujol,plaza de juan pujol,55,Plaza de Juan Pujol,59,plaza de juan pujol,1.0
+57,60 - Puerta de Alcalá,puerta de alcala,56,Puerta de Alcalá,60,puerta de alcala,1.0
+58,61 - O Donnell - Narváez,o donnell narvaez,57,O Donnell - Narváez,61,o donnell narvaez,1.0
+59,62 - Hospital M. Infantil Gregorio Marañón,hospital m infantil gregorio maranon,58,Hospital M. Infantil Gregorio Marañón,62,hospital m infantil gregorio maranon,1.0
+60,63 - Hospital Gral. Uni. Gregorio Marañón,hospital gral uni gregorio maranon,59,Hospital Gral. Uni. Gregorio Marañón,63,hospital gral uni gregorio maranon,1.0
+61,65 - Parque del Retiro - Calle Antonio Maura,parque del retiro calle antonio maura,60,Parque del Retiro - Calle Antonio Maura,65,parque del retiro calle antonio maura,1.0
+62,67 - CaixaForum Madrid,caixaforum madrid,61,CaixaForum Madrid,67,caixaforum madrid,1.0
+63,68 - Espalter - Ruiz de Alarcón,espalter ruiz de alarcon,62,Espalter - Ruiz de Alarcón,68,espalter ruiz de alarcon,1.0
+64,69 - Parque del Retiro - Puerta Ángel Caído,parque del retiro puerta angel caido,63,Parque del Retiro - Puerta Ángel Caído,69,parque del retiro puerta angel caido,1.0
+571,321 - Metro Casa de Campo,metro casa de campo,316,Metro Casa de Campo,321,metro casa de campo,1.0
+572,310 - Estación de tren de Aravaca,estacion de tren de aravaca,305,Estación de tren de Aravaca,310,estacion de tren de aravaca,1.0
+360,397 - Centro Deportivo Municipal Orcasur,centro deportivo municipal orcasur,392,Centro Deportivo Municipal Orcasur,397,centro deportivo municipal orcasur,1.0
+361,399 - Bohemios - Gigantes y Cabezudos,bohemios gigantes y cabezudos,394,Bohemios - Gigantes y Cabezudos,399,bohemios gigantes y cabezudos,1.0
+362,430 - Torremolinos - Rafael Alberti,torremolinos rafael alberti,423,Torremolinos - Rafael Alberti,430,torremolinos rafael alberti,1.0
+363,269 - Ariel - Parque Enrique Tierno Galván,ariel parque enrique tierno galvan,264,Ariel - Parque Enrique Tierno Galván,269,ariel parque enrique tierno galvan,1.0
+364,491 - Esteban Collantes - José Arcones Gil,esteban collantes jose arcones gil,484,Esteban Collantes - José Arcones Gil,491,esteban collantes jose arcones gil,1.0
+330,426 - Humanes - Benjamín Palencia,humanes benjamin palencia,419,Humanes - Benjamín Palencia,426,humanes benjamin palencia,1.0
+331,"427 - Andaluces, 2",andaluces 2,420,"Andaluces, 2",427,andaluces 2,1.0
+332,428 - Estadio de Vallecas,estadio de vallecas,421,Estadio de Vallecas,428,estadio de vallecas,1.0
+333,"393 - Manuel Noya , 29",manuel noya 29,388,"Manuel Noya , 29",393,manuel noya 29,1.0
+334,489 - Serrano Galvache - Yerma,serrano galvache yerma,482,Serrano Galvache - Yerma,489,serrano galvache yerma,1.0
+335,490 - Hnos.García Noblejas-FcoLargo Caballero,hnos garcia noblejas fcolargo caballero,483,Hnos.García Noblejas-FcoLargo Caballero,490,hnos garcia noblejas fcolargo caballero,1.0
+336,"488 - Ricardo Ortiz, 33",ricardo ortiz 33,481,"Ricardo Ortiz, 33",488,ricardo ortiz 33,1.0
+337,525 - Metro Manoteras,metro manoteras,517,Metro Manoteras,525,metro manoteras,1.0
+365,527 - Velacho Alto - Trinquete,velacho alto trinquete,519,Velacho Alto - Trinquete,527,velacho alto trinquete,1.0
+366,526 - Plaza del Liceo,plaza del liceo,518,Plaza del Liceo,526,plaza del liceo,1.0
+562,263 - Gran Vía de San Francisco,gran via de san francisco,260,Gran Vía de San Francisco,263,gran via de san francisco,1.0
+563,"559 - Calle Babilonia, 19",calle babilonia 19,551,"Calle Babilonia, 19",559,calle babilonia 19,1.0
+65,70 - Hospital Uni. Infantil Niño Jesús,hospital uni infantil nino jesus,64,Hospital Uni. Infantil Niño Jesús,70,hospital uni infantil nino jesus,1.0
+66,71 - Plaza del Doctor Laguna,plaza del doctor laguna,65,Plaza del Doctor Laguna,71,plaza del doctor laguna,1.0
+67,72 - Metro Sáinz de Baranda,metro sainz de baranda,66,Metro Sáinz de Baranda,72,metro sainz de baranda,1.0
+68,73 - Plaza de los Astros,plaza de los astros,67,Plaza de los Astros,73,plaza de los astros,1.0
+69,74 - Parque Retiro - Jardines Cecilio Rguez,parque retiro jardines cecilio rguez,68,Parque Retiro - Jardines Cecilio Rguez,74,parque retiro jardines cecilio rguez,1.0
+70,75 - Parque del Retiro - Plaza Mariano Cavia,parque del retiro plaza mariano cavia,69,Parque del Retiro - Plaza Mariano Cavia,75,parque del retiro plaza mariano cavia,1.0
+564,581 - Metro Peñagrande,metro penagrande,573,Metro Peñagrande,581,metro penagrande,1.0
+565,598 - Hospital Ramón y Cajal,hospital ramon y cajal,590,Hospital Ramón y Cajal,598,hospital ramon y cajal,1.0
+566,341 - Escalona - Seseña,escalona sesena,336,Escalona - Seseña,341,escalona sesena,1.0
+567,346 - Metro Empalme,metro empalme,341,Metro Empalme,346,metro empalme,1.0
+568,347 - Est. tren Mtra Justa Freire-Poli Aluche,est tren mtra justa freire poli aluche,342,Est. tren Mtra Justa Freire-Poli Aluche,347,est tren mtra justa freire poli aluche,1.0
+569,528 - Albelda - Torrelaguna,albelda torrelaguna,520,Albelda - Torrelaguna,528,albelda torrelaguna,1.0
+72,77 - Plaza del Conde de Casal,plaza del conde de casal,71,Plaza del Conde de Casal,77,plaza del conde de casal,1.0
+73,78 - Metro Pacífico,metro pacifico,72,Metro Pacífico,78,metro pacifico,1.0
+74,79 - Metro Menéndez Pelayo,metro menendez pelayo,73,Metro Menéndez Pelayo,79,metro menendez pelayo,1.0
+75,81 - Cuesta de Moyano,cuesta de moyano,74,Cuesta de Moyano,81,cuesta de moyano,1.0
+76,82 - Doctor Esquerdo - Metro Conde de Casal,doctor esquerdo metro conde de casal,75,Doctor Esquerdo - Metro Conde de Casal,82,doctor esquerdo metro conde de casal,1.0
+77,83 - Pío Baroja,pio baroja,76,Pío Baroja,83,pio baroja,1.0
+78,84 - Biblioteca Pública Elena Fortún,biblioteca publica elena fortun,77,Biblioteca Pública Elena Fortún,84,biblioteca publica elena fortun,1.0
+79,85 - Parque del Retiro - Puerta de O´Donnell,parque del retiro puerta de o donnell,78,Parque del Retiro - Puerta de O´Donnell,85,parque del retiro puerta de o donnell,1.0
+80,86 - Cibeles,cibeles,79,Cibeles,86,cibeles,1.0
+81,87 - Ayala - Velázquez,ayala velazquez,80,Ayala - Velázquez,87,ayala velazquez,1.0
+557,543 - Tomas Redondo,tomas redondo,535,Tomas Redondo,543,tomas redondo,1.0
+558,277 - Virgen del Puerto,virgen del puerto,272,Virgen del Puerto,277,virgen del puerto,1.0
+559,272 - Tejo - Parque La Ronda,tejo parque la ronda,267,Tejo - Parque La Ronda,272,tejo parque la ronda,1.0
+560,282 - Parque Retiro - Puerta Reina Mercedes,parque retiro puerta reina mercedes,277,Parque Retiro - Puerta Reina Mercedes,282,parque retiro puerta reina mercedes,1.0
+561,1 - Metro Sol,metro sol,1,Metro Sol,1,metro sol,1.0
+87,93 - Plaza de Margaret Thatcher,plaza de margaret thatcher,86,Plaza de Margaret Thatcher,93,plaza de margaret thatcher,1.0
+88,94 - Estación de tren de Recoletos,estacion de tren de recoletos,87,Estación de tren de Recoletos,94,estacion de tren de recoletos,1.0
+550,542 - Intercambiador de Valdebebas,intercambiador de valdebebas,534,Intercambiador de Valdebebas,542,intercambiador de valdebebas,1.0
+551,320 - Metro Lago,metro lago,315,Metro Lago,320,metro lago,1.0
+552,608 - Estella - Camino de Santiago,estella camino de santiago,600,Estella - Camino de Santiago,608,estella camino de santiago,1.0
+553,278 - Paseo los Pontones - Ps. Melancólicos,paseo los pontones ps melancolicos,273,Paseo los Pontones - Ps. Melancólicos,278,paseo los pontones ps melancolicos,1.0
+554,289 - Luis de Salazar - Padre Claret,luis de salazar padre claret,284,Luis de Salazar - Padre Claret,289,luis de salazar padre claret,1.0
+555,547 - Rafaela Aparicio - Maruja Mallo,rafaela aparicio maruja mallo,539,Rafaela Aparicio - Maruja Mallo,547,rafaela aparicio maruja mallo,1.0
+556,"402 - Berrocal, 9",berrocal 9,397,"Berrocal, 9",402,berrocal 9,1.0
+71,"76 - Avenida del Mediterráneo, 19",avenida del mediterraneo 19,70,"Avenida del Mediterráneo, 19",76,avenida del mediterraneo 19,1.0
+547,544 - Gregorio Sánchez Herráez 14,gregorio sanchez herraez 14,536,Gregorio Sánchez Herráez 14,544,gregorio sanchez herraez 14,1.0
+548,551 - Oña,ona,543,Oña,551,ona,1.0
+549,552 - Ana de Austria - Ignacio Aldecoa,ana de austria ignacio aldecoa,544,Ana de Austria - Ignacio Aldecoa,552,ana de austria ignacio aldecoa,1.0
+89,95 - Claudio Coello - Villanueva,claudio coello villanueva,88,Claudio Coello - Villanueva,95,claudio coello villanueva,1.0
+90,96 - Alcalá - Castelló,alcala castello,89,Alcalá - Castelló,96,alcala castello,1.0
+91,97 - Metro Príncipe de Vergara,metro principe de vergara,90,Metro Príncipe de Vergara,97,metro principe de vergara,1.0
+92,98 - Plaza de Felipe II,plaza de felipe ii,91,Plaza de Felipe II,98,plaza de felipe ii,1.0
+93,99 - Alcántara - Hermosilla,alcantara hermosilla,92,Alcántara - Hermosilla,99,alcantara hermosilla,1.0
+94,100 - Wizink Center,wizink center,93,Wizink Center,100,wizink center,1.0
+82,88 - Velázquez-Padilla,velazquez padilla,81,Velázquez-Padilla,88,velazquez padilla,1.0
+83,89 - Ayala - Conde de Peñalver,ayala conde de penalver,82,Ayala - Conde de Peñalver,89,ayala conde de penalver,1.0
+84,90 - Metro Velázquez,metro velazquez,83,Metro Velázquez,90,metro velazquez,1.0
+85,91 - Hermosilla - General Pardiñas,hermosilla general pardinas,84,Hermosilla - General Pardiñas,91,hermosilla general pardinas,1.0
+86,92 - Claudio Coello - Hermosilla,claudio coello hermosilla,85,Claudio Coello - Hermosilla,92,claudio coello hermosilla,1.0
+538,"545 - Zapatoca, 8",zapatoca 8,537,"Zapatoca, 8",545,zapatoca 8,1.0
+539,567 - Plaza Mayor de Barajas,plaza mayor de barajas,559,Plaza Mayor de Barajas,567,plaza mayor de barajas,1.0
+540,563 - Soto Hidalgo,soto hidalgo,555,Soto Hidalgo,563,soto hidalgo,1.0
+541,281 - Reina Cristina - Julián Gayarre,reina cristina julian gayarre,276,Reina Cristina - Julián Gayarre,281,reina cristina julian gayarre,1.0
+95,101 - Metro O Donnell,metro o donnell,94,Metro O Donnell,101,metro o donnell,1.0
+96,102 - Metro Retiro,metro retiro,95,Metro Retiro,102,metro retiro,1.0
+97,103 - Ortega y Gasset - Serrano,ortega y gasset serrano,96,Ortega y Gasset - Serrano,103,ortega y gasset serrano,1.0
+98,104 - Castellana - Hermosilla,castellana hermosilla,97,Castellana - Hermosilla,104,castellana hermosilla,1.0
+99,"105 - Serrano, 46",serrano 46,98,"Serrano, 46",105,serrano 46,1.0
+542,609 - Metro Ronda de la Comunicación,metro ronda de la comunicacion,601,Metro Ronda de la Comunicación,609,metro ronda de la comunicacion,1.0
+543,408 - Metro San Cristóbal,metro san cristobal,403,Metro San Cristóbal,408,metro san cristobal,1.0
+544,"409 - Eduardo Barreiros, 114",eduardo barreiros 114,404,"Eduardo Barreiros, 114",409,eduardo barreiros 114,1.0
+545,606 - Fermín Caballero - Sangenjo,fermin caballero sangenjo,598,Fermín Caballero - Sangenjo,606,fermin caballero sangenjo,1.0
+546,349 - Huerta de Castañeda 26,huerta de castaneda 26,344,Huerta de Castañeda 26,349,huerta de castaneda 26,1.0
+101,107 - Serrano - Conde de Aranda,serrano conde de aranda,101,Serrano - Conde de Aranda,107,serrano conde de aranda,1.0
+102,108 - Mártires Concepcionistas - Alcalá,martires concepcionistas alcala,102,Mártires Concepcionistas - Alcalá,108,martires concepcionistas alcala,1.0
+103,109 - Marqués de Salamanca,marques de salamanca,103,Marqués de Salamanca,109,marques de salamanca,1.0
+104,110 - Intercambiador de Moncloa,intercambiador de moncloa,104,Intercambiador de Moncloa,110,intercambiador de moncloa,1.0
+107,112 - Paseo de Moret - Parque del Oeste,paseo de moret parque del oeste,107,Paseo de Moret - Parque del Oeste,112,paseo de moret parque del oeste,1.0
+534,447 - Adolfo Bioy Casares - Las Suertes,adolfo bioy casares las suertes,440,Adolfo Bioy Casares - Las Suertes,447,adolfo bioy casares las suertes,1.0
+535,412 - Estación de tren de Puente de Alcocer,estacion de tren de puente de alcocer,407,Estación de tren de Puente de Alcocer,412,estacion de tren de puente de alcocer,1.0
+536,415 - Diamante - Delmira Agustini,diamante delmira agustini,410,Diamante - Delmira Agustini,415,diamante delmira agustini,1.0
+537,413 - Doctor Martín Arévalo,doctor martin arevalo,408,Doctor Martín Arévalo,413,doctor martin arevalo,1.0
+367,"431 - Puerto Canfranc, 18",puerto canfranc 18,424,"Puerto Canfranc, 18",431,puerto canfranc 18,1.0
+368,429 - Carlos M. Alvarez - Javier de Miguel,carlos m alvarez javier de miguel,422,Carlos M. Alvarez - Javier de Miguel,429,carlos m alvarez javier de miguel,1.0
+369,357 - Sorbe - Baleares,sorbe baleares,352,Sorbe - Baleares,357,sorbe baleares,1.0
+370,270 - Teresa L. Valcárcel - Tte. Cnel. Noreña,teresa l valcarcel tte cnel norena,265,Teresa L. Valcárcel - Tte. Cnel. Noreña,270,teresa l valcarcel tte cnel norena,1.0
+321,486 - Serrano Galvache - Arturo Soria,serrano galvache arturo soria,479,Serrano Galvache - Arturo Soria,486,serrano galvache arturo soria,1.0
+322,502 - Puertollano - Veinticinco de Septiembre,puertollano veinticinco de septiembre,495,Puertollano - Veinticinco de Septiembre,502,puertollano veinticinco de septiembre,1.0
+323,462 - Gallegos - Lavadero Viejo,gallegos lavadero viejo,455,Gallegos - Lavadero Viejo,462,gallegos lavadero viejo,1.0
+324,421 - Arroyo del Olivar - Buenos Aires,arroyo del olivar buenos aires,415,Arroyo del Olivar - Buenos Aires,421,arroyo del olivar buenos aires,1.0
+325,487 - Manuel Uribe - Arturo Soria,manuel uribe arturo soria,480,Manuel Uribe - Arturo Soria,487,manuel uribe arturo soria,1.0
+327,423 - Estación de tren Asamblea de Madrid,estacion de tren asamblea de madrid,416,Estación de tren Asamblea de Madrid,423,estacion de tren asamblea de madrid,1.0
+328,"424 - Camino de Valderribas, 47",camino de valderribas 47,417,"Camino de Valderribas, 47",424,camino de valderribas 47,1.0
+329,425 - Ramón Perez Ayala - Pque. Cerro Tío Pío,ramon perez ayala pque cerro tio pio,418,Ramón Perez Ayala - Pque. Cerro Tío Pío,425,ramon perez ayala pque cerro tio pio,1.0
+313,439 - Cabeza Mesada - Parque de Valdeperdices,cabeza mesada parque de valdeperdices,432,Cabeza Mesada - Parque de Valdeperdices,439,cabeza mesada parque de valdeperdices,1.0
+314,398 - Orovilla - Felicidad,orovilla felicidad,393,Orovilla - Felicidad,398,orovilla felicidad,1.0
+110,115 - Ferraz - Templo de Debod,ferraz templo de debod,110,Ferraz - Templo de Debod,115,ferraz templo de debod,1.0
+113,117 - Altamirano  - Martín de los Heros,altamirano martin de los heros,113,Altamirano  - Martín de los Heros,117,altamirano martin de los heros,1.0
+114,"118 - OFICINA DEL SER, APR Y BICIREGISTRO",oficina del ser apr y biciregistro,114,"OFICINA DEL SER, APR Y BICIREGISTRO",118,oficina del ser apr y biciregistro,1.0
+115,119 - Méndez Álvaro,mendez alvaro,115,Méndez Álvaro,119,mendez alvaro,1.0
+116,120 - Metro Palos de la Frontera,metro palos de la frontera,116,Metro Palos de la Frontera,120,metro palos de la frontera,1.0
+117,121 - Glorieta de Santa María de la Cabeza,glorieta de santa maria de la cabeza,117,Glorieta de Santa María de la Cabeza,121,glorieta de santa maria de la cabeza,1.0
+118,122 - Santa Engracia - Zurbarán,santa engracia zurbaran,118,Santa Engracia - Zurbarán,122,santa engracia zurbaran,1.0
+119,123 - Metro Argüelles,metro arguelles,119,Metro Argüelles,123,metro arguelles,1.0
+530,521 - Metro Las Rosas,metro las rosas,513,Metro Las Rosas,521,metro las rosas,1.0
+531,508 - Metro Canillejas,metro canillejas,501,Metro Canillejas,508,metro canillejas,1.0
+527,274 - Estación Sur Méndez Álvaro A,estacion sur mendez alvaro a,269,Estación Sur Méndez Álvaro A,274,estacion sur mendez alvaro a,1.0
+528,605 - Nuria - Peña Sirio,nuria pena sirio,597,Nuria - Peña Sirio,605,nuria pena sirio,1.0
+529,522 - Metro Estadio Metropolitano,metro estadio metropolitano,514,Metro Estadio Metropolitano,522,metro estadio metropolitano,1.0
+120,124 - Metro Bilbao,metro bilbao,120,Metro Bilbao,124,metro bilbao,1.0
+121,125 - Fdez. de la Hoz - Gral. Martínez Campos,fdez de la hoz gral martinez campos,121,Fdez. de la Hoz - Gral. Martínez Campos,125,fdez de la hoz gral martinez campos,1.0
+122,126 - General Álvarez de Castro,general alvarez de castro,122,General Álvarez de Castro,126,general alvarez de castro,1.0
+123,127 - Mercado Municipal de Vallehermoso,mercado municipal de vallehermoso,123,Mercado Municipal de Vallehermoso,127,mercado municipal de vallehermoso,1.0
+124,128 - Metro Islas Filipinas,metro islas filipinas,124,Metro Islas Filipinas,128,metro islas filipinas,1.0
+125,129 - Metro Alonso Cano,metro alonso cano,125,Metro Alonso Cano,129,metro alonso cano,1.0
+126,130 - Metro Ríos Rosas,metro rios rosas,126,Metro Ríos Rosas,130,metro rios rosas,1.0
+108,113 - Teleférico Madrid - Estación Rosales,teleferico madrid estacion rosales,108,Teleférico Madrid - Estación Rosales,113,teleferico madrid estacion rosales,1.0
+109,114 - Quintana - Juan Álvarez de Mendizábal,quintana juan alvarez de mendizabal,109,Quintana - Juan Álvarez de Mendizábal,114,quintana juan alvarez de mendizabal,1.0
+315,569 - C. Deportivo Mpal. Vicente del Bosque,c deportivo mpal vicente del bosque,561,C. Deportivo Mpal. Vicente del Bosque,569,c deportivo mpal vicente del bosque,1.0
+316,571 - Melchor Fernández Almagro - Plaza Tuy,melchor fernandez almagro plaza tuy,563,Melchor Fernández Almagro - Plaza Tuy,571,melchor fernandez almagro plaza tuy,1.0
+317,"304 - Valle de Mena, 5",valle de mena 5,299,"Valle de Mena, 5",304,valle de mena 5,1.0
+318,268 - Metro Arganzuela-Planetario,metro arganzuela planetario,263,Metro Arganzuela-Planetario,268,metro arganzuela planetario,1.0
+319,305 - Intercambiador de Príncipe Pío B,intercambiador de principe pio b,300,Intercambiador de Príncipe Pío B,305,intercambiador de principe pio b,1.0
+320,306 - Centro Deportivo Mpal Fernando Martín,centro deportivo mpal fernando martin,301,Centro Deportivo Mpal Fernando Martín,306,centro deportivo mpal fernando martin,1.0
+371,493 - Arturo Soria - San Luis,arturo soria san luis,486,Arturo Soria - San Luis,493,arturo soria san luis,1.0
+372,"433 - Villalobos, 28",villalobos 28,426,"Villalobos, 28",433,villalobos 28,1.0
+373,436 - Campus Sur UPM,campus sur upm,429,Campus Sur UPM,436,campus sur upm,1.0
+374,434 - Charleroi - Cocherón de la Villa,charleroi cocheron de la villa,427,Charleroi - Cocherón de la Villa,434,charleroi cocheron de la villa,1.0
+375,506 - Albarracín - Julián Camarillo,albarracin julian camarillo,499,Albarracín - Julián Camarillo,506,albarracin julian camarillo,1.0
+376,"505 - Castillo de Uclés, 37",castillo de ucles 37,498,"Castillo de Uclés, 37",505,castillo de ucles 37,1.0
+377,435 - San Claudio,san claudio,428,San Claudio,435,san claudio,1.0
+379,302 - Ps. Dirección B - Pque A. Rguez Sahagún,ps direccion b pque a rguez sahagun,297,Ps. Dirección B - Pque A. Rguez Sahagún,302,ps direccion b pque a rguez sahagun,1.0
+129,133 - Raimundo Fdez. Villaverde - Dulcinea,raimundo fdez villaverde dulcinea,129,Raimundo Fdez. Villaverde - Dulcinea,133,raimundo fdez villaverde dulcinea,1.0
+130,134 - María de Guzmán - Agustín de Betancourt,maria de guzman agustin de betancourt,130,María de Guzmán - Agustín de Betancourt,134,maria de guzman agustin de betancourt,1.0
+131,135 - Plaza de San Juan de la Cruz,plaza de san juan de la cruz,131,Plaza de San Juan de la Cruz,135,plaza de san juan de la cruz,1.0
+132,136 - Metro Nuevos Ministerios,metro nuevos ministerios,132,Metro Nuevos Ministerios,136,metro nuevos ministerios,1.0
+133,137 - Plaza de la República Argentina,plaza de la republica argentina,133,Plaza de la República Argentina,137,plaza de la republica argentina,1.0
+134,138 - Estación de tren Nuevos Ministerios,estacion de tren nuevos ministerios,134,Estación de tren Nuevos Ministerios,138,estacion de tren nuevos ministerios,1.0
+135,139 - José Gutiérrez Abascal - Castellana,jose gutierrez abascal castellana,135,José Gutiérrez Abascal - Castellana,139,jose gutierrez abascal castellana,1.0
+518,565 - Metro Barajas,metro barajas,557,Metro Barajas,565,metro barajas,1.0
+519,467 - Univ. Rey Juan Carlos - Facultad  CJS,univ rey juan carlos facultad cjs,460,Univ. Rey Juan Carlos - Facultad  CJS,467,univ rey juan carlos facultad cjs,1.0
+520,469 - C. Deportivo Mpal Faustina Valladolid,c deportivo mpal faustina valladolid,462,C. Deportivo Mpal Faustina Valladolid,469,c deportivo mpal faustina valladolid,1.0
+521,470 - Avenida Real - Galeote,avenida real galeote,463,Avenida Real - Galeote,470,avenida real galeote,1.0
+522,471 - Molino Viejo - Minerva,molino viejo minerva,464,Molino Viejo - Minerva,471,molino viejo minerva,1.0
+523,271 - Amaltea-Meneses,amaltea meneses,266,Amaltea-Meneses,271,amaltea meneses,1.0
+524,466 - Villablanca - Vereda del Pinar,villablanca vereda del pinar,459,Villablanca - Vereda del Pinar,466,villablanca vereda del pinar,1.0
+525,"275 - Juan Antonio Vallejo-Nájera Botas, 25",juan antonio vallejo najera botas 25,270,"Juan Antonio Vallejo-Nájera Botas, 25",275,juan antonio vallejo najera botas 25,1.0
+526,475 - Aurora Boreal - Minerva,aurora boreal minerva,468,Aurora Boreal - Minerva,475,aurora boreal minerva,1.0
+517,566 - Avenida de Logroño,avenida de logrono,558,Avenida de Logroño,566,avenida de logrono,1.0
+136,140 - Velázquez - López de Hoyos,velazquez lopez de hoyos,136,Velázquez - López de Hoyos,140,velazquez lopez de hoyos,1.0
+137,141 - Plaza de Emilio Castelar,plaza de emilio castelar,137,Plaza de Emilio Castelar,141,plaza de emilio castelar,1.0
+138,142 - Bajo elevado de Eduardo Dato,bajo elevado de eduardo dato,138,Bajo elevado de Eduardo Dato,142,bajo elevado de eduardo dato,1.0
+139,186 - General Pardiñas - Don Ramón de la Cruz,general pardinas don ramon de la cruz,181,General Pardiñas - Don Ramón de la Cruz,186,general pardinas don ramon de la cruz,1.0
+140,144 - Metro Diego de León,metro diego de leon,140,Metro Diego de León,144,metro diego de leon,1.0
+140,144 - Metro Diego de León,metro diego de leon,186,Metro Diego de León,191,metro diego de leon,1.0
+141,145 - Ortega y Gasset 87,ortega y gasset 87,141,Ortega y Gasset 87,145,ortega y gasset 87,1.0
+142,"146 - María Francisca, 3",maria francisca 3,142,"María Francisca, 3",146,maria francisca 3,1.0
+143,147 - Doctor Arce 45,doctor arce 45,143,Doctor Arce 45,147,doctor arce 45,1.0
+144,148 - Serrano 210,serrano 210,144,Serrano 210,148,serrano 210,1.0
+145,149 - Plaza de Quito,plaza de quito,145,Plaza de Quito,149,plaza de quito,1.0
+127,131 - Plaza de Juan Zorrilla,plaza de juan zorrilla,127,Plaza de Juan Zorrilla,131,plaza de juan zorrilla,1.0
+128,132 - Glorieta de Cuatro Caminos,glorieta de cuatro caminos,128,Glorieta de Cuatro Caminos,132,glorieta de cuatro caminos,1.0
+148,153 - General Perón - Poeta Joan Maragall,general peron poeta joan maragall,149,General Perón - Poeta Joan Maragall,153,general peron poeta joan maragall,1.0
+149,154 - Orense 36,orense 36,150,Orense 36,154,orense 36,1.0
+150,155 - San Germán 57,san german 57,151,San Germán 57,155,san german 57,1.0
+151,156 - Sor Ángela de la Cruz-Paseo Castellana,sor angela de la cruz paseo castellana,152,Sor Ángela de la Cruz-Paseo Castellana,156,sor angela de la cruz paseo castellana,1.0
+152,158 - Alberto Alcocer - Padre Damián,alberto alcocer padre damian,154,Alberto Alcocer - Padre Damián,158,alberto alcocer padre damian,1.0
+153,159 - Paseo de la Habana 63,paseo de la habana 63,155,Paseo de la Habana 63,159,paseo de la habana 63,1.0
+154,160 - Metro Colombia,metro colombia,156,Metro Colombia,160,metro colombia,1.0
+513,319 - Valdesangil,valdesangil,314,Valdesangil,319,valdesangil,1.0
+514,579 - Maria Tubau - Isabel Colbrand,maria tubau isabel colbrand,571,Maria Tubau - Isabel Colbrand,579,maria tubau isabel colbrand,1.0
+515,602 - Monasterio Sobrado - Monasterio Silos,monasterio sobrado monasterio silos,594,Monasterio Sobrado - Monasterio Silos,602,monasterio sobrado monasterio silos,1.0
+516,600 - Centro Deportivo Municipal La Masó,centro deportivo municipal la maso,592,Centro Deportivo Municipal La Masó,600,centro deportivo municipal la maso,1.0
+506,280 - Ps de los Melancólicos - San Epifanio,ps de los melancolicos san epifanio,275,Ps de los Melancólicos - San Epifanio,280,ps de los melancolicos san epifanio,1.0
+507,367 - Metro San Francisco,metro san francisco,362,Metro San Francisco,367,metro san francisco,1.0
+508,325 - Ps. Jesuitas - Pza. Cerro Bermejo,ps jesuitas pza cerro bermejo,320,Ps. Jesuitas - Pza. Cerro Bermejo,325,ps jesuitas pza cerro bermejo,1.0
+509,578 - Sierra de Atapuerca - Viloria de Rioja,sierra de atapuerca viloria de rioja,570,Sierra de Atapuerca - Viloria de Rioja,578,sierra de atapuerca viloria de rioja,1.0
+510,446 - C. Deportivo Mpal. Miguel Guillén Prim,c deportivo mpal miguel guillen prim,439,C. Deportivo Mpal. Miguel Guillén Prim,446,c deportivo mpal miguel guillen prim,1.0
+512,410 - Est. de tren de S. Cristóbal Industrial,est de tren de s cristobal industrial,405,Est. de tren de S. Cristóbal Industrial,410,est de tren de s cristobal industrial,1.0
+155,161 - Intercambiador de Príncipe Pío A,intercambiador de principe pio a,157,Intercambiador de Príncipe Pío A,161,intercambiador de principe pio a,1.0
+156,162 - Metro Pirámides,metro piramides,158,Metro Pirámides,162,metro piramides,1.0
+157,163 - Metro Acacias,metro acacias,159,Metro Acacias,163,metro acacias,1.0
+146,151 - Orense 12,orense 12,147,Orense 12,151,orense 12,1.0
+147,"152 - General Perón, 4",general peron 4,148,"General Perón, 4",152,general peron 4,1.0
+380,"463 - Casalarreina, 18",casalarreina 18,456,"Casalarreina, 18",463,casalarreina 18,1.0
+381,464 - Univ. Rey Juan Carlos - Campus Madrid,univ rey juan carlos campus madrid,457,Univ. Rey Juan Carlos - Campus Madrid,464,univ rey juan carlos campus madrid,1.0
+382,400 - Metro Ciudad de los Ángeles,metro ciudad de los angeles,395,Metro Ciudad de los Ángeles,400,metro ciudad de los angeles,1.0
+383,307 - Metro Valdezarza,metro valdezarza,302,Metro Valdezarza,307,metro valdezarza,1.0
+308,492 - Metro La Almudena,metro la almudena,485,Metro La Almudena,492,metro la almudena,1.0
+309,322 - Ps. Jesuitas - Mercado Alto Extremadura,ps jesuitas mercado alto extremadura,317,Ps. Jesuitas - Mercado Alto Extremadura,322,ps jesuitas mercado alto extremadura,1.0
+310,392 - Metro Almendrales,metro almendrales,387,Metro Almendrales,392,metro almendrales,1.0
+312,419 - Estación de tren de El Pozo,estacion de tren de el pozo,414,Estación de tren de El Pozo,419,estacion de tren de el pozo,1.0
+301,324 - Metro Lucero,metro lucero,319,Metro Lucero,324,metro lucero,1.0
+302,"457 - Hacienda de Pavones, 148",hacienda de pavones 148,450,"Hacienda de Pavones, 148",457,hacienda de pavones 148,1.0
+303,432 - Maquinilla - Tranvía Blanco,maquinilla tranvia blanco,425,Maquinilla - Tranvía Blanco,432,maquinilla tranvia blanco,1.0
+304,298 - Marques de Viana - Bellver,marques de viana bellver,293,Marques de Viana - Bellver,298,marques de viana bellver,1.0
+503,401 - Estación de tren de Villaverde Bajo,estacion de tren de villaverde bajo,396,Estación de tren de Villaverde Bajo,401,estacion de tren de villaverde bajo,1.0
+158,164 - Paseo de las Delicias - Tomás Bretón,paseo de las delicias tomas breton,160,Paseo de las Delicias - Tomás Bretón,164,paseo de las delicias tomas breton,1.0
+159,165 - Entrada Matadero - Paseo de la Chopera,entrada matadero paseo de la chopera,161,Entrada Matadero - Paseo de la Chopera,165,entrada matadero paseo de la chopera,1.0
+160,166 - Viaducto de Segovia,viaducto de segovia,162,Viaducto de Segovia,166,viaducto de segovia,1.0
+161,167 - Segovia 45,segovia 45,163,Segovia 45,167,segovia 45,1.0
+162,168 - Santa María Cabeza - Batalla del Salado,santa maria cabeza batalla del salado,164,Santa María Cabeza - Batalla del Salado,168,santa maria cabeza batalla del salado,1.0
+163,169 - Glorieta de Pirámides,glorieta de piramides,165,Glorieta de Pirámides,169,glorieta de piramides,1.0
+164,"170 - Paseo de la Esperanza, 21",paseo de la esperanza 21,166,"Paseo de la Esperanza, 21",170,paseo de la esperanza 21,1.0
+165,171 - Embajadores-Cáceres,embajadores caceres,167,Embajadores-Cáceres,171,embajadores caceres,1.0
+504,406 - La Nave de Madrid,la nave de madrid,401,La Nave de Madrid,406,la nave de madrid,1.0
+505,"403 - Auñón, 16",aunon 16,398,"Auñón, 16",403,aunon 16,1.0
+495,293 - Santa Rita - Clara del Rey,santa rita clara del rey,288,Santa Rita - Clara del Rey,293,santa rita clara del rey,1.0
+496,520 - Niza - Plaza de Grecia,niza plaza de grecia,512,Niza - Plaza de Grecia,520,niza plaza de grecia,1.0
+166,172 - Estación de tren de Delicias,estacion de tren de delicias,168,Estación de tren de Delicias,172,estacion de tren de delicias,1.0
+167,173 - Paseo Esperanza - Santa María Cabeza,paseo esperanza santa maria cabeza,169,Paseo Esperanza - Santa María Cabeza,173,paseo esperanza santa maria cabeza,1.0
+168,"174 - Paseo de las Yeserías, 45",paseo de las yeserias 45,170,"Paseo de las Yeserías, 45",174,paseo de las yeserias 45,1.0
+497,558 - Biblioteca Pública Mpal. Gloria Fuertes,biblioteca publica mpal gloria fuertes,550,Biblioteca Pública Mpal. Gloria Fuertes,558,biblioteca publica mpal gloria fuertes,1.0
+498,561 - Plaza Nuestra Señora de Loreto,plaza nuestra senora de loreto,553,Plaza Nuestra Señora de Loreto,561,plaza nuestra senora de loreto,1.0
+499,562 - Tomillar - Tintín y Milú,tomillar tintin y milu,554,Tomillar - Tintín y Milú,562,tomillar tintin y milu,1.0
+500,560 - Playa de Zarauz - Playa de la Caleta,playa de zarauz playa de la caleta,552,Playa de Zarauz - Playa de la Caleta,560,playa de zarauz playa de la caleta,1.0
+501,568 - IFEMA A,ifema a,560,IFEMA A,568,ifema a,1.0
+502,"405 - Paseo Alberto Palacios, 42",paseo alberto palacios 42,400,"Paseo Alberto Palacios, 42",405,paseo alberto palacios 42,1.0
+171,178 - Junta Municipal Distrito de Retiro,junta municipal distrito de retiro,174,Junta Municipal Distrito de Retiro,178,junta municipal distrito de retiro,1.0
+172,180 - Estación Sur Méndez Álvaro B,estacion sur mendez alvaro b,175,Estación Sur Méndez Álvaro B,180,estacion sur mendez alvaro b,1.0
+173,181 - Ibiza - Narváez,ibiza narvaez,176,Ibiza - Narváez,181,ibiza narvaez,1.0
+174,182 - Parque Roma,parque roma,177,Parque Roma,182,parque roma,1.0
+175,183 - Hermosilla - Doctor Esquerdo,hermosilla doctor esquerdo,178,Hermosilla - Doctor Esquerdo,183,hermosilla doctor esquerdo,1.0
+176,"184 - Marqués de Zafra, 24",marques de zafra 24,179,"Marqués de Zafra, 24",184,marques de zafra 24,1.0
+490,580 - Metro Herrera Oria,metro herrera oria,572,Metro Herrera Oria,580,metro herrera oria,1.0
+491,150 - Castellana - Hermanos Pinzón,castellana hermanos pinzon,146,Castellana - Hermanos Pinzón,150,castellana hermanos pinzon,1.0
+492,157 - Plaza de Cuzco,plaza de cuzco,153,Plaza de Cuzco,157,plaza de cuzco,1.0
+493,"395 - Guetaria, 84B",guetaria 84b,390,"Guetaria, 84B",395,guetaria 84b,1.0
+494,548 - Eduardo Mazón - Guadalajara,eduardo mazon guadalajara,540,Eduardo Mazón - Guadalajara,548,eduardo mazon guadalajara,1.0
+305,437 - Metro Sierra de Guadalupe,metro sierra de guadalupe,430,Metro Sierra de Guadalupe,437,metro sierra de guadalupe,1.0
+306,358 - Verdad,verdad,353,Verdad,358,verdad,1.0
+307,352 - Algorta  - General Ricardos,algorta general ricardos,347,Algorta  - General Ricardos,352,algorta general ricardos,1.0
+384,303 - Ps. Dirección A - Pque A. Rguez Sahagún,ps direccion a pque a rguez sahagun,298,Ps. Dirección A - Pque A. Rguez Sahagún,303,ps direccion a pque a rguez sahagun,1.0
+385,"576 - El Ferrol, 18",el ferrol 18,568,"El Ferrol, 18",576,el ferrol 18,1.0
+386,577 - Monforte de Lemos - Plaza de Mondariz,monforte de lemos plaza de mondariz,569,Monforte de Lemos - Plaza de Mondariz,577,monforte de lemos plaza de mondariz,1.0
+387,309 - Ofelia Nieto - Villaamil,ofelia nieto villaamil,304,Ofelia Nieto - Villaamil,309,ofelia nieto villaamil,1.0
+388,308 - María Auxiliadora - Francos Rodríguez,maria auxiliadora francos rodriguez,303,María Auxiliadora - Francos Rodríguez,308,maria auxiliadora francos rodriguez,1.0
+389,510 - Metro Avenida de Guadalajara,metro avenida de guadalajara,503,Metro Avenida de Guadalajara,510,metro avenida de guadalajara,1.0
+390,511 - Aquitania 31,aquitania 31,504,Aquitania 31,511,aquitania 31,1.0
+391,512 - Semilla - Aparejadores,semilla aparejadores,505,Semilla - Aparejadores,512,semilla aparejadores,1.0
+392,513 - Centro Deportivo Mpal. Pepu Hernández,centro deportivo mpal pepu hernandez,506,Centro Deportivo Mpal. Pepu Hernández,513,centro deportivo mpal pepu hernandez,1.0
+394,"515 - Avenida de Hellin, 13",avenida de hellin 13,507,"Avenida de Hellin, 13",515,avenida de hellin 13,1.0
+395,359 - El Toboso - Zaida,el toboso zaida,354,El Toboso - Zaida,359,el toboso zaida,1.0
+291,389 - Julio Merino - Pilarica,julio merino pilarica,384,Julio Merino - Pilarica,389,julio merino pilarica,1.0
+487,453 - Metro La Gavia,metro la gavia,446,Metro La Gavia,453,metro la gavia,1.0
+488,454 - Gran Vía del Sureste - Las Suertes,gran via del sureste las suertes,447,Gran Vía del Sureste - Las Suertes,454,gran via del sureste las suertes,1.0
+489,267 - Paseo de la Chopera - Fernando Poo,paseo de la chopera fernando poo,262,Paseo de la Chopera - Fernando Poo,267,paseo de la chopera fernando poo,1.0
+177,185 - Parque Quinta de la Fuente del Berro,parque quinta de la fuente del berro,180,Parque Quinta de la Fuente del Berro,185,parque quinta de la fuente del berro,1.0
+178,143 - Diego de León - General Pardiñas,diego de leon general pardinas,139,Diego de León - General Pardiñas,143,diego de leon general pardinas,1.0
+179,187 - Alejandro González - Alcalá,alejandro gonzalez alcala,182,Alejandro González - Alcalá,187,alejandro gonzalez alcala,1.0
+180,188 - Puente de Ventas,puente de ventas,183,Puente de Ventas,188,puente de ventas,1.0
+181,189 - Virgen de la Alegría,virgen de la alegria,184,Virgen de la Alegría,189,virgen de la alegria,1.0
+182,190 - Velázquez - Diego de León,velazquez diego de leon,185,Velázquez - Diego de León,190,velazquez diego de leon,1.0
+183,191 - Metro Diego de León,metro diego de leon,140,Metro Diego de León,144,metro diego de leon,1.0
+183,191 - Metro Diego de León,metro diego de leon,186,Metro Diego de León,191,metro diego de leon,1.0
+184,192 - Avda. de los Toreros - Fco. Silvela,avda de los toreros fco silvela,187,Avda. de los Toreros - Fco. Silvela,192,avda de los toreros fco silvela,1.0
+169,175 - Jaime el Conquistador - Divino Vallés,jaime el conquistador divino valles,171,Jaime el Conquistador - Divino Vallés,175,jaime el conquistador divino valles,1.0
+170,177 - Metro Legazpi,metro legazpi,173,Metro Legazpi,177,metro legazpi,1.0
+478,345 - Fuente del Tiro - Avd. de las Águilas,fuente del tiro avd de las aguilas,340,Fuente del Tiro - Avd. de las Águilas,345,fuente del tiro avd de las aguilas,1.0
+479,449 - Metro Congosto,metro congosto,442,Metro Congosto,449,metro congosto,1.0
+480,"450 - Camino de las Hormigueras, 161",camino de las hormigueras 161,443,"Camino de las Hormigueras, 161",450,camino de las hormigueras 161,1.0
+481,294 - Edificio Torres Blancas,edificio torres blancas,289,Edificio Torres Blancas,294,edificio torres blancas,1.0
+482,604 - Metro Las Tablas,metro las tablas,596,Metro Las Tablas,604,metro las tablas,1.0
+483,348 - José de Cadalso - Rafael Finat,jose de cadalso rafael finat,343,José de Cadalso - Rafael Finat,348,jose de cadalso rafael finat,1.0
+484,438 - Biblioteca Pública Luis Martín Santos,biblioteca publica luis martin santos,431,Biblioteca Pública Luis Martín Santos,438,biblioteca publica luis martin santos,1.0
+185,193 - Plaza de las Ventas,plaza de las ventas,188,Plaza de las Ventas,193,plaza de las ventas,1.0
+186,194 - Intercambiador de Avenida de América,intercambiador de avenida de america,189,Intercambiador de Avenida de América,194,intercambiador de avenida de america,1.0
+187,195 - Indalecio Hernández - Mataelpino,indalecio hernandez mataelpino,190,Indalecio Hernández - Mataelpino,195,indalecio hernandez mataelpino,1.0
+188,196 - Metro Prosperidad,metro prosperidad,191,Metro Prosperidad,196,metro prosperidad,1.0
+189,197 - Parque de Berlín,parque de berlin,192,Parque de Berlín,197,parque de berlin,1.0
+190,198 - Metro Rubén Darío,metro ruben dario,193,Metro Rubén Darío,198,metro ruben dario,1.0
+485,"451 -  La Granja de San Ildefonso, 14",la granja de san ildefonso 14,444,"La Granja de San Ildefonso, 14",451,la granja de san ildefonso 14,1.0
+486,"452 - Las Suertes, 15",las suertes 15,445,"Las Suertes, 15",452,las suertes 15,1.0
+466,338 - Guareña - Luis Chamizo,guarena luis chamizo,333,Guareña - Luis Chamizo,338,guarena luis chamizo,1.0
+191,"199 - Fernando el Católico, 61",fernando el catolico 61,194,"Fernando el Católico, 61",199,fernando el catolico 61,1.0
+192,200 - Metro Quevedo,metro quevedo,195,Metro Quevedo,200,metro quevedo,1.0
+193,201 - Metro Canal,metro canal,196,Metro Canal,201,metro canal,1.0
+467,339 - Estación de tren Las Águilas,estacion de tren las aguilas,334,Estación de tren Las Águilas,339,estacion de tren las aguilas,1.0
+468,"597 - Foresta, 8",foresta 8,589,"Foresta, 8",597,foresta 8,1.0
+469,445 - C. Deportivo Mpal. Juan de Dios Román,c deportivo mpal juan de dios roman,438,C. Deportivo Mpal. Juan de Dios Román,445,c deportivo mpal juan de dios roman,1.0
+470,599 - Instalación Deportiva La Cabrera,instalacion deportiva la cabrera,591,Instalación Deportiva La Cabrera,599,instalacion deportiva la cabrera,1.0
+471,343 - Metro Aviación Española,metro aviacion espanola,338,Metro Aviación Española,343,metro aviacion espanola,1.0
+472,"344 - Ocaña, 103",ocana 103,339,"Ocaña, 103",344,ocana 103,1.0
+473,"313 - Juan XXIII, 24",juan xxiii 24,308,"Juan XXIII, 24",313,juan xxiii 24,1.0
+474,314 - Av. Valladolid - Parque de la Bombilla,av valladolid parque de la bombilla,309,Av. Valladolid - Parque de la Bombilla,314,av valladolid parque de la bombilla,1.0
+475,315 - Caroli,caroli,310,Caroli,315,caroli,1.0
+476,316 - C. Deportivo Mpal. Ciudad De Los Poetas,c deportivo mpal ciudad de los poetas,311,C. Deportivo Mpal. Ciudad De Los Poetas,316,c deportivo mpal ciudad de los poetas,1.0
+477,"317 - Antonio Machado, 30",antonio machado 30,312,"Antonio Machado, 30",317,antonio machado 30,1.0
+461,595 - Betanzos - Fermín Caballero,betanzos fermin caballero,587,Betanzos - Fermín Caballero,595,betanzos fermin caballero,1.0
+462,596 - Metro Lacoma,metro lacoma,588,Metro Lacoma,596,metro lacoma,1.0
+194,202 - Parque de Santander,parque de santander,197,Parque de Santander,202,parque de santander,1.0
+195,203 - General Ampudia - San Francisco Sales,general ampudia san francisco sales,198,General Ampudia - San Francisco Sales,203,general ampudia san francisco sales,1.0
+196,204 - Doctor Santero - Bravo Murillo,doctor santero bravo murillo,199,Doctor Santero - Bravo Murillo,204,doctor santero bravo murillo,1.0
+197,205 - Metro Estrecho,metro estrecho,200,Metro Estrecho,205,metro estrecho,1.0
+198,206 - Metro Tetuán,metro tetuan,201,Metro Tetuán,206,metro tetuan,1.0
+463,540 - Estación de tren Fuente de la Mora,estacion de tren fuente de la mora,532,Estación de tren Fuente de la Mora,540,estacion de tren fuente de la mora,1.0
+464,"336 - Calle Oliva de Plasencia, 1",calle oliva de plasencia 1,331,"Calle Oliva de Plasencia, 1",336,calle oliva de plasencia 1,1.0
+465,337 - Metro Aluche,metro aluche,332,Metro Aluche,337,metro aluche,1.0
+456,"378 - Eugenia de Montijo, 83",eugenia de montijo 83,373,"Eugenia de Montijo, 83",378,eugenia de montijo 83,1.0
+457,379 - Antonia Rodríguez Sacristán - Valeriana,antonia rodriguez sacristan valeriana,374,Antonia Rodríguez Sacristán - Valeriana,379,antonia rodriguez sacristan valeriana,1.0
+458,495 - Caleruega,caleruega,488,Caleruega,495,caleruega,1.0
+199,207 - Plaza de la Remonta,plaza de la remonta,202,Plaza de la Remonta,207,plaza de la remonta,1.0
+200,208 - Intercambiador de Plaza de Castilla,intercambiador de plaza de castilla,203,Intercambiador de Plaza de Castilla,208,intercambiador de plaza de castilla,1.0
+201,209 - Plaza de Castilla - Fundación Canal,plaza de castilla fundacion canal,204,Plaza de Castilla - Fundación Canal,209,plaza de castilla fundacion canal,1.0
+202,210 - Calle de las Tres Cruces - Gran Vía,calle de las tres cruces gran via,205,Calle de las Tres Cruces - Gran Vía,210,calle de las tres cruces gran via,1.0
+203,211 - Desengaño - Valverde,desengano valverde,206,Desengaño - Valverde,211,desengano valverde,1.0
+204,212 - Metro Marqués de Vadillo,metro marques de vadillo,207,Metro Marqués de Vadillo,212,metro marques de vadillo,1.0
+205,213 - Glorieta de Cádiz,glorieta de cadiz,208,Glorieta de Cádiz,213,glorieta de cadiz,1.0
+206,214 - Condesa de Venadito - Albacete,condesa de venadito albacete,209,Condesa de Venadito - Albacete,214,condesa de venadito albacete,1.0
+459,593 - Metro Avenida de la Ilustración,metro avenida de la ilustracion,585,Metro Avenida de la Ilustración,593,metro avenida de la ilustracion,1.0
+460,"594 - Pedro Rico, 49",pedro rico 49,586,"Pedro Rico, 49",594,pedro rico 49,1.0
+292,390 - Avena - Mijo,avena mijo,385,Avena - Mijo,390,avena mijo,1.0
+293,"556 - Cantabria, 6",cantabria 6,548,"Cantabria, 6",556,cantabria 6,1.0
+294,555 - Parque del Capricho,parque del capricho,547,Parque del Capricho,555,parque del capricho,1.0
+295,485 - Francisco Villaespesa - Ledesma,francisco villaespesa ledesma,478,Francisco Villaespesa - Ledesma,485,francisco villaespesa ledesma,1.0
+296,570 - Uni. Autónoma Madrid - Facul. Medicina,uni autonoma madrid facul medicina,562,Uni. Autónoma Madrid - Facul. Medicina,570,uni autonoma madrid facul medicina,1.0
+297,295 - Hernani - Edgar Neville,hernani edgar neville,290,Hernani - Edgar Neville,295,hernani edgar neville,1.0
+298,296 - Costa Verde,costa verde,291,Costa Verde,296,costa verde,1.0
+299,297 - Simancas - Pinos Alta,simancas pinos alta,292,Simancas - Pinos Alta,297,simancas pinos alta,1.0
+300,323 - Centro Deportivo Municipal Gallur,centro deportivo municipal gallur,318,Centro Deportivo Municipal Gallur,323,centro deportivo municipal gallur,1.0
+396,360 - Ntra. Sra. Fátima - Ntra. Sra. de Luz,ntra sra fatima ntra sra de luz,355,Ntra. Sra. Fátima - Ntra. Sra. de Luz,360,ntra sra fatima ntra sra de luz,1.0
+397,361 - Metro Pan Bendito,metro pan bendito,356,Metro Pan Bendito,361,metro pan bendito,1.0
+398,441 - Estación de tren de Santa Eugenia,estacion de tren de santa eugenia,434,Estación de tren de Santa Eugenia,441,estacion de tren de santa eugenia,1.0
+399,442 - Santa Eugenia - Zazuar,santa eugenia zazuar,435,Santa Eugenia - Zazuar,442,santa eugenia zazuar,1.0
+451,377 - Metro Abrantes,metro abrantes,372,Metro Abrantes,377,metro abrantes,1.0
+207,215 - Gutierre de Cetina - Ascao,gutierre de cetina ascao,210,Gutierre de Cetina - Ascao,215,gutierre de cetina ascao,1.0
+208,216 - Plaza de Puerta del Ángel,plaza de puerta del angel,211,Plaza de Puerta del Ángel,216,plaza de puerta del angel,1.0
+209,217 - Hospital Universitario La Paz,hospital universitario la paz,212,Hospital Universitario La Paz,217,hospital universitario la paz,1.0
+210,218 - Camino de los Vinateros A,camino de los vinateros a,213,Camino de los Vinateros A,218,camino de los vinateros a,1.0
+211,219 - Camino de los Vinateros B,camino de los vinateros b,214,Camino de los Vinateros B,219,camino de los vinateros b,1.0
+212,220 - Plaza del Encuentro,plaza del encuentro,215,Plaza del Encuentro,220,plaza del encuentro,1.0
+213,221 - Metro Pavones,metro pavones,216,Metro Pavones,221,metro pavones,1.0
+452,539 - Mota del Cuervo,mota del cuervo,531,Mota del Cuervo,539,mota del cuervo,1.0
+453,334 - Metro Campamento,metro campamento,329,Metro Campamento,334,metro campamento,1.0
+454,"335 - Cardaño, 10",cardano 10,330,"Cardaño, 10",335,cardano 10,1.0
+455,"519 - Troya, 11",troya 11,511,"Troya, 11",519,troya 11,1.0
+446,374 - Dinero - La Peseta,dinero la peseta,369,Dinero - La Peseta,374,dinero la peseta,1.0
+447,"375 - Calderilla, 4",calderilla 4,370,"Calderilla, 4",375,calderilla 4,1.0
+448,591 - Metro Mirasierra,metro mirasierra,583,Metro Mirasierra,591,metro mirasierra,1.0
+214,222 - Eugenio Caxes - Antonio López,eugenio caxes antonio lopez,217,Eugenio Caxes - Antonio López,222,eugenio caxes antonio lopez,1.0
+215,223 - Ermita del Santo,ermita del santo,218,Ermita del Santo,223,ermita del santo,1.0
+216,224 - Parque de Caramuel,parque de caramuel,219,Parque de Caramuel,224,parque de caramuel,1.0
+217,225 - Sierra Toledana - Doctor Lozano,sierra toledana doctor lozano,220,Sierra Toledana - Doctor Lozano,225,sierra toledana doctor lozano,1.0
+218,226 - Sierra Toledana - Camino de Valderribas,sierra toledana camino de valderribas,221,Sierra Toledana - Camino de Valderribas,226,sierra toledana camino de valderribas,1.0
+219,227 - Arroyo del Olivar,arroyo del olivar,222,Arroyo del Olivar,227,arroyo del olivar,1.0
+220,228 - San Delfín - Antonio López,san delfin antonio lopez,223,San Delfín - Antonio López,228,san delfin antonio lopez,1.0
+221,229 - Centro Deportivo Municipal Concepción,centro deportivo municipal concepcion,224,Centro Deportivo Municipal Concepción,229,centro deportivo municipal concepcion,1.0
+449,592 - Estación de tren de Pitis,estacion de tren de pitis,584,Estación de tren de Pitis,592,estacion de tren de pitis,1.0
+450,376 - Metro Carpetana,metro carpetana,371,Metro Carpetana,376,metro carpetana,1.0
+226,234 - Metro La Elipa,metro la elipa,229,Metro La Elipa,234,metro la elipa,1.0
+227,235 - Sodio - Embajadores,sodio embajadores,230,Sodio - Embajadores,235,sodio embajadores,1.0
+228,236 - Paseo Imperial,paseo imperial,231,Paseo Imperial,236,paseo imperial,1.0
+439,370 - Avefría - Plaza de Tarifa,avefria plaza de tarifa,365,Avefría - Plaza de Tarifa,370,avefria plaza de tarifa,1.0
+440,590 - Metro Arroyofresno,metro arroyofresno,582,Metro Arroyofresno,590,metro arroyofresno,1.0
+441,517 - San Mariano - Circe,san mariano circe,509,San Mariano - Circe,517,san mariano circe,1.0
+442,518 - Tampico - Plaza Barbados,tampico plaza barbados,510,Tampico - Plaza Barbados,518,tampico plaza barbados,1.0
+443,"371 - Joaquin Turina, 49",joaquin turina 49,366,"Joaquin Turina, 49",371,joaquin turina 49,1.0
+444,"372 - Lonja de la Seda, 33",lonja de la seda 33,367,"Lonja de la Seda, 33",372,lonja de la seda 33,1.0
+445,373 - Metro La Peseta,metro la peseta,368,Metro La Peseta,373,metro la peseta,1.0
+400,"443 - Fuentespina, 33",fuentespina 33,436,"Fuentespina, 33",443,fuentespina 33,1.0
+401,"362 - Hilario Herranz Establos, 36",hilario herranz establos 36,357,"Hilario Herranz Establos, 36",362,hilario herranz establos 36,1.0
+285,499 - Biblioteca Pública Municipal Canillejas,biblioteca publica municipal canillejas,492,Biblioteca Pública Municipal Canillejas,499,biblioteca publica municipal canillejas,1.0
+286,"500 - Aracne, 17",aracne 17,493,"Aracne, 17",500,aracne 17,1.0
+287,497 - Metro Suances,metro suances,490,Metro Suances,497,metro suances,1.0
+288,265 - Puerto Serrano - Embajadores,puerto serrano embajadores,261,Puerto Serrano - Embajadores,265,puerto serrano embajadores,1.0
+289,351 - Comandante Fontanes - General Ricardos,comandante fontanes general ricardos,346,Comandante Fontanes - General Ricardos,351,comandante fontanes general ricardos,1.0
+290,350 - Ervigio - Amalarico,ervigio amalarico,345,Ervigio - Amalarico,350,ervigio amalarico,1.0
+402,557 - Metro Alameda de Osuna,metro alameda de osuna,549,Metro Alameda de Osuna,557,metro alameda de osuna,1.0
+403,290 - Francisco Suárez - Paseo de La Habana,francisco suarez paseo de la habana,285,Francisco Suárez - Paseo de La Habana,290,francisco suarez paseo de la habana,1.0
+404,"529 - Lopez de Hoyos , 478",lopez de hoyos 478,521,"Lopez de Hoyos , 478",529,lopez de hoyos 478,1.0
+405,530 - Metro Mar de Cristal,metro mar de cristal,522,Metro Mar de Cristal,530,metro mar de cristal,1.0
+406,531 - Metro Parque de Santa María,metro parque de santa maria,523,Metro Parque de Santa María,531,metro parque de santa maria,1.0
+407,532 - Metro San Lorenzo,metro san lorenzo,524,Metro San Lorenzo,532,metro san lorenzo,1.0
+408,"533 - San Luis, 23",san luis 23,525,"San Luis, 23",533,san luis 23,1.0
+230,239 - Francos Rodríguez - José Calvo,francos rodriguez jose calvo,234,Francos Rodríguez - José Calvo,239,francos rodriguez jose calvo,1.0
+231,240 - Brasilia - Parque Breogán,brasilia parque breogan,235,Brasilia - Parque Breogán,240,brasilia parque breogan,1.0
+232,241 - Camilo José Cela,camilo jose cela,236,Camilo José Cela,241,camilo jose cela,1.0
+233,242 - Metro Parque de las Avenidas,metro parque de las avenidas,237,Metro Parque de las Avenidas,242,metro parque de las avenidas,1.0
+234,243 - Cartagena,cartagena,238,Cartagena,243,cartagena,1.0
+235,244 - Hospital Clínico San Carlos,hospital clinico san carlos,239,Hospital Clínico San Carlos,244,hospital clinico san carlos,1.0
+236,245 - Galileo - Donoso Cortés,galileo donoso cortes,240,Galileo - Donoso Cortés,245,galileo donoso cortes,1.0
+237,246 - Metro Iglesia,metro iglesia,241,Metro Iglesia,246,metro iglesia,1.0
+238,247 - Zurbano - José Abascal,zurbano jose abascal,242,Zurbano - José Abascal,247,zurbano jose abascal,1.0
+239,248 - Sinesio Delgado - Cuatro Torres,sinesio delgado cuatro torres,243,Sinesio Delgado - Cuatro Torres,248,sinesio delgado cuatro torres,1.0
+222,230 - Carlota O´Neill - Agastia,carlota o neill agastia,225,Carlota O´Neill - Agastia,230,carlota o neill agastia,1.0
+223,231 - Derechos Humanos - Verdaguer y García,derechos humanos verdaguer y garcia,226,Derechos Humanos - Verdaguer y García,231,derechos humanos verdaguer y garcia,1.0
+224,232 - José María de Pereda - Alcalá,jose maria de pereda alcala,227,José María de Pereda - Alcalá,232,jose maria de pereda alcala,1.0
+225,233 - El dragón de La Elipa,el dragon de la elipa,228,El dragón de La Elipa,233,el dragon de la elipa,1.0
+244,253 - Doctor Fleming - Estadio S. Bernabéu,doctor fleming estadio s bernabeu,248,Doctor Fleming - Estadio S. Bernabéu,253,doctor fleming estadio s bernabeu,1.0
+245,254 - Plaza del Perú,plaza del peru,249,Plaza del Perú,254,plaza del peru,1.0
+246,255 - General López Pozas - Apolonio Morales,general lopez pozas apolonio morales,250,General López Pozas - Apolonio Morales,255,general lopez pozas apolonio morales,1.0
+247,256 - Reina Victoria - Beatriz de Bobadilla,reina victoria beatriz de bobadilla,251,Reina Victoria - Beatriz de Bobadilla,256,reina victoria beatriz de bobadilla,1.0
+248,257 - Ciudad Universitaria - INEF,ciudad universitaria inef,252,Ciudad Universitaria - INEF,257,ciudad universitaria inef,1.0
+433,366 - Metro Carabanchel,metro carabanchel,361,Metro Carabanchel,366,metro carabanchel,1.0
+434,291 - Plaza José María Soler,plaza jose maria soler,286,Plaza José María Soler,291,plaza jose maria soler,1.0
+435,292 - Centro Deportivo Municipal Pradillo,centro deportivo municipal pradillo,287,Centro Deportivo Municipal Pradillo,292,centro deportivo municipal pradillo,1.0
+436,494 - Metro Pinar de Chamartín,metro pinar de chamartin,487,Metro Pinar de Chamartín,494,metro pinar de chamartin,1.0
+437,516 - Juan Ignacio Luca Tena - Quinta Molinos,juan ignacio luca tena quinta molinos,508,Juan Ignacio Luca Tena - Quinta Molinos,516,juan ignacio luca tena quinta molinos,1.0
+438,368 - Eugenia de Montijo,eugenia de montijo,363,Eugenia de Montijo,368,eugenia de montijo,1.0
+229,"238 - San Germán, 5",san german 5,233,"San Germán, 5",238,san german 5,1.0
+431,333 - Illescas - Camarena,illescas camarena,328,Illescas - Camarena,333,illescas camarena,1.0
+432,365 - Palacio Vistalegre Arena,palacio vistalegre arena,360,Palacio Vistalegre Arena,365,palacio vistalegre arena,1.0
+249,258 - Metro Ciudad Universitaria A,metro ciudad universitaria a,253,Metro Ciudad Universitaria A,258,metro ciudad universitaria a,1.0
+250,259 - Metro Ciudad Universitaria B,metro ciudad universitaria b,254,Metro Ciudad Universitaria B,259,metro ciudad universitaria b,1.0
+251,260 - Ciudad Universitaria - Fac. de Biología,ciudad universitaria fac de biologia,257,Ciudad Universitaria - Fac. de Biología,260,ciudad universitaria fac de biologia,1.0
+252,261 - Ciudad Universitaria - Facultad Derecho,ciudad universitaria facultad derecho,258,Ciudad Universitaria - Facultad Derecho,261,ciudad universitaria facultad derecho,1.0
+240,249 - Castellana - Cuatro Torres,castellana cuatro torres,244,Castellana - Cuatro Torres,249,castellana cuatro torres,1.0
+241,250 - Serrano - CSIC,serrano csic,245,Serrano - CSIC,250,serrano csic,1.0
+242,251 - Santa Hortensia - Corazón de María,santa hortensia corazon de maria,246,Santa Hortensia - Corazón de María,251,santa hortensia corazon de maria,1.0
+243,252 - Est. tren Chamartín - Clara Campoamor,est tren chamartin clara campoamor,247,Est. tren Chamartín - Clara Campoamor,252,est tren chamartin clara campoamor,1.0
+422,329 - Metro Laguna,metro laguna,324,Metro Laguna,329,metro laguna,1.0
+423,330 - Duquesa de Parcent - Marcelino Castillo,duquesa de parcent marcelino castillo,325,Duquesa de Parcent - Marcelino Castillo,330,duquesa de parcent marcelino castillo,1.0
+424,331 - Valmojado,valmojado,326,Valmojado,331,valmojado,1.0
+425,"332 - Los Yébenes, 159",los yebenes 159,327,"Los Yébenes, 159",332,los yebenes 159,1.0
+253,384 - Metro Usera,metro usera,379,Metro Usera,384,metro usera,1.0
+254,388 - Estación tren - Hospital 12 de Octubre,estacion tren hospital 12 de octubre,383,Estación tren - Hospital 12 de Octubre,388,estacion tren hospital 12 de octubre,1.0
+255,385 - Estación de tren Orcasitas,estacion de tren orcasitas,380,Estación de tren Orcasitas,385,estacion de tren orcasitas,1.0
+256,"387 - Isabelita Usera, 44",isabelita usera 44,382,"Isabelita Usera, 44",387,isabelita usera 44,1.0
+426,363 - Metro Oporto,metro oporto,358,Metro Oporto,363,metro oporto,1.0
+427,364 - Metro Opañel,metro opanel,359,Metro Opañel,364,metro opanel,1.0
+428,536 - Boj,boj,528,Boj,536,boj,1.0
+429,537 - Plaza López de la Plata,plaza lopez de la plata,529,Plaza López de la Plata,537,plaza lopez de la plata,1.0
+430,"538 - Haendel, 8",haendel 8,530,"Haendel, 8",538,haendel 8,1.0
+276,460 - Fuente Carrantona - Doctor García Tapia,fuente carrantona doctor garcia tapia,453,Fuente Carrantona - Doctor García Tapia,460,fuente carrantona doctor garcia tapia,1.0
+277,"455 - Luis de Hoyos Sainz,  198",luis de hoyos sainz 198,448,"Luis de Hoyos Sainz,  198",455,luis de hoyos sainz 198,1.0
+278,"456 - Encomienda de Palacios, 8",encomienda de palacios 8,449,"Encomienda de Palacios, 8",456,encomienda de palacios 8,1.0
+279,416 - Ramírez Tomé,ramirez tome,411,Ramírez Tomé,416,ramirez tome,1.0
+280,"417 - Romeo y Julieta, 13",romeo y julieta 13,412,"Romeo y Julieta, 13",417,romeo y julieta 13,1.0
+281,418 - Puerto de Arlabán - San Diego,puerto de arlaban san diego,413,Puerto de Arlabán - San Diego,418,puerto de arlaban san diego,1.0
+282,496 - Cronos,cronos,489,Cronos,496,cronos,1.0
+283,501 - Metro Alsacia,metro alsacia,494,Metro Alsacia,501,metro alsacia,1.0
+284,498 - Metro Torre Arias,metro torre arias,491,Metro Torre Arias,498,metro torre arias,1.0
+266,"284 - Avenida de Burgos, 17",avenida de burgos 17,279,"Avenida de Burgos, 17",284,avenida de burgos 17,1.0
+267,482 - Metro Pueblo Nuevo,metro pueblo nuevo,475,Metro Pueblo Nuevo,482,metro pueblo nuevo,1.0
+268,483 - Marcelino Álvarez - Daroca,marcelino alvarez daroca,476,Marcelino Álvarez - Daroca,483,marcelino alvarez daroca,1.0
+419,589 - Monast. Silos - Monast. Montesclaros,monast silos monast montesclaros,581,Monast. Silos - Monast. Montesclaros,589,monast silos monast montesclaros,1.0
+257,383 - Metro San Fermín-Orcasur,metro san fermin orcasur,378,Metro San Fermín-Orcasur,383,metro san fermin orcasur,1.0
+258,"386 - Avenida de los Poblados, 130",avenida de los poblados 130,381,"Avenida de los Poblados, 130",386,avenida de los poblados 130,1.0
+259,476 - Metro Avenida de la Paz,metro avenida de la paz,469,Metro Avenida de la Paz,476,metro avenida de la paz,1.0
+260,477 - Metro Ciudad Lineal,metro ciudad lineal,470,Metro Ciudad Lineal,477,metro ciudad lineal,1.0
+261,478 - José del Hierro - Misterios,jose del hierro misterios,471,José del Hierro - Misterios,478,jose del hierro misterios,1.0
+262,479 - Metro Arturo Soria,metro arturo soria,472,Metro Arturo Soria,479,metro arturo soria,1.0
+263,480 - Vicente Muzas - Arturo Soria,vicente muzas arturo soria,473,Vicente Muzas - Arturo Soria,480,vicente muzas arturo soria,1.0
+264,481 - Diego Ayllón - Arturo Soria,diego ayllon arturo soria,474,Diego Ayllón - Arturo Soria,481,diego ayllon arturo soria,1.0
+265,554 - Metro El Capricho,metro el capricho,546,Metro El Capricho,554,metro el capricho,1.0
+420,535 - Metro Canillas,metro canillas,527,Metro Canillas,535,metro canillas,1.0
+421,"328 - Cebreros, 97",cebreros 97,323,"Cebreros, 97",328,cebreros 97,1.0
+269,484 - Metro García Noblejas,metro garcia noblejas,477,Metro García Noblejas,484,metro garcia noblejas,1.0
+270,523 - Carretera de Canillas,carretera de canillas,515,Carretera de Canillas,523,carretera de canillas,1.0
+271,285 - Santa María Magdalena - La Drácena,santa maria magdalena la dracena,280,Santa María Magdalena - La Drácena,285,santa maria magdalena la dracena,1.0
+272,286 - Plaza Duque de Pastrana,plaza duque de pastrana,281,Plaza Duque de Pastrana,286,plaza duque de pastrana,1.0
+273,287 - Metro Bambú,metro bambu,282,Metro Bambú,287,metro bambu,1.0
+274,288 - Caídos de la División Azul,caidos de la division azul,283,Caídos de la División Azul,288,caidos de la division azul,1.0
+275,524 - Glorieta Luis Rosales,glorieta luis rosales,516,Glorieta Luis Rosales,524,glorieta luis rosales,1.0
+410,582 - Isla Graciosa - Isla de Java,isla graciosa isla de java,574,Isla Graciosa - Isla de Java,582,isla graciosa isla de java,1.0
+411,583 - Ángel Múgica - Marcos de Orueta,angel mugica marcos de orueta,575,Ángel Múgica - Marcos de Orueta,583,angel mugica marcos de orueta,1.0
+412,584 - Metro Montecarmelo,metro montecarmelo,576,Metro Montecarmelo,584,metro montecarmelo,1.0
+413,585 - Metro Fuencarral,metro fuencarral,577,Metro Fuencarral,585,metro fuencarral,1.0
+414,586 - Caldas Estrach - San Cugat del Vallés,caldas estrach san cugat del valles,578,Caldas Estrach - San Cugat del Vallés,586,caldas estrach san cugat del valles,1.0
+415,"534 - Mesena, 102",mesena 102,526,"Mesena, 102",534,mesena 102,1.0
+416,273 - Delicias - General Lacy,delicias general lacy,268,Delicias - General Lacy,273,delicias general lacy,1.0
+417,587 - Metro Paco de Lucía,metro paco de lucia,579,Metro Paco de Lucía,587,metro paco de lucia,1.0
+418,588 - Campo Calatrava - Rda Ingenioso Hidalgo,campo calatrava rda ingenioso hidalgo,580,Campo Calatrava - Rda Ingenioso Hidalgo,588,campo calatrava rda ingenioso hidalgo,1.0
+3,4 - Malasaña,malasana,4,Malasaña,4,malasana,1.0
+4,5 - Fuencarral,fuencarral,5,Fuencarral,5,fuencarral,1.0
+7,8 - Metro Alonso Martínez,metro alonso martinez,8,Metro Alonso Martínez,8,metro alonso martinez,1.0
+618,613 - Facultad de informática,facultad de informatica,605,Facultad de informática,613,facultad de informatica,1.0
+619,615 - Avenida Juan de Andrés 21,avenida juan de andres 21,607,Avenida Juan de Andrés 21,615,avenida juan de andres 21,1.0
+620,616 - Alcalde Martín de Alzaga,alcalde martin de alzaga,608,Alcalde Martín de Alzaga,616,alcalde martin de alzaga,1.0
+621,628  - Calle Arcaute 13,calle arcaute 13,620,Calle Arcaute 13,628,calle arcaute 13,1.0
+622,619 - Cooperativa Electrica 13,cooperativa electrica 13,611,Cooperativa Electrica 13,619,cooperativa electrica 13,1.0
+623,"623  -  Ronda del Sur, esq Santa Rafaela",ronda del sur esq santa rafaela,615,"Ronda del Sur, esq Santa Rafaela",623,ronda del sur esq santa rafaela,1.0
+624,614 - Biblioteca central de la UNED,biblioteca central de la uned,606,Biblioteca central de la UNED,614,biblioteca central de la uned,1.0
+625,618 - Calle Paterna 55,calle paterna 55,610,Calle Paterna 55,618,calle paterna 55,1.0
+14,15 - Norte,norte,15,Norte,15,norte,1.0
+605,611 - María de las Mercedes de Borbón A,maria de las mercedes de borbon a,603,María de las Mercedes de Borbón A,611,maria de las mercedes de borbon a,1.0
+606,176 - Plaza de la Beata María Ana de Jesús,plaza de la beata maria ana de jesus,172,Plaza de la Beata María Ana de Jesús,176,plaza de la beata maria ana de jesus,1.0
+607,630 - Calle de Febrero 4,calle de febrero 4,622,Calle de Febrero 4,630,calle de febrero 4,1.0
+608,629 - Avda de Fermina Sevillano 23,avda de fermina sevillano 23,621,Avda de Fermina Sevillano 23,629,avda de fermina sevillano 23,1.0
+609,620 - Calle Cazorla 79,calle cazorla 79,612,Calle Cazorla 79,620,calle cazorla 79,1.0
+610,621 - Calle Montiel 27,calle montiel 27,613,Calle Montiel 27,621,calle montiel 27,1.0
+611,622 - Calle Sierra de Albarracin 2,calle sierra de albarracin 2,614,Calle Sierra de Albarracin 2,622,calle sierra de albarracin 2,1.0
+612,617 - Calle Eduardo Barreiros,calle eduardo barreiros,609,Calle Eduardo Barreiros,617,calle eduardo barreiros,1.0
+613,626 - Avenida Victoria Kent 9,avenida victoria kent 9,618,Avenida Victoria Kent 9,626,avenida victoria kent 9,1.0
+614,627 - Alcalde Andrés Madrid Dávila 92,alcalde andres madrid davila 92,619,Alcalde Andrés Madrid Dávila 92,627,alcalde andres madrid davila 92,1.0
+615,624  - Avenida Blas de Lezo 33,avenida blas de lezo 33,616,Avenida Blas de Lezo 33,624,avenida blas de lezo 33,1.0
+616,625 - Avenida de Miguel Delibes 49,avenida de miguel delibes 49,617,Avenida de Miguel Delibes 49,625,avenida de miguel delibes 49,1.0
+617,612 - Calle Rosalia de Castro 1,calle rosalia de castro 1,604,Calle Rosalia de Castro 1,612,calle rosalia de castro 1,1.0
+1,2 - Metro Callao,metro callao,2,Metro Callao,2,metro callao,1.0
+511,"382 -Parque Eugenia de Montijo, 2",parque eugenia de montijo 2,377,"arque Eugenia de Montijo, 2",382,arque eugenia de montijo 2,0.9811320754716981
+384,303 - Ps. Dirección A - Pque A. Rguez Sahagún,ps direccion a pque a rguez sahagun,297,Ps. Dirección B - Pque A. Rguez Sahagún,302,ps direccion b pque a rguez sahagun,0.9714285714285714
+379,302 - Ps. Dirección B - Pque A. Rguez Sahagún,ps direccion b pque a rguez sahagun,298,Ps. Dirección A - Pque A. Rguez Sahagún,303,ps direccion a pque a rguez sahagun,0.9714285714285714
+604,262 - María de las Mercedes de Borbón B,maria de las mercedes de borbon b,603,María de las Mercedes de Borbón A,611,maria de las mercedes de borbon a,0.9696969696969697
+605,611 - María de las Mercedes de Borbón A,maria de las mercedes de borbon a,259,María de las Mercedes de Borbón B,262,maria de las mercedes de borbon b,0.9696969696969697
+319,305 - Intercambiador de Príncipe Pío B,intercambiador de principe pio b,157,Intercambiador de Príncipe Pío A,161,intercambiador de principe pio a,0.96875
+155,161 - Intercambiador de Príncipe Pío A,intercambiador de principe pio a,300,Intercambiador de Príncipe Pío B,305,intercambiador de principe pio b,0.96875
+527,274 - Estación Sur Méndez Álvaro A,estacion sur mendez alvaro a,175,Estación Sur Méndez Álvaro B,180,estacion sur mendez alvaro b,0.9642857142857143
+249,258 - Metro Ciudad Universitaria A,metro ciudad universitaria a,254,Metro Ciudad Universitaria B,259,metro ciudad universitaria b,0.9642857142857143
+250,259 - Metro Ciudad Universitaria B,metro ciudad universitaria b,253,Metro Ciudad Universitaria A,258,metro ciudad universitaria a,0.9642857142857143
+172,180 - Estación Sur Méndez Álvaro B,estacion sur mendez alvaro b,269,Estación Sur Méndez Álvaro A,274,estacion sur mendez alvaro a,0.9642857142857143
+150,155 - San Germán 57,san german 57,233,"San Germán, 5",238,san german 5,0.96
+211,219 - Camino de los Vinateros B,camino de los vinateros b,213,Camino de los Vinateros A,218,camino de los vinateros a,0.96
+210,218 - Camino de los Vinateros A,camino de los vinateros a,214,Camino de los Vinateros B,219,camino de los vinateros b,0.96
+229,"238 - San Germán, 5",san german 5,151,San Germán 57,155,san german 57,0.96
+586,"276 - Paseo de las Yeserías, 15",paseo de las yeserias 15,170,"Paseo de las Yeserías, 45",174,paseo de las yeserias 45,0.9583333333333334
+168,"174 - Paseo de las Yeserías, 45",paseo de las yeserias 45,271,"Paseo de las Yeserías, 15",276,paseo de las yeserias 15,0.9583333333333334
+503,401 - Estación de tren de Villaverde Bajo,estacion de tren de villaverde bajo,406,Estación de tren de Villaverde Alto,411,estacion de tren de villaverde alto,0.9428571428571428
+580,411 - Estación de tren de Villaverde Alto,estacion de tren de villaverde alto,396,Estación de tren de Villaverde Bajo,401,estacion de tren de villaverde bajo,0.9428571428571428
+420,535 - Metro Canillas,metro canillas,501,Metro Canillejas,508,metro canillejas,0.9333333333333333
+111,116A - Plaza de España - Martín de los Heros,116a plaza de espana martin de los heros,111,Plaza de España - Martín de los Heros,116A,plaza de espana martin de los heros,0.9333333333333333
+531,508 - Metro Canillejas,metro canillejas,527,Metro Canillas,535,metro canillas,0.9333333333333333
+5,6 - Colegio de Arquitectos,colegio de arquitectos,6,Colegio Arquitectos,6,colegio arquitectos,0.926829268292683
+456,"378 - Eugenia de Montijo, 83",eugenia de montijo 83,363,Eugenia de Montijo,368,eugenia de montijo,0.9230769230769231
+438,368 - Eugenia de Montijo,eugenia de montijo,373,"Eugenia de Montijo, 83",378,eugenia de montijo 83,0.9230769230769231
+532,80A - Estación de Atocha A,80a estacion de atocha a,623,Estación de Atocha A,80A,estacion de atocha a,0.9090909090909091
+533,80B - Estación de Atocha B,80b estacion de atocha b,624,Estación de Atocha B,80B,estacion de atocha b,0.9090909090909091
+23,25B - Plaza de Celenque B,25b plaza de celenque b,256,Plaza de Celenque B,25B,plaza de celenque b,0.9047619047619048
+22,25A - Plaza de Celenque A,25a plaza de celenque a,255,Plaza de Celenque A,25A,plaza de celenque a,0.9047619047619048
+360,397 - Centro Deportivo Municipal Orcasur,centro deportivo municipal orcasur,318,Centro Deportivo Municipal Gallur,323,centro deportivo municipal gallur,0.8955223880597015
+300,323 - Centro Deportivo Municipal Gallur,centro deportivo municipal gallur,392,Centro Deportivo Municipal Orcasur,397,centro deportivo municipal orcasur,0.8955223880597015
+285,499 - Biblioteca Pública Municipal Canillejas,biblioteca publica municipal canillejas,497,Biblioteca Pública Municipal San Blas,504,biblioteca publica municipal san blas,0.8947368421052632
+35,38 - Plaza de los Carros,plaza de los carros,67,Plaza de los Astros,73,plaza de los astros,0.8947368421052632
+338,504 - Biblioteca Pública Municipal San Blas,biblioteca publica municipal san blas,492,Biblioteca Pública Municipal Canillejas,499,biblioteca publica municipal canillejas,0.8947368421052632
+68,73 - Plaza de los Astros,plaza de los astros,35,Plaza de los Carros,38,plaza de los carros,0.8947368421052632
+112,116B - Metro Plaza de España,116b metro plaza de espana,112,Metro Plaza de España,116B,metro plaza de espana,0.8936170212765957
+435,292 - Centro Deportivo Municipal Pradillo,centro deportivo municipal pradillo,318,Centro Deportivo Municipal Gallur,323,centro deportivo municipal gallur,0.8823529411764706
+300,323 - Centro Deportivo Municipal Gallur,centro deportivo municipal gallur,287,Centro Deportivo Municipal Pradillo,292,centro deportivo municipal pradillo,0.8823529411764706
+166,172 - Estación de tren de Delicias,estacion de tren de delicias,584,Estación de tren de Pitis,592,estacion de tren de pitis,0.8679245283018868
+449,592 - Estación de tren de Pitis,estacion de tren de pitis,168,Estación de tren de Delicias,172,estacion de tren de delicias,0.8679245283018868
+171,178 - Junta Municipal Distrito de Retiro,junta municipal distrito de retiro,386,Junta Municipal Distrito de Usera,391,junta municipal distrito de usera,0.8656716417910447
+100,106B - Plaza de Colón B,106b plaza de colon b,100,Plaza de Colón B,106B,plaza de colon b,0.8648648648648649
+409,106A - Plaza de Colón A,106a plaza de colon a,99,Plaza de Colón A,106A,plaza de colon a,0.8648648648648649
+533,80B - Estación de Atocha B,80b estacion de atocha b,623,Estación de Atocha A,80A,estacion de atocha a,0.8636363636363636
+532,80A - Estación de Atocha A,80a estacion de atocha a,624,Estación de Atocha B,80B,estacion de atocha b,0.8636363636363636
+575,564 - IFEMA B,ifema b,560,IFEMA A,568,ifema a,0.8571428571428571
+501,568 - IFEMA A,ifema a,556,IFEMA B,564,ifema b,0.8571428571428571
+23,25B - Plaza de Celenque B,25b plaza de celenque b,255,Plaza de Celenque A,25A,plaza de celenque a,0.8571428571428571
+106,111B - Metro Moncloa B,111b metro moncloa b,106,Metro Moncloa B,111B,metro moncloa b,0.8571428571428571
+105,111A - Metro Moncloa A,111a metro moncloa a,105,Metro Moncloa A,111A,metro moncloa a,0.8571428571428571
+6,"7 - Hortaleza, 75",hortaleza 75,7,Hortaleza,7,hortaleza,0.8571428571428571
+22,25A - Plaza de Celenque A,25a plaza de celenque a,256,Plaza de Celenque B,25B,plaza de celenque b,0.8571428571428571
+360,397 - Centro Deportivo Municipal Orcasur,centro deportivo municipal orcasur,592,Centro Deportivo Municipal La Masó,600,centro deportivo municipal la maso,0.8529411764705882
+516,600 - Centro Deportivo Municipal La Masó,centro deportivo municipal la maso,392,Centro Deportivo Municipal Orcasur,397,centro deportivo municipal orcasur,0.8529411764705882
+157,163 - Metro Acacias,metro acacias,494,Metro Alsacia,501,metro alsacia,0.8461538461538461
+420,535 - Metro Canillas,metro canillas,2,Metro Callao,2,metro callao,0.8461538461538461
+283,501 - Metro Alsacia,metro alsacia,159,Metro Acacias,163,metro acacias,0.8461538461538461
+627,631 -  CAMPUS SUR 2,campus sur 2,429,Campus Sur UPM,436,campus sur upm,0.8461538461538461
+1,2 - Metro Callao,metro callao,527,Metro Canillas,535,metro canillas,0.8461538461538461
+340,404 - Junta Municipal Distrito de Villaverde,junta municipal distrito de villaverde,386,Junta Municipal Distrito de Usera,391,junta municipal distrito de usera,0.8450704225352113
+199,207 - Plaza de la Remonta,plaza de la remonta,188,Plaza de las Ventas,193,plaza de las ventas,0.8421052631578947
+185,193 - Plaza de las Ventas,plaza de las ventas,202,Plaza de la Remonta,207,plaza de la remonta,0.8421052631578947
+435,292 - Centro Deportivo Municipal Pradillo,centro deportivo municipal pradillo,592,Centro Deportivo Municipal La Masó,600,centro deportivo municipal la maso,0.8405797101449275
+516,600 - Centro Deportivo Municipal La Masó,centro deportivo municipal la maso,287,Centro Deportivo Municipal Pradillo,292,centro deportivo municipal pradillo,0.8405797101449275
+435,292 - Centro Deportivo Municipal Pradillo,centro deportivo municipal pradillo,392,Centro Deportivo Municipal Orcasur,397,centro deportivo municipal orcasur,0.8405797101449275
+445,373 - Metro La Peseta,metro la peseta,369,Dinero - La Peseta,374,dinero la peseta,0.8387096774193549
+530,521 - Metro Las Rosas,metro las rosas,126,Metro Ríos Rosas,130,metro rios rosas,0.8387096774193549
+446,374 - Dinero - La Peseta,dinero la peseta,368,Metro La Peseta,373,metro la peseta,0.8387096774193549
+126,130 - Metro Ríos Rosas,metro rios rosas,513,Metro Las Rosas,521,metro las rosas,0.8387096774193549
+300,323 - Centro Deportivo Municipal Gallur,centro deportivo municipal gallur,592,Centro Deportivo Municipal La Masó,600,centro deportivo municipal la maso,0.835820895522388
+342,355 - Intercambiador de Plaza Elíptica,intercambiador de plaza eliptica,203,Intercambiador de Plaza de Castilla,208,intercambiador de plaza de castilla,0.835820895522388
+516,600 - Centro Deportivo Municipal La Masó,centro deportivo municipal la maso,318,Centro Deportivo Municipal Gallur,323,centro deportivo municipal gallur,0.835820895522388
+435,292 - Centro Deportivo Municipal Pradillo,centro deportivo municipal pradillo,224,Centro Deportivo Municipal Concepción,229,centro deportivo municipal concepcion,0.8333333333333334
+340,404 - Junta Municipal Distrito de Villaverde,junta municipal distrito de villaverde,174,Junta Municipal Distrito de Retiro,178,junta municipal distrito de retiro,0.8333333333333334
+301,324 - Metro Lucero,metro lucero,332,Metro Aluche,337,metro aluche,0.8333333333333334
+465,337 - Metro Aluche,metro aluche,319,Metro Lucero,324,metro lucero,0.8333333333333334
+171,178 - Junta Municipal Distrito de Retiro,junta municipal distrito de retiro,399,Junta Municipal Distrito de Villaverde,404,junta municipal distrito de villaverde,0.8333333333333334
+171,178 - Junta Municipal Distrito de Retiro,junta municipal distrito de retiro,364,Junta Municipal Distrito de Carabanchel,369,junta municipal distrito de carabanchel,0.821917808219178
+88,94 - Estación de tren de Recoletos,estacion de tren de recoletos,414,Estación de tren de El Pozo,419,estacion de tren de el pozo,0.8214285714285714
+594,474 - Estación de tren de Vicálvaro,estacion de tren de vicalvaro,305,Estación de tren de Aravaca,310,estacion de tren de aravaca,0.8214285714285714
+312,419 - Estación de tren de El Pozo,estacion de tren de el pozo,87,Estación de tren de Recoletos,94,estacion de tren de recoletos,0.8214285714285714
+7,8 - Metro Alonso Martínez,metro alonso martinez,37,Metro Antón Martín,41,metro anton martin,0.8205128205128205
+24,26 - Plaza de las Salesas,plaza de las salesas,188,Plaza de las Ventas,193,plaza de las ventas,0.8205128205128205
+38,41 - Metro Antón Martín,metro anton martin,8,Metro Alonso Martínez,8,metro alonso martinez,0.8205128205128205
+185,193 - Plaza de las Ventas,plaza de las ventas,24,Plaza de las Salesas,26,plaza de las salesas,0.8205128205128205
+1,2 - Metro Callao,metro callao,315,Metro Lago,320,metro lago,0.8181818181818182
+551,320 - Metro Lago,metro lago,2,Metro Callao,2,metro callao,0.8181818181818182
+551,320 - Metro Lago,metro lago,120,Metro Bilbao,124,metro bilbao,0.8181818181818182
+551,320 - Metro Lago,metro lago,588,Metro Lacoma,596,metro lacoma,0.8181818181818182
+462,596 - Metro Lacoma,metro lacoma,315,Metro Lago,320,metro lago,0.8181818181818182
+120,124 - Metro Bilbao,metro bilbao,315,Metro Lago,320,metro lago,0.8181818181818182
+422,329 - Metro Laguna,metro laguna,315,Metro Lago,320,metro lago,0.8181818181818182
+438,368 - Eugenia de Montijo,eugenia de montijo,377,"arque Eugenia de Montijo, 2",382,arque eugenia de montijo 2,0.8181818181818182
+551,320 - Metro Lago,metro lago,324,Metro Laguna,329,metro laguna,0.8181818181818182
+535,412 - Estación de tren de Puente de Alcocer,estacion de tren de puente de alcocer,532,Estación de tren Fuente de la Mora,540,estacion de tren fuente de la mora,0.8169014084507042
+463,540 - Estación de tren Fuente de la Mora,estacion de tren fuente de la mora,407,Estación de tren de Puente de Alcocer,412,estacion de tren de puente de alcocer,0.8169014084507042
+360,397 - Centro Deportivo Municipal Orcasur,centro deportivo municipal orcasur,224,Centro Deportivo Municipal Concepción,229,centro deportivo municipal concepcion,0.8169014084507042
+255,385 - Estación de tren Orcasitas,estacion de tren orcasitas,334,Estación de tren Las Águilas,339,estacion de tren las aguilas,0.8148148148148148
+157,163 - Metro Acacias,metro acacias,527,Metro Canillas,535,metro canillas,0.8148148148148148
+88,94 - Estación de tren de Recoletos,estacion de tren de recoletos,584,Estación de tren de Pitis,592,estacion de tren de pitis,0.8148148148148148
+467,339 - Estación de tren Las Águilas,estacion de tren las aguilas,380,Estación de tren Orcasitas,385,estacion de tren orcasitas,0.8148148148148148
+420,535 - Metro Canillas,metro canillas,159,Metro Acacias,163,metro acacias,0.8148148148148148
+449,592 - Estación de tren de Pitis,estacion de tren de pitis,87,Estación de tren de Recoletos,94,estacion de tren de recoletos,0.8148148148148148
+594,474 - Estación de tren de Vicálvaro,estacion de tren de vicalvaro,396,Estación de tren de Villaverde Bajo,401,estacion de tren de villaverde bajo,0.8125
+503,401 - Estación de tren de Villaverde Bajo,estacion de tren de villaverde bajo,467,Estación de tren de Vicálvaro,474,estacion de tren de vicalvaro,0.8125
+360,397 - Centro Deportivo Municipal Orcasur,centro deportivo municipal orcasur,287,Centro Deportivo Municipal Pradillo,292,centro deportivo municipal pradillo,0.8115942028985508
+409,106A - Plaza de Colón A,106a plaza de colon a,100,Plaza de Colón B,106B,plaza de colon b,0.8108108108108109
+100,106B - Plaza de Colón B,106b plaza de colon b,99,Plaza de Colón A,106A,plaza de colon a,0.8108108108108109
+456,"378 - Eugenia de Montijo, 83",eugenia de montijo 83,377,"arque Eugenia de Montijo, 2",382,arque eugenia de montijo 2,0.8085106382978723
+562,263 - Gran Vía de San Francisco,gran via de san francisco,34,Plaza de San Francisco,37,plaza de san francisco,0.8085106382978723
+312,419 - Estación de tren de El Pozo,estacion de tren de el pozo,584,Estación de tren de Pitis,592,estacion de tren de pitis,0.8076923076923077
+449,592 - Estación de tren de Pitis,estacion de tren de pitis,414,Estación de tren de El Pozo,419,estacion de tren de el pozo,0.8076923076923077
+572,310 - Estación de tren de Aravaca,estacion de tren de aravaca,593,Estación de tren de Fuencarral,601,estacion de tren de fuencarral,0.8070175438596491
+166,172 - Estación de tren de Delicias,estacion de tren de delicias,467,Estación de tren de Vicálvaro,474,estacion de tren de vicalvaro,0.8070175438596491
+594,474 - Estación de tren de Vicálvaro,estacion de tren de vicalvaro,168,Estación de tren de Delicias,172,estacion de tren de delicias,0.8070175438596491
+88,94 - Estación de tren de Recoletos,estacion de tren de recoletos,168,Estación de tren de Delicias,172,estacion de tren de delicias,0.8070175438596491
+166,172 - Estación de tren de Delicias,estacion de tren de delicias,87,Estación de tren de Recoletos,94,estacion de tren de recoletos,0.8070175438596491
+200,208 - Intercambiador de Plaza de Castilla,intercambiador de plaza de castilla,350,Intercambiador de Plaza Elíptica,355,intercambiador de plaza eliptica,0.8059701492537313
+350,573 - Melchor Fernández Almagro - Villa Marín,melchor fernandez almagro villa marin,563,Melchor Fernández Almagro - Plaza Tuy,571,melchor fernandez almagro plaza tuy,0.8055555555555556
+316,571 - Melchor Fernández Almagro - Plaza Tuy,melchor fernandez almagro plaza tuy,565,Melchor Fernández Almagro - Villa Marín,573,melchor fernandez almagro villa marin,0.8055555555555556
+105,111A - Metro Moncloa A,111a metro moncloa a,106,Metro Moncloa B,111B,metro moncloa b,0.8
+29,32 - Plaza de la Provincia,plaza de la provincia,202,Plaza de la Remonta,207,plaza de la remonta,0.8
+420,535 - Metro Canillas,metro canillas,196,Metro Canal,201,metro canal,0.8
+631,633 - HUB Plaza de España,hub plaza de espana,112,Metro Plaza de España,116B,metro plaza de espana,0.8
+59,62 - Hospital M. Infantil Gregorio Marañón,hospital m infantil gregorio maranon,59,Hospital Gral. Uni. Gregorio Marañón,63,hospital gral uni gregorio maranon,0.8
+60,63 - Hospital Gral. Uni. Gregorio Marañón,hospital gral uni gregorio maranon,58,Hospital M. Infantil Gregorio Marañón,62,hospital m infantil gregorio maranon,0.8
+462,596 - Metro Lacoma,metro lacoma,494,Metro Alsacia,501,metro alsacia,0.8
+166,172 - Estación de tren de Delicias,estacion de tren de delicias,305,Estación de tren de Aravaca,310,estacion de tren de aravaca,0.8
+283,501 - Metro Alsacia,metro alsacia,588,Metro Lacoma,596,metro lacoma,0.8
+427,364 - Metro Opañel,metro opanel,216,Metro Pavones,221,metro pavones,0.8
+166,172 - Estación de tren de Delicias,estacion de tren de delicias,414,Estación de tren de El Pozo,419,estacion de tren de el pozo,0.8
+199,207 - Plaza de la Remonta,plaza de la remonta,29,Plaza de la Provincia,32,plaza de la provincia,0.8
+193,201 - Metro Canal,metro canal,527,Metro Canillas,535,metro canillas,0.8
+213,221 - Metro Pavones,metro pavones,359,Metro Opañel,364,metro opanel,0.8
+106,111B - Metro Moncloa B,111b metro moncloa b,105,Metro Moncloa A,111A,metro moncloa a,0.8
+511,"382 -Parque Eugenia de Montijo, 2",parque eugenia de montijo 2,363,Eugenia de Montijo,368,eugenia de montijo,0.8
+312,419 - Estación de tren de El Pozo,estacion de tren de el pozo,168,Estación de tren de Delicias,172,estacion de tren de delicias,0.8
+79,85 - Parque del Retiro - Puerta de O´Donnell,parque del retiro puerta de o donnell,63,Parque del Retiro - Puerta Ángel Caído,69,parque del retiro puerta angel caido,0.7945205479452054
+594,474 - Estación de tren de Vicálvaro,estacion de tren de vicalvaro,87,Estación de tren de Recoletos,94,estacion de tren de recoletos,0.7931034482758621
+599,601 - Estación de tren de Fuencarral,estacion de tren de fuencarral,168,Estación de tren de Delicias,172,estacion de tren de delicias,0.7931034482758621
+248,257 - Ciudad Universitaria - INEF,ciudad universitaria inef,254,Metro Ciudad Universitaria B,259,metro ciudad universitaria b,0.7924528301886793
+249,258 - Metro Ciudad Universitaria A,metro ciudad universitaria a,252,Ciudad Universitaria - INEF,257,ciudad universitaria inef,0.7924528301886793
+250,259 - Metro Ciudad Universitaria B,metro ciudad universitaria b,252,Ciudad Universitaria - INEF,257,ciudad universitaria inef,0.7924528301886793
+248,257 - Ciudad Universitaria - INEF,ciudad universitaria inef,253,Metro Ciudad Universitaria A,258,metro ciudad universitaria a,0.7924528301886793
+164,"170 - Paseo de la Esperanza, 21",paseo de la esperanza 21,271,"Paseo de las Yeserías, 15",276,paseo de las yeserias 15,0.7916666666666666
+511,"382 -Parque Eugenia de Montijo, 2",parque eugenia de montijo 2,373,"Eugenia de Montijo, 83",378,eugenia de montijo 83,0.7916666666666666
+586,"276 - Paseo de las Yeserías, 15",paseo de las yeserias 15,166,"Paseo de la Esperanza, 21",170,paseo de la esperanza 21,0.7916666666666666
+7,8 - Metro Alonso Martínez,metro alonso martinez,125,Metro Alonso Cano,129,metro alonso cano,0.7894736842105263
+125,129 - Metro Alonso Cano,metro alonso cano,8,Metro Alonso Martínez,8,metro alonso martinez,0.7894736842105263
+221,229 - Centro Deportivo Municipal Concepción,centro deportivo municipal concepcion,392,Centro Deportivo Municipal Orcasur,397,centro deportivo municipal orcasur,0.7887323943661971
+221,229 - Centro Deportivo Municipal Concepción,centro deportivo municipal concepcion,592,Centro Deportivo Municipal La Masó,600,centro deportivo municipal la maso,0.7887323943661971
+516,600 - Centro Deportivo Municipal La Masó,centro deportivo municipal la maso,224,Centro Deportivo Municipal Concepción,229,centro deportivo municipal concepcion,0.7887323943661971
+226,234 - Metro La Elipa,metro la elipa,446,Metro La Gavia,453,metro la gavia,0.7857142857142857
+492,157 - Plaza de Cuzco,plaza de cuzco,145,Plaza de Quito,149,plaza de quito,0.7857142857142857
+145,149 - Plaza de Quito,plaza de quito,153,Plaza de Cuzco,157,plaza de cuzco,0.7857142857142857
+572,310 - Estación de tren de Aravaca,estacion de tren de aravaca,467,Estación de tren de Vicálvaro,474,estacion de tren de vicalvaro,0.7857142857142857
+88,94 - Estación de tren de Recoletos,estacion de tren de recoletos,305,Estación de tren de Aravaca,310,estacion de tren de aravaca,0.7857142857142857
+531,508 - Metro Canillejas,metro canillejas,2,Metro Callao,2,metro callao,0.7857142857142857
+312,419 - Estación de tren de El Pozo,estacion de tren de el pozo,467,Estación de tren de Vicálvaro,474,estacion de tren de vicalvaro,0.7857142857142857
+572,310 - Estación de tren de Aravaca,estacion de tren de aravaca,87,Estación de tren de Recoletos,94,estacion de tren de recoletos,0.7857142857142857
+594,474 - Estación de tren de Vicálvaro,estacion de tren de vicalvaro,414,Estación de tren de El Pozo,419,estacion de tren de el pozo,0.7857142857142857
+1,2 - Metro Callao,metro callao,501,Metro Canillejas,508,metro canillejas,0.7857142857142857
+52,55 - Plaza de San Ildefonso,plaza de san ildefonso,444,"La Granja de San Ildefonso, 14",451,la granja de san ildefonso 14,0.7843137254901961
+259,476 - Metro Avenida de la Paz,metro avenida de la paz,503,Metro Avenida de Guadalajara,510,metro avenida de guadalajara,0.7843137254901961
+389,510 - Metro Avenida de Guadalajara,metro avenida de guadalajara,469,Metro Avenida de la Paz,476,metro avenida de la paz,0.7843137254901961
+449,592 - Estación de tren de Pitis,estacion de tren de pitis,380,Estación de tren Orcasitas,385,estacion de tren orcasitas,0.7843137254901961
+255,385 - Estación de tren Orcasitas,estacion de tren orcasitas,584,Estación de tren de Pitis,592,estacion de tren de pitis,0.7843137254901961
+485,"451 -  La Granja de San Ildefonso, 14",la granja de san ildefonso 14,51,Plaza de San Ildefonso,55,plaza de san ildefonso,0.7843137254901961
+301,324 - Metro Lucero,metro lucero,379,Metro Usera,384,metro usera,0.782608695652174
+253,384 - Metro Usera,metro usera,54,Metro Chueca,58,metro chueca,0.782608695652174
+427,364 - Metro Opañel,metro opanel,196,Metro Canal,201,metro canal,0.782608695652174
+422,329 - Metro Laguna,metro laguna,196,Metro Canal,201,metro canal,0.782608695652174
+570,312 - Metro Batán,metro batan,201,Metro Tetuán,206,metro tetuan,0.782608695652174
+193,201 - Metro Canal,metro canal,359,Metro Opañel,364,metro opanel,0.782608695652174
+193,201 - Metro Canal,metro canal,2,Metro Callao,2,metro callao,0.782608695652174
+253,384 - Metro Usera,metro usera,319,Metro Lucero,324,metro lucero,0.782608695652174
+193,201 - Metro Canal,metro canal,324,Metro Laguna,329,metro laguna,0.782608695652174
+55,58 - Metro Chueca,metro chueca,379,Metro Usera,384,metro usera,0.782608695652174
+1,2 - Metro Callao,metro callao,196,Metro Canal,201,metro canal,0.782608695652174
+198,206 - Metro Tetuán,metro tetuan,307,Metro Batán,312,metro batan,0.782608695652174
+580,411 - Estación de tren de Villaverde Alto,estacion de tren de villaverde alto,467,Estación de tren de Vicálvaro,474,estacion de tren de vicalvaro,0.78125
+594,474 - Estación de tren de Vicálvaro,estacion de tren de vicalvaro,406,Estación de tren de Villaverde Alto,411,estacion de tren de villaverde alto,0.78125
+88,94 - Estación de tren de Recoletos,estacion de tren de recoletos,406,Estación de tren de Villaverde Alto,411,estacion de tren de villaverde alto,0.78125
+141,145 - Ortega y Gasset 87,ortega y gasset 87,96,Ortega y Gasset - Serrano,103,ortega y gasset serrano,0.7804878048780488
+97,103 - Ortega y Gasset - Serrano,ortega y gasset serrano,141,Ortega y Gasset 87,145,ortega y gasset 87,0.7804878048780488
+56,59 - Plaza de Juan Pujol,plaza de juan pujol,127,Plaza de Juan Zorrilla,131,plaza de juan zorrilla,0.7804878048780488
+127,131 - Plaza de Juan Zorrilla,plaza de juan zorrilla,55,Plaza de Juan Pujol,59,plaza de juan pujol,0.7804878048780488
+98,104 - Castellana - Hermosilla,castellana hermosilla,92,Alcántara - Hermosilla,99,alcantara hermosilla,0.7804878048780488
+594,474 - Estación de tren de Vicálvaro,estacion de tren de vicalvaro,593,Estación de tren de Fuencarral,601,estacion de tren de fuencarral,0.7796610169491526
+599,601 - Estación de tren de Fuencarral,estacion de tren de fuencarral,467,Estación de tren de Vicálvaro,474,estacion de tren de vicalvaro,0.7796610169491526
+599,601 - Estación de tren de Fuencarral,estacion de tren de fuencarral,87,Estación de tren de Recoletos,94,estacion de tren de recoletos,0.7796610169491526
+146,151 - Orense 12,orense 12,150,Orense 36,154,orense 36,0.7777777777777778
+149,154 - Orense 36,orense 36,147,Orense 12,151,orense 12,0.7777777777777778
+50,53 - Plaza de Lavapiés,plaza de lavapies,188,Plaza de las Ventas,193,plaza de las ventas,0.7777777777777778
+469,445 - C. Deportivo Mpal. Juan de Dios Román,c deportivo mpal juan de dios roman,311,C. Deportivo Mpal. Ciudad De Los Poetas,316,c deportivo mpal ciudad de los poetas,0.7777777777777778
+459,593 - Metro Avenida de la Ilustración,metro avenida de la ilustracion,469,Metro Avenida de la Paz,476,metro avenida de la paz,0.7777777777777778
+221,229 - Centro Deportivo Municipal Concepción,centro deportivo municipal concepcion,287,Centro Deportivo Municipal Pradillo,292,centro deportivo municipal pradillo,0.7777777777777778
+476,316 - C. Deportivo Mpal. Ciudad De Los Poetas,c deportivo mpal ciudad de los poetas,438,C. Deportivo Mpal. Juan de Dios Román,445,c deportivo mpal juan de dios roman,0.7777777777777778
+449,592 - Estación de tren de Pitis,estacion de tren de pitis,467,Estación de tren de Vicálvaro,474,estacion de tren de vicalvaro,0.7777777777777778
+259,476 - Metro Avenida de la Paz,metro avenida de la paz,585,Metro Avenida de la Ilustración,593,metro avenida de la ilustracion,0.7777777777777778
+594,474 - Estación de tren de Vicálvaro,estacion de tren de vicalvaro,584,Estación de tren de Pitis,592,estacion de tren de pitis,0.7777777777777778
+482,604 - Metro Las Tablas,metro las tablas,513,Metro Las Rosas,521,metro las rosas,0.7741935483870968
+366,526 - Plaza del Liceo,plaza del liceo,52,Plaza del Carmen,56,plaza del carmen,0.7741935483870968
+530,521 - Metro Las Rosas,metro las rosas,596,Metro Las Tablas,604,metro las tablas,0.7741935483870968
+53,56 - Plaza del Carmen,plaza del carmen,518,Plaza del Liceo,526,plaza del liceo,0.7741935483870968
+612,617 - Calle Eduardo Barreiros,calle eduardo barreiros,404,"Eduardo Barreiros, 114",409,eduardo barreiros 114,0.7727272727272727
+544,"409 - Eduardo Barreiros, 114",eduardo barreiros 114,609,Calle Eduardo Barreiros,617,calle eduardo barreiros,0.7727272727272727
+599,601 - Estación de tren de Fuencarral,estacion de tren de fuencarral,414,Estación de tren de El Pozo,419,estacion de tren de el pozo,0.7719298245614035
+155,161 - Intercambiador de Príncipe Pío A,intercambiador de principe pio a,104,Intercambiador de Moncloa,110,intercambiador de moncloa,0.7719298245614035
+312,419 - Estación de tren de El Pozo,estacion de tren de el pozo,593,Estación de tren de Fuencarral,601,estacion de tren de fuencarral,0.7719298245614035
+599,601 - Estación de tren de Fuencarral,estacion de tren de fuencarral,305,Estación de tren de Aravaca,310,estacion de tren de aravaca,0.7719298245614035
+104,110 - Intercambiador de Moncloa,intercambiador de moncloa,157,Intercambiador de Príncipe Pío A,161,intercambiador de principe pio a,0.7719298245614035
+300,323 - Centro Deportivo Municipal Gallur,centro deportivo municipal gallur,224,Centro Deportivo Municipal Concepción,229,centro deportivo municipal concepcion,0.7714285714285715
+221,229 - Centro Deportivo Municipal Concepción,centro deportivo municipal concepcion,318,Centro Deportivo Municipal Gallur,323,centro deportivo municipal gallur,0.7714285714285715
+570,312 - Metro Batán,metro batan,371,Metro Carpetana,376,metro carpetana,0.7692307692307693
+422,329 - Metro Laguna,metro laguna,446,Metro La Gavia,453,metro la gavia,0.7692307692307693
+157,163 - Metro Acacias,metro acacias,557,Metro Barajas,565,metro barajas,0.7692307692307693
+518,565 - Metro Barajas,metro barajas,159,Metro Acacias,163,metro acacias,0.7692307692307693
+426,363 - Metro Oporto,metro oporto,442,Metro Congosto,449,metro congosto,0.7692307692307693
+154,160 - Metro Colombia,metro colombia,588,Metro Lacoma,596,metro lacoma,0.7692307692307693
+237,246 - Metro Iglesia,metro iglesia,494,Metro Alsacia,501,metro alsacia,0.7692307692307693
+449,592 - Estación de tren de Pitis,estacion de tren de pitis,305,Estación de tren de Aravaca,310,estacion de tren de aravaca,0.7692307692307693
+572,310 - Estación de tren de Aravaca,estacion de tren de aravaca,584,Estación de tren de Pitis,592,estacion de tren de pitis,0.7692307692307693
+287,497 - Metro Suances,metro suances,216,Metro Pavones,221,metro pavones,0.7692307692307693
+405,530 - Metro Mar de Cristal,metro mar de cristal,403,Metro San Cristóbal,408,metro san cristobal,0.7692307692307693
+413,585 - Metro Fuencarral,metro fuencarral,5,Fuencarral,5,fuencarral,0.7692307692307693
+283,501 - Metro Alsacia,metro alsacia,241,Metro Iglesia,246,metro iglesia,0.7692307692307693
+543,408 - Metro San Cristóbal,metro san cristobal,522,Metro Mar de Cristal,530,metro mar de cristal,0.7692307692307693
+450,376 - Metro Carpetana,metro carpetana,196,Metro Canal,201,metro canal,0.7692307692307693
+193,201 - Metro Canal,metro canal,371,Metro Carpetana,376,metro carpetana,0.7692307692307693
+479,449 - Metro Congosto,metro congosto,358,Metro Oporto,363,metro oporto,0.7692307692307693
+213,221 - Metro Pavones,metro pavones,490,Metro Suances,497,metro suances,0.7692307692307693
+4,5 - Fuencarral,fuencarral,577,Metro Fuencarral,585,metro fuencarral,0.7692307692307693
+462,596 - Metro Lacoma,metro lacoma,156,Metro Colombia,160,metro colombia,0.7692307692307693
+450,376 - Metro Carpetana,metro carpetana,307,Metro Batán,312,metro batan,0.7692307692307693
+487,453 - Metro La Gavia,metro la gavia,324,Metro Laguna,329,metro laguna,0.7692307692307693
+320,306 - Centro Deportivo Mpal Fernando Martín,centro deportivo mpal fernando martin,506,Centro Deportivo Mpal. Pepu Hernández,513,centro deportivo mpal pepu hernandez,0.7671232876712328
+252,261 - Ciudad Universitaria - Facultad Derecho,ciudad universitaria facultad derecho,257,Ciudad Universitaria - Fac. de Biología,260,ciudad universitaria fac de biologia,0.7671232876712328
+251,260 - Ciudad Universitaria - Fac. de Biología,ciudad universitaria fac de biologia,258,Ciudad Universitaria - Facultad Derecho,261,ciudad universitaria facultad derecho,0.7671232876712328
+392,513 - Centro Deportivo Mpal. Pepu Hernández,centro deportivo mpal pepu hernandez,301,Centro Deportivo Mpal Fernando Martín,306,centro deportivo mpal fernando martin,0.7671232876712328
+64,69 - Parque del Retiro - Puerta Ángel Caído,parque del retiro puerta angel caido,78,Parque del Retiro - Puerta de O´Donnell,85,parque del retiro puerta de o donnell,0.7671232876712328
+398,441 - Estación de tren de Santa Eugenia,estacion de tren de santa eugenia,305,Estación de tren de Aravaca,310,estacion de tren de aravaca,0.7666666666666667
+572,310 - Estación de tren de Aravaca,estacion de tren de aravaca,434,Estación de tren de Santa Eugenia,441,estacion de tren de santa eugenia,0.7666666666666667
+98,104 - Castellana - Hermosilla,castellana hermosilla,146,Castellana - Hermanos Pinzón,150,castellana hermanos pinzon,0.7659574468085106
+491,150 - Castellana - Hermanos Pinzón,castellana hermanos pinzon,97,Castellana - Hermosilla,104,castellana hermosilla,0.7659574468085106
+366,526 - Plaza del Liceo,plaza del liceo,215,Plaza del Encuentro,220,plaza del encuentro,0.7647058823529411
+483,348 - José de Cadalso - Rafael Finat,jose de cadalso rafael finat,337,Osa de la Vega - Rafael Finat,342,osa de la vega rafael finat,0.7636363636363637
+572,310 - Estación de tren de Aravaca,estacion de tren de aravaca,168,Estación de tren de Delicias,172,estacion de tren de delicias,0.7636363636363637
+88,94 - Estación de tren de Recoletos,estacion de tren de recoletos,380,Estación de tren Orcasitas,385,estacion de tren orcasitas,0.7636363636363637
+233,242 - Metro Parque de las Avenidas,metro parque de las avenidas,523,Metro Parque de Santa María,531,metro parque de santa maria,0.7636363636363637
+599,601 - Estación de tren de Fuencarral,estacion de tren de fuencarral,434,Estación de tren de Santa Eugenia,441,estacion de tren de santa eugenia,0.7619047619047619
+144,148 - Serrano 210,serrano 210,98,"Serrano, 46",105,serrano 46,0.7619047619047619
+427,364 - Metro Opañel,metro opanel,1,Metro Sol,1,metro sol,0.7619047619047619
+99,"105 - Serrano, 46",serrano 46,144,Serrano 210,148,serrano 210,0.7619047619047619
+398,441 - Estación de tren de Santa Eugenia,estacion de tren de santa eugenia,593,Estación de tren de Fuencarral,601,estacion de tren de fuencarral,0.7619047619047619
+561,1 - Metro Sol,metro sol,359,Metro Opañel,364,metro opanel,0.7619047619047619
+86,92 - Claudio Coello - Hermosilla,claudio coello hermosilla,88,Claudio Coello - Villanueva,95,claudio coello villanueva,0.76
+89,95 - Claudio Coello - Villanueva,claudio coello villanueva,85,Claudio Coello - Hermosilla,92,claudio coello hermosilla,0.76
+245,254 - Plaza del Perú,plaza del peru,518,Plaza del Liceo,526,plaza del liceo,0.7586206896551724
+445,373 - Metro La Peseta,metro la peseta,229,Metro La Elipa,234,metro la elipa,0.7586206896551724
+145,149 - Plaza de Quito,plaza de quito,518,Plaza del Liceo,526,plaza del liceo,0.7586206896551724
+157,163 - Metro Acacias,metro acacias,501,Metro Canillejas,508,metro canillejas,0.7586206896551724
+166,172 - Estación de tren de Delicias,estacion de tren de delicias,593,Estación de tren de Fuencarral,601,estacion de tren de fuencarral,0.7586206896551724
+308,492 - Metro La Almudena,metro la almudena,324,Metro Laguna,329,metro laguna,0.7586206896551724
+531,508 - Metro Canillejas,metro canillejas,159,Metro Acacias,163,metro acacias,0.7586206896551724
+567,346 - Metro Empalme,metro empalme,329,Metro Campamento,334,metro campamento,0.7586206896551724
+337,525 - Metro Manoteras,metro manoteras,372,Metro Abrantes,377,metro abrantes,0.7586206896551724
+366,526 - Plaza del Liceo,plaza del liceo,145,Plaza de Quito,149,plaza de quito,0.7586206896551724
+366,526 - Plaza del Liceo,plaza del liceo,249,Plaza del Perú,254,plaza del peru,0.7586206896551724
+366,526 - Plaza del Liceo,plaza del liceo,153,Plaza de Cuzco,157,plaza de cuzco,0.7586206896551724
+226,234 - Metro La Elipa,metro la elipa,368,Metro La Peseta,373,metro la peseta,0.7586206896551724
+453,334 - Metro Campamento,metro campamento,341,Metro Empalme,346,metro empalme,0.7586206896551724
+492,157 - Plaza de Cuzco,plaza de cuzco,518,Plaza del Liceo,526,plaza del liceo,0.7586206896551724
+422,329 - Metro Laguna,metro laguna,485,Metro La Almudena,492,metro la almudena,0.7586206896551724
+88,94 - Estación de tren de Recoletos,estacion de tren de recoletos,467,Estación de tren de Vicálvaro,474,estacion de tren de vicalvaro,0.7586206896551724
+531,508 - Metro Canillejas,metro canillejas,477,Metro García Noblejas,484,metro garcia noblejas,0.7567567567567568
+36,39 - Plaza de la Cebada,plaza de la cebada,202,Plaza de la Remonta,207,plaza de la remonta,0.7567567567567568
+36,39 - Plaza de la Cebada,plaza de la cebada,188,Plaza de las Ventas,193,plaza de las ventas,0.7567567567567568
+50,53 - Plaza de Lavapiés,plaza de lavapies,24,Plaza de las Salesas,26,plaza de las salesas,0.7567567567567568
+180,188 - Puente de Ventas,puente de ventas,625,EV Puente de Vallecas,8000,ev puente de vallecas,0.7567567567567568
+185,193 - Plaza de las Ventas,plaza de las ventas,36,Plaza de la Cebada,39,plaza de la cebada,0.7567567567567568
+24,26 - Plaza de las Salesas,plaza de las salesas,49,Plaza de Lavapiés,53,plaza de lavapies,0.7567567567567568
+199,207 - Plaza de la Remonta,plaza de la remonta,36,Plaza de la Cebada,39,plaza de la cebada,0.7567567567567568
+629,8000 - EV Puente de Vallecas,ev puente de vallecas,183,Puente de Ventas,188,puente de ventas,0.7567567567567568
+35,38 - Plaza de los Carros,plaza de los carros,17,Plaza de Carlos Cambronero,17,plaza de carlos cambronero,0.7555555555555555
+16,17 - Plaza de Carlos Cambronero,plaza de carlos cambronero,35,Plaza de los Carros,38,plaza de los carros,0.7555555555555555
+104,110 - Intercambiador de Moncloa,intercambiador de moncloa,534,Intercambiador de Valdebebas,542,intercambiador de valdebebas,0.7547169811320755
+255,385 - Estación de tren Orcasitas,estacion de tren orcasitas,305,Estación de tren de Aravaca,310,estacion de tren de aravaca,0.7547169811320755
+449,592 - Estación de tren de Pitis,estacion de tren de pitis,334,Estación de tren Las Águilas,339,estacion de tren las aguilas,0.7547169811320755
+572,310 - Estación de tren de Aravaca,estacion de tren de aravaca,380,Estación de tren Orcasitas,385,estacion de tren orcasitas,0.7547169811320755
+166,172 - Estación de tren de Delicias,estacion de tren de delicias,434,Estación de tren de Santa Eugenia,441,estacion de tren de santa eugenia,0.7540983606557377
+398,441 - Estación de tren de Santa Eugenia,estacion de tren de santa eugenia,168,Estación de tren de Delicias,172,estacion de tren de delicias,0.7540983606557377
+572,310 - Estación de tren de Aravaca,estacion de tren de aravaca,532,Estación de tren Fuente de la Mora,540,estacion de tren fuente de la mora,0.7540983606557377
+463,540 - Estación de tren Fuente de la Mora,estacion de tren fuente de la mora,414,Estación de tren de El Pozo,419,estacion de tren de el pozo,0.7540983606557377
+463,540 - Estación de tren Fuente de la Mora,estacion de tren fuente de la mora,305,Estación de tren de Aravaca,310,estacion de tren de aravaca,0.7540983606557377
+312,419 - Estación de tren de El Pozo,estacion de tren de el pozo,532,Estación de tren Fuente de la Mora,540,estacion de tren fuente de la mora,0.7540983606557377
+340,404 - Junta Municipal Distrito de Villaverde,junta municipal distrito de villaverde,364,Junta Municipal Distrito de Carabanchel,369,junta municipal distrito de carabanchel,0.7532467532467533
+168,"174 - Paseo de las Yeserías, 45",paseo de las yeserias 45,166,"Paseo de la Esperanza, 21",170,paseo de la esperanza 21,0.75
+157,163 - Metro Acacias,metro acacias,196,Metro Canal,201,metro canal,0.75
+518,565 - Metro Barajas,metro barajas,307,Metro Batán,312,metro batan,0.75
+1,2 - Metro Callao,metro callao,588,Metro Lacoma,596,metro lacoma,0.75
+462,596 - Metro Lacoma,metro lacoma,2,Metro Callao,2,metro callao,0.75
+462,596 - Metro Lacoma,metro lacoma,324,Metro Laguna,329,metro laguna,0.75
+599,601 - Estación de tren de Fuencarral,estacion de tren de fuencarral,532,Estación de tren Fuente de la Mora,540,estacion de tren fuente de la mora,0.75
+462,596 - Metro Lacoma,metro lacoma,120,Metro Bilbao,124,metro bilbao,0.75
+193,201 - Metro Canal,metro canal,159,Metro Acacias,163,metro acacias,0.75
+185,193 - Plaza de las Ventas,plaza de las ventas,29,Plaza de la Provincia,32,plaza de la provincia,0.75
+487,453 - Metro La Gavia,metro la gavia,315,Metro Lago,320,metro lago,0.75
+465,337 - Metro Aluche,metro aluche,54,Metro Chueca,58,metro chueca,0.75
+462,596 - Metro Lacoma,metro lacoma,319,Metro Lucero,324,metro lucero,0.75
+29,32 - Plaza de la Provincia,plaza de la provincia,188,Plaza de las Ventas,193,plaza de las ventas,0.75
+551,320 - Metro Lago,metro lago,446,Metro La Gavia,453,metro la gavia,0.75
+301,324 - Metro Lucero,metro lucero,588,Metro Lacoma,596,metro lacoma,0.75
+550,542 - Intercambiador de Valdebebas,intercambiador de valdebebas,189,Intercambiador de Avenida de América,194,intercambiador de avenida de america,0.75
+96,102 - Metro Retiro,metro retiro,358,Metro Oporto,363,metro oporto,0.75
+55,58 - Metro Chueca,metro chueca,332,Metro Aluche,337,metro aluche,0.75
+301,324 - Metro Lucero,metro lucero,95,Metro Retiro,102,metro retiro,0.75
+96,102 - Metro Retiro,metro retiro,319,Metro Lucero,324,metro lucero,0.75
+535,412 - Estación de tren de Puente de Alcocer,estacion de tren de puente de alcocer,406,Estación de tren de Villaverde Alto,411,estacion de tren de villaverde alto,0.75
+591,448 - Metro Las Suertes,metro las suertes,513,Metro Las Rosas,521,metro las rosas,0.75
+1,2 - Metro Callao,metro callao,120,Metro Bilbao,124,metro bilbao,0.75
+366,526 - Plaza del Liceo,plaza del liceo,49,Plaza de Lavapiés,53,plaza de lavapies,0.75
+580,411 - Estación de tren de Villaverde Alto,estacion de tren de villaverde alto,407,Estación de tren de Puente de Alcocer,412,estacion de tren de puente de alcocer,0.75
+50,53 - Plaza de Lavapiés,plaza de lavapies,518,Plaza del Liceo,526,plaza del liceo,0.75
+580,411 - Estación de tren de Villaverde Alto,estacion de tren de villaverde alto,87,Estación de tren de Recoletos,94,estacion de tren de recoletos,0.75
+587,340 - Illescas - Seseña,illescas sesena,328,Illescas - Camarena,333,illescas camarena,0.75
+49,52 - Plaza de Santa Ana,plaza de santa ana,34,Plaza de San Francisco,37,plaza de san francisco,0.75
+530,521 - Metro Las Rosas,metro las rosas,441,Metro Las Suertes,448,metro las suertes,0.75
+463,540 - Estación de tren Fuente de la Mora,estacion de tren fuente de la mora,593,Estación de tren de Fuencarral,601,estacion de tren de fuencarral,0.75
+570,312 - Metro Batán,metro batan,557,Metro Barajas,565,metro barajas,0.75
+164,"170 - Paseo de la Esperanza, 21",paseo de la esperanza 21,170,"Paseo de las Yeserías, 45",174,paseo de las yeserias 45,0.75
+120,124 - Metro Bilbao,metro bilbao,2,Metro Callao,2,metro callao,0.75
+431,333 - Illescas - Camarena,illescas camarena,335,Illescas - Seseña,340,illescas sesena,0.75
+120,124 - Metro Bilbao,metro bilbao,588,Metro Lacoma,596,metro lacoma,0.75
+422,329 - Metro Laguna,metro laguna,588,Metro Lacoma,596,metro lacoma,0.75
+381,464 - Univ. Rey Juan Carlos - Campus Madrid,univ rey juan carlos campus madrid,460,Univ. Rey Juan Carlos - Facultad  CJS,467,univ rey juan carlos facultad cjs,0.746268656716418
+599,601 - Estación de tren de Fuencarral,estacion de tren de fuencarral,407,Estación de tren de Puente de Alcocer,412,estacion de tren de puente de alcocer,0.746268656716418
+519,467 - Univ. Rey Juan Carlos - Facultad  CJS,univ rey juan carlos facultad cjs,457,Univ. Rey Juan Carlos - Campus Madrid,464,univ rey juan carlos campus madrid,0.746268656716418
+535,412 - Estación de tren de Puente de Alcocer,estacion de tren de puente de alcocer,593,Estación de tren de Fuencarral,601,estacion de tren de fuencarral,0.746268656716418
+357,301 - Muller - Capitan Blanco Argibay,muller capitan blanco argibay,295,Capitan Blanco Argibay - Alfalfa,300,capitan blanco argibay alfalfa,0.7457627118644068
+356,300 - Capitan Blanco Argibay - Alfalfa,capitan blanco argibay alfalfa,296,Muller - Capitan Blanco Argibay,301,muller capitan blanco argibay,0.7457627118644068
+88,94 - Estación de tren de Recoletos,estacion de tren de recoletos,593,Estación de tren de Fuencarral,601,estacion de tren de fuencarral,0.7457627118644068
+132,136 - Metro Nuevos Ministerios,metro nuevos ministerios,134,Estación de tren Nuevos Ministerios,138,estacion de tren nuevos ministerios,0.7457627118644068
+134,138 - Estación de tren Nuevos Ministerios,estacion de tren nuevos ministerios,132,Metro Nuevos Ministerios,136,metro nuevos ministerios,0.7457627118644068
+334,489 - Serrano Galvache - Yerma,serrano galvache yerma,479,Serrano Galvache - Arturo Soria,486,serrano galvache arturo soria,0.7450980392156863
+402,557 - Metro Alameda de Osuna,metro alameda de osuna,112,Metro Plaza de España,116B,metro plaza de espana,0.7441860465116279
+262,479 - Metro Arturo Soria,metro arturo soria,480,Manuel Uribe - Arturo Soria,487,manuel uribe arturo soria,0.7441860465116279
+68,73 - Plaza de los Astros,plaza de los astros,137,Plaza de Emilio Castelar,141,plaza de emilio castelar,0.7441860465116279
+137,141 - Plaza de Emilio Castelar,plaza de emilio castelar,67,Plaza de los Astros,73,plaza de los astros,0.7441860465116279
+325,487 - Manuel Uribe - Arturo Soria,manuel uribe arturo soria,472,Metro Arturo Soria,479,metro arturo soria,0.7441860465116279
+595,541 - Metro Pinar del Rey,metro pinar del rey,487,Metro Pinar de Chamartín,494,metro pinar de chamartin,0.7441860465116279
+436,494 - Metro Pinar de Chamartín,metro pinar de chamartin,533,Metro Pinar del Rey,541,metro pinar del rey,0.7441860465116279
+199,207 - Plaza de la Remonta,plaza de la remonta,99,Plaza de Colón A,106A,plaza de colon a,0.7428571428571429
+630,8001 - EV JMD Carabanchel,ev jmd carabanchel,361,Metro Carabanchel,366,metro carabanchel,0.7428571428571429
+199,207 - Plaza de la Remonta,plaza de la remonta,52,Plaza del Carmen,56,plaza del carmen,0.7428571428571429
+124,128 - Metro Islas Filipinas,metro islas filipinas,229,Metro La Elipa,234,metro la elipa,0.7428571428571429
+592,472 - Metro Valdebernardo,metro valdebernardo,302,Metro Valdezarza,307,metro valdezarza,0.7428571428571429
+490,580 - Metro Herrera Oria,metro herrera oria,491,Metro Torre Arias,498,metro torre arias,0.7428571428571429
+284,498 - Metro Torre Arias,metro torre arias,572,Metro Herrera Oria,580,metro herrera oria,0.7428571428571429
+53,56 - Plaza del Carmen,plaza del carmen,35,Plaza de los Carros,38,plaza de los carros,0.7428571428571429
+383,307 - Metro Valdezarza,metro valdezarza,465,Metro Valdebernardo,472,metro valdebernardo,0.7428571428571429
+68,73 - Plaza de los Astros,plaza de los astros,99,Plaza de Colón A,106A,plaza de colon a,0.7428571428571429
+35,38 - Plaza de los Carros,plaza de los carros,52,Plaza del Carmen,56,plaza del carmen,0.7428571428571429
+35,38 - Plaza de los Carros,plaza de los carros,99,Plaza de Colón A,106A,plaza de colon a,0.7428571428571429
+226,234 - Metro La Elipa,metro la elipa,124,Metro Islas Filipinas,128,metro islas filipinas,0.7428571428571429
+463,540 - Estación de tren Fuente de la Mora,estacion de tren fuente de la mora,168,Estación de tren de Delicias,172,estacion de tren de delicias,0.7419354838709677
+506,280 - Ps de los Melancólicos - San Epifanio,ps de los melancolicos san epifanio,274,"Paseo de los Melancólicos, 1",279,paseo de los melancolicos 1,0.7419354838709677
+572,310 - Estación de tren de Aravaca,estacion de tren de aravaca,396,Estación de tren de Villaverde Bajo,401,estacion de tren de villaverde bajo,0.7419354838709677
+312,419 - Estación de tren de El Pozo,estacion de tren de el pozo,406,Estación de tren de Villaverde Alto,411,estacion de tren de villaverde alto,0.7419354838709677
+584,"279 - Paseo de los Melancólicos, 1",paseo de los melancolicos 1,275,Ps de los Melancólicos - San Epifanio,280,ps de los melancolicos san epifanio,0.7419354838709677
+580,411 - Estación de tren de Villaverde Alto,estacion de tren de villaverde alto,305,Estación de tren de Aravaca,310,estacion de tren de aravaca,0.7419354838709677
+580,411 - Estación de tren de Villaverde Alto,estacion de tren de villaverde alto,414,Estación de tren de El Pozo,419,estacion de tren de el pozo,0.7419354838709677
+572,310 - Estación de tren de Aravaca,estacion de tren de aravaca,406,Estación de tren de Villaverde Alto,411,estacion de tren de villaverde alto,0.7419354838709677
+312,419 - Estación de tren de El Pozo,estacion de tren de el pozo,396,Estación de tren de Villaverde Bajo,401,estacion de tren de villaverde bajo,0.7419354838709677
+503,401 - Estación de tren de Villaverde Bajo,estacion de tren de villaverde bajo,414,Estación de tren de El Pozo,419,estacion de tren de el pozo,0.7419354838709677
+503,401 - Estación de tren de Villaverde Bajo,estacion de tren de villaverde bajo,305,Estación de tren de Aravaca,310,estacion de tren de aravaca,0.7419354838709677
+166,172 - Estación de tren de Delicias,estacion de tren de delicias,532,Estación de tren Fuente de la Mora,540,estacion de tren fuente de la mora,0.7419354838709677
+95,101 - Metro O Donnell,metro o donnell,359,Metro Opañel,364,metro opanel,0.7407407407407407
+413,585 - Metro Fuencarral,metro fuencarral,379,Metro Usera,384,metro usera,0.7407407407407407
+283,501 - Metro Alsacia,metro alsacia,446,Metro La Gavia,453,metro la gavia,0.7407407407407407
+287,497 - Metro Suances,metro suances,372,Metro Abrantes,377,metro abrantes,0.7407407407407407
+572,310 - Estación de tren de Aravaca,estacion de tren de aravaca,414,Estación de tren de El Pozo,419,estacion de tren de el pozo,0.7407407407407407
+312,419 - Estación de tren de El Pozo,estacion de tren de el pozo,305,Estación de tren de Aravaca,310,estacion de tren de aravaca,0.7407407407407407
+531,508 - Metro Canillejas,metro canillejas,196,Metro Canal,201,metro canal,0.7407407407407407
+413,585 - Metro Fuencarral,metro fuencarral,196,Metro Canal,201,metro canal,0.7407407407407407
+253,384 - Metro Usera,metro usera,583,Metro Mirasierra,591,metro mirasierra,0.7407407407407407
+253,384 - Metro Usera,metro usera,577,Metro Fuencarral,585,metro fuencarral,0.7407407407407407
+530,521 - Metro Las Rosas,metro las rosas,588,Metro Lacoma,596,metro lacoma,0.7407407407407407
+255,385 - Estación de tren Orcasitas,estacion de tren orcasitas,168,Estación de tren de Delicias,172,estacion de tren de delicias,0.7407407407407407
+427,364 - Metro Opañel,metro opanel,94,Metro O Donnell,101,metro o donnell,0.7407407407407407
+518,565 - Metro Barajas,metro barajas,372,Metro Abrantes,377,metro abrantes,0.7407407407407407
+166,172 - Estación de tren de Delicias,estacion de tren de delicias,380,Estación de tren Orcasitas,385,estacion de tren orcasitas,0.7407407407407407
+226,234 - Metro La Elipa,metro la elipa,494,Metro Alsacia,501,metro alsacia,0.7407407407407407
+157,163 - Metro Acacias,metro acacias,446,Metro La Gavia,453,metro la gavia,0.7407407407407407
+213,221 - Metro Pavones,metro pavones,372,Metro Abrantes,377,metro abrantes,0.7407407407407407
+193,201 - Metro Canal,metro canal,501,Metro Canillejas,508,metro canillejas,0.7407407407407407
+487,453 - Metro La Gavia,metro la gavia,494,Metro Alsacia,501,metro alsacia,0.7407407407407407
+487,453 - Metro La Gavia,metro la gavia,173,Metro Legazpi,177,metro legazpi,0.7407407407407407
+487,453 - Metro La Gavia,metro la gavia,159,Metro Acacias,163,metro acacias,0.7407407407407407
+170,177 - Metro Legazpi,metro legazpi,446,Metro La Gavia,453,metro la gavia,0.7407407407407407
+450,376 - Metro Carpetana,metro carpetana,201,Metro Tetuán,206,metro tetuan,0.7407407407407407
+451,377 - Metro Abrantes,metro abrantes,490,Metro Suances,497,metro suances,0.7407407407407407
+451,377 - Metro Abrantes,metro abrantes,216,Metro Pavones,221,metro pavones,0.7407407407407407
+451,377 - Metro Abrantes,metro abrantes,557,Metro Barajas,565,metro barajas,0.7407407407407407
+198,206 - Metro Tetuán,metro tetuan,371,Metro Carpetana,376,metro carpetana,0.7407407407407407
+193,201 - Metro Canal,metro canal,577,Metro Fuencarral,585,metro fuencarral,0.7407407407407407
+462,596 - Metro Lacoma,metro lacoma,513,Metro Las Rosas,521,metro las rosas,0.7407407407407407
+64,69 - Parque del Retiro - Puerta Ángel Caído,parque del retiro puerta angel caido,69,Parque del Retiro - Plaza Mariano Cavia,75,parque del retiro plaza mariano cavia,0.7397260273972602
+70,75 - Parque del Retiro - Plaza Mariano Cavia,parque del retiro plaza mariano cavia,63,Parque del Retiro - Puerta Ángel Caído,69,parque del retiro puerta angel caido,0.7397260273972602
+260,477 - Metro Ciudad Lineal,metro ciudad lineal,395,Metro Ciudad de los Ángeles,400,metro ciudad de los angeles,0.7391304347826086
+166,172 - Estación de tren de Delicias,estacion de tren de delicias,407,Estación de tren de Puente de Alcocer,412,estacion de tren de puente de alcocer,0.7384615384615385
+580,411 - Estación de tren de Villaverde Alto,estacion de tren de villaverde alto,593,Estación de tren de Fuencarral,601,estacion de tren de fuencarral,0.7384615384615385
+599,601 - Estación de tren de Fuencarral,estacion de tren de fuencarral,406,Estación de tren de Villaverde Alto,411,estacion de tren de villaverde alto,0.7384615384615385
+113,117 - Altamirano  - Martín de los Heros,altamirano martin de los heros,111,Plaza de España - Martín de los Heros,116A,plaza de espana martin de los heros,0.7384615384615385
+56,59 - Plaza de Juan Pujol,plaza de juan pujol,9,Plaza de San Miguel,9,plaza de san miguel,0.7368421052631579
+185,193 - Plaza de las Ventas,plaza de las ventas,67,Plaza de los Astros,73,plaza de los astros,0.7368421052631579
+104,110 - Intercambiador de Moncloa,intercambiador de moncloa,300,Intercambiador de Príncipe Pío B,305,intercambiador de principe pio b,0.7368421052631579
+507,367 - Metro San Francisco,metro san francisco,403,Metro San Cristóbal,408,metro san cristobal,0.7368421052631579
+68,73 - Plaza de los Astros,plaza de los astros,188,Plaza de las Ventas,193,plaza de las ventas,0.7368421052631579
+561,1 - Metro Sol,metro sol,315,Metro Lago,320,metro lago,0.7368421052631579
+319,305 - Intercambiador de Príncipe Pío B,intercambiador de principe pio b,104,Intercambiador de Moncloa,110,intercambiador de moncloa,0.7368421052631579
+172,180 - Estación Sur Méndez Álvaro B,estacion sur mendez alvaro b,467,Estación de tren de Vicálvaro,474,estacion de tren de vicalvaro,0.7368421052631579
+185,193 - Plaza de las Ventas,plaza de las ventas,35,Plaza de los Carros,38,plaza de los carros,0.7368421052631579
+551,320 - Metro Lago,metro lago,1,Metro Sol,1,metro sol,0.7368421052631579
+24,26 - Plaza de las Salesas,plaza de las salesas,36,Plaza de la Cebada,39,plaza de la cebada,0.7368421052631579
+527,274 - Estación Sur Méndez Álvaro A,estacion sur mendez alvaro a,467,Estación de tren de Vicálvaro,474,estacion de tren de vicalvaro,0.7368421052631579
+266,"284 - Avenida de Burgos, 17",avenida de burgos 17,402,"Carmen de Burgos, 4",407,carmen de burgos 4,0.7368421052631579
+543,408 - Metro San Cristóbal,metro san cristobal,362,Metro San Francisco,367,metro san francisco,0.7368421052631579
+585,"407 - Carmen de Burgos, 4",carmen de burgos 4,279,"Avenida de Burgos, 17",284,avenida de burgos 17,0.7368421052631579
+205,213 - Glorieta de Cádiz,glorieta de cadiz,165,Glorieta de Pirámides,169,glorieta de piramides,0.7368421052631579
+36,39 - Plaza de la Cebada,plaza de la cebada,24,Plaza de las Salesas,26,plaza de las salesas,0.7368421052631579
+35,38 - Plaza de los Carros,plaza de los carros,188,Plaza de las Ventas,193,plaza de las ventas,0.7368421052631579
+8,9 - Plaza de San Miguel,plaza de san miguel,55,Plaza de Juan Pujol,59,plaza de juan pujol,0.7368421052631579
+186,194 - Intercambiador de Avenida de América,intercambiador de avenida de america,350,Intercambiador de Plaza Elíptica,355,intercambiador de plaza eliptica,0.7352941176470589
+342,355 - Intercambiador de Plaza Elíptica,intercambiador de plaza eliptica,189,Intercambiador de Avenida de América,194,intercambiador de avenida de america,0.7352941176470589
+193,201 - Metro Canal,metro canal,470,Metro Ciudad Lineal,477,metro ciudad lineal,0.7333333333333333
+492,157 - Plaza de Cuzco,plaza de cuzco,99,Plaza de Colón A,106A,plaza de colon a,0.7333333333333333
+451,377 - Metro Abrantes,metro abrantes,573,Metro Peñagrande,581,metro penagrande,0.7333333333333333
+337,525 - Metro Manoteras,metro manoteras,451,Metro Vinateros,458,metro vinateros,0.7333333333333333
+587,340 - Illescas - Seseña,illescas sesena,336,Escalona - Seseña,341,escalona sesena,0.7333333333333333
+53,56 - Plaza del Carmen,plaza del carmen,249,Plaza del Perú,254,plaza del peru,0.7333333333333333
+580,411 - Estación de tren de Villaverde Alto,estacion de tren de villaverde alto,584,Estación de tren de Pitis,592,estacion de tren de pitis,0.7333333333333333
+445,373 - Metro La Peseta,metro la peseta,371,Metro Carpetana,376,metro carpetana,0.7333333333333333
+226,234 - Metro La Elipa,metro la elipa,596,Metro Las Tablas,604,metro las tablas,0.7333333333333333
+125,129 - Metro Alonso Cano,metro alonso cano,494,Metro Alsacia,501,metro alsacia,0.7333333333333333
+134,138 - Estación de tren Nuevos Ministerios,estacion de tren nuevos ministerios,584,Estación de tren de Pitis,592,estacion de tren de pitis,0.7333333333333333
+30,33 - Puerta del Sol,puerta del sol,56,Puerta de Alcalá,60,puerta de alcala,0.7333333333333333
+245,254 - Plaza del Perú,plaza del peru,52,Plaza del Carmen,56,plaza del carmen,0.7333333333333333
+449,592 - Estación de tren de Pitis,estacion de tren de pitis,134,Estación de tren Nuevos Ministerios,138,estacion de tren nuevos ministerios,0.7333333333333333
+445,373 - Metro La Peseta,metro la peseta,513,Metro Las Rosas,521,metro las rosas,0.7333333333333333
+564,581 - Metro Peñagrande,metro penagrande,372,Metro Abrantes,377,metro abrantes,0.7333333333333333
+449,592 - Estación de tren de Pitis,estacion de tren de pitis,406,Estación de tren de Villaverde Alto,411,estacion de tren de villaverde alto,0.7333333333333333
+492,157 - Plaza de Cuzco,plaza de cuzco,100,Plaza de Colón B,106B,plaza de colon b,0.7333333333333333
+345,458 - Metro Vinateros,metro vinateros,517,Metro Manoteras,525,metro manoteras,0.7333333333333333
+30,33 - Puerta del Sol,puerta del sol,218,Ermita del Santo,223,ermita del santo,0.7333333333333333
+260,477 - Metro Ciudad Lineal,metro ciudad lineal,196,Metro Canal,201,metro canal,0.7333333333333333
+57,60 - Puerta de Alcalá,puerta de alcala,30,Puerta del Sol,33,puerta del sol,0.7333333333333333
+450,376 - Metro Carpetana,metro carpetana,368,Metro La Peseta,373,metro la peseta,0.7333333333333333
+482,604 - Metro Las Tablas,metro las tablas,446,Metro La Gavia,453,metro la gavia,0.7333333333333333
+487,453 - Metro La Gavia,metro la gavia,596,Metro Las Tablas,604,metro las tablas,0.7333333333333333
+215,223 - Ermita del Santo,ermita del santo,30,Puerta del Sol,33,puerta del sol,0.7333333333333333
+566,341 - Escalona - Seseña,escalona sesena,335,Illescas - Seseña,340,illescas sesena,0.7333333333333333
+200,208 - Intercambiador de Plaza de Castilla,intercambiador de plaza de castilla,189,Intercambiador de Avenida de América,194,intercambiador de avenida de america,0.7323943661971831
+320,306 - Centro Deportivo Mpal Fernando Martín,centro deportivo mpal fernando martin,592,Centro Deportivo Municipal La Masó,600,centro deportivo municipal la maso,0.7323943661971831
+516,600 - Centro Deportivo Municipal La Masó,centro deportivo municipal la maso,301,Centro Deportivo Mpal Fernando Martín,306,centro deportivo mpal fernando martin,0.7323943661971831
+392,513 - Centro Deportivo Mpal. Pepu Hernández,centro deportivo mpal pepu hernandez,287,Centro Deportivo Municipal Pradillo,292,centro deportivo municipal pradillo,0.7323943661971831
+186,194 - Intercambiador de Avenida de América,intercambiador de avenida de america,203,Intercambiador de Plaza de Castilla,208,intercambiador de plaza de castilla,0.7323943661971831
+435,292 - Centro Deportivo Municipal Pradillo,centro deportivo municipal pradillo,506,Centro Deportivo Mpal. Pepu Hernández,513,centro deportivo mpal pepu hernandez,0.7323943661971831
+507,367 - Metro San Francisco,metro san francisco,34,Plaza de San Francisco,37,plaza de san francisco,0.7317073170731707
+93,99 - Alcántara - Hermosilla,alcantara hermosilla,97,Castellana - Hermosilla,104,castellana hermosilla,0.7317073170731707
+8,9 - Plaza de San Miguel,plaza de san miguel,51,Plaza de San Ildefonso,55,plaza de san ildefonso,0.7317073170731707
+52,55 - Plaza de San Ildefonso,plaza de san ildefonso,9,Plaza de San Miguel,9,plaza de san miguel,0.7317073170731707
+166,172 - Estación de tren de Delicias,estacion de tren de delicias,406,Estación de tren de Villaverde Alto,411,estacion de tren de villaverde alto,0.7301587301587301
+200,208 - Intercambiador de Plaza de Castilla,intercambiador de plaza de castilla,534,Intercambiador de Valdebebas,542,intercambiador de valdebebas,0.7301587301587301
+463,540 - Estación de tren Fuente de la Mora,estacion de tren fuente de la mora,467,Estación de tren de Vicálvaro,474,estacion de tren de vicalvaro,0.7301587301587301
+580,411 - Estación de tren de Villaverde Alto,estacion de tren de villaverde alto,168,Estación de tren de Delicias,172,estacion de tren de delicias,0.7301587301587301
+550,542 - Intercambiador de Valdebebas,intercambiador de valdebebas,203,Intercambiador de Plaza de Castilla,208,intercambiador de plaza de castilla,0.7301587301587301
+166,172 - Estación de tren de Delicias,estacion de tren de delicias,396,Estación de tren de Villaverde Bajo,401,estacion de tren de villaverde bajo,0.7301587301587301
+503,401 - Estación de tren de Villaverde Bajo,estacion de tren de villaverde bajo,168,Estación de tren de Delicias,172,estacion de tren de delicias,0.7301587301587301
+273,287 - Metro Bambú,metro bambu,307,Metro Batán,312,metro batan,0.7272727272727273
+599,601 - Estación de tren de Fuencarral,estacion de tren de fuencarral,584,Estación de tren de Pitis,592,estacion de tren de pitis,0.7272727272727273
+412,584 - Metro Montecarmelo,metro montecarmelo,106,Metro Moncloa B,111B,metro moncloa b,0.7272727272727273
+412,584 - Metro Montecarmelo,metro montecarmelo,105,Metro Moncloa A,111A,metro moncloa a,0.7272727272727273
+366,526 - Plaza del Liceo,plaza del liceo,36,Plaza de la Cebada,39,plaza de la cebada,0.7272727272727273
+99,"105 - Serrano, 46",serrano 46,245,Serrano - CSIC,250,serrano csic,0.7272727272727273
+570,312 - Metro Batán,metro batan,282,Metro Bambú,287,metro bambu,0.7272727272727273
+92,98 - Plaza de Felipe II,plaza de felipe ii,518,Plaza del Liceo,526,plaza del liceo,0.7272727272727273
+145,149 - Plaza de Quito,plaza de quito,215,Plaza del Encuentro,220,plaza del encuentro,0.7272727272727273
+245,254 - Plaza del Perú,plaza del peru,215,Plaza del Encuentro,220,plaza del encuentro,0.7272727272727273
+453,334 - Metro Campamento,metro campamento,356,Metro Pan Bendito,361,metro pan bendito,0.7272727272727273
+193,201 - Metro Canal,metro canal,307,Metro Batán,312,metro batan,0.7272727272727273
+467,339 - Estación de tren Las Águilas,estacion de tren las aguilas,305,Estación de tren de Aravaca,310,estacion de tren de aravaca,0.7272727272727273
+594,474 - Estación de tren de Vicálvaro,estacion de tren de vicalvaro,380,Estación de tren Orcasitas,385,estacion de tren orcasitas,0.7272727272727273
+588,342 - Osa de la Vega - Rafael Finat,osa de la vega rafael finat,343,José de Cadalso - Rafael Finat,348,jose de cadalso rafael finat,0.7272727272727273
+366,526 - Plaza del Liceo,plaza del liceo,91,Plaza de Felipe II,98,plaza de felipe ii,0.7272727272727273
+36,39 - Plaza de la Cebada,plaza de la cebada,518,Plaza del Liceo,526,plaza del liceo,0.7272727272727273
+212,220 - Plaza del Encuentro,plaza del encuentro,249,Plaza del Perú,254,plaza del peru,0.7272727272727273
+255,385 - Estación de tren Orcasitas,estacion de tren orcasitas,467,Estación de tren de Vicálvaro,474,estacion de tren de vicalvaro,0.7272727272727273
+535,412 - Estación de tren de Puente de Alcocer,estacion de tren de puente de alcocer,87,Estación de tren de Recoletos,94,estacion de tren de recoletos,0.7272727272727273
+241,250 - Serrano - CSIC,serrano csic,98,"Serrano, 46",105,serrano 46,0.7272727272727273
+212,220 - Plaza del Encuentro,plaza del encuentro,153,Plaza de Cuzco,157,plaza de cuzco,0.7272727272727273
+212,220 - Plaza del Encuentro,plaza del encuentro,145,Plaza de Quito,149,plaza de quito,0.7272727272727273
+449,592 - Estación de tren de Pitis,estacion de tren de pitis,593,Estación de tren de Fuencarral,601,estacion de tren de fuencarral,0.7272727272727273
+492,157 - Plaza de Cuzco,plaza de cuzco,215,Plaza del Encuentro,220,plaza del encuentro,0.7272727272727273
+397,361 - Metro Pan Bendito,metro pan bendito,329,Metro Campamento,334,metro campamento,0.7272727272727273
+301,324 - Metro Lucero,metro lucero,315,Metro Lago,320,metro lago,0.7272727272727273
+482,604 - Metro Las Tablas,metro las tablas,441,Metro Las Suertes,448,metro las suertes,0.7272727272727273
+482,604 - Metro Las Tablas,metro las tablas,485,Metro La Almudena,492,metro la almudena,0.7272727272727273
+570,312 - Metro Batán,metro batan,196,Metro Canal,201,metro canal,0.7272727272727273
+572,310 - Estación de tren de Aravaca,estacion de tren de aravaca,334,Estación de tren Las Águilas,339,estacion de tren las aguilas,0.7272727272727273
+308,492 - Metro La Almudena,metro la almudena,596,Metro Las Tablas,604,metro las tablas,0.7272727272727273
+551,320 - Metro Lago,metro lago,319,Metro Lucero,324,metro lucero,0.7272727272727273
+88,94 - Estación de tren de Recoletos,estacion de tren de recoletos,407,Estación de tren de Puente de Alcocer,412,estacion de tren de puente de alcocer,0.7272727272727273
+406,531 - Metro Parque de Santa María,metro parque de santa maria,237,Metro Parque de las Avenidas,242,metro parque de las avenidas,0.7272727272727273
+78,84 - Biblioteca Pública Elena Fortún,biblioteca publica elena fortun,550,Biblioteca Pública Mpal. Gloria Fuertes,558,biblioteca publica mpal gloria fuertes,0.7246376811594203
+497,558 - Biblioteca Pública Mpal. Gloria Fuertes,biblioteca publica mpal gloria fuertes,77,Biblioteca Pública Elena Fortún,84,biblioteca publica elena fortun,0.7246376811594203
+398,441 - Estación de tren de Santa Eugenia,estacion de tren de santa eugenia,584,Estación de tren de Pitis,592,estacion de tren de pitis,0.7241379310344828
+449,592 - Estación de tren de Pitis,estacion de tren de pitis,434,Estación de tren de Santa Eugenia,441,estacion de tren de santa eugenia,0.7241379310344828
+128,132 - Glorieta de Cuatro Caminos,glorieta de cuatro caminos,165,Glorieta de Pirámides,169,glorieta de piramides,0.723404255319149
+219,227 - Arroyo del Olivar,arroyo del olivar,415,Arroyo del Olivar - Buenos Aires,421,arroyo del olivar buenos aires,0.723404255319149
+324,421 - Arroyo del Olivar - Buenos Aires,arroyo del olivar buenos aires,222,Arroyo del Olivar,227,arroyo del olivar,0.723404255319149
+163,169 - Glorieta de Pirámides,glorieta de piramides,128,Glorieta de Cuatro Caminos,132,glorieta de cuatro caminos,0.723404255319149
+294,555 - Parque del Capricho,parque del capricho,546,Metro El Capricho,554,metro el capricho,0.7222222222222222
+49,52 - Plaza de Santa Ana,plaza de santa ana,36,Plaza de la Cebada,39,plaza de la cebada,0.7222222222222222
+26,29 - Marqués de Cubas,marques de cubas,103,Marqués de Salamanca,109,marques de salamanca,0.7222222222222222
+36,39 - Plaza de la Cebada,plaza de la cebada,48,Plaza de Santa Ana,52,plaza de santa ana,0.7222222222222222
+265,554 - Metro El Capricho,metro el capricho,547,Parque del Capricho,555,parque del capricho,0.7222222222222222
+535,412 - Estación de tren de Puente de Alcocer,estacion de tren de puente de alcocer,396,Estación de tren de Villaverde Bajo,401,estacion de tren de villaverde bajo,0.7222222222222222
+435,292 - Centro Deportivo Municipal Pradillo,centro deportivo municipal pradillo,301,Centro Deportivo Mpal Fernando Martín,306,centro deportivo mpal fernando martin,0.7222222222222222
+507,367 - Metro San Francisco,metro san francisco,524,Metro San Lorenzo,532,metro san lorenzo,0.7222222222222222
+320,306 - Centro Deportivo Mpal Fernando Martín,centro deportivo mpal fernando martin,287,Centro Deportivo Municipal Pradillo,292,centro deportivo municipal pradillo,0.7222222222222222
+490,580 - Metro Herrera Oria,metro herrera oria,472,Metro Arturo Soria,479,metro arturo soria,0.7222222222222222
+503,401 - Estación de tren de Villaverde Bajo,estacion de tren de villaverde bajo,407,Estación de tren de Puente de Alcocer,412,estacion de tren de puente de alcocer,0.7222222222222222
+542,609 - Metro Ronda de la Comunicación,metro ronda de la comunicacion,585,Metro Avenida de la Ilustración,593,metro avenida de la ilustracion,0.7213114754098361
+459,593 - Metro Avenida de la Ilustración,metro avenida de la ilustracion,601,Metro Ronda de la Comunicación,609,metro ronda de la comunicacion,0.7213114754098361
+584,"279 - Paseo de los Melancólicos, 1",paseo de los melancolicos 1,273,Paseo los Pontones - Ps. Melancólicos,278,paseo los pontones ps melancolicos,0.7213114754098361
+248,257 - Ciudad Universitaria - INEF,ciudad universitaria inef,257,Ciudad Universitaria - Fac. de Biología,260,ciudad universitaria fac de biologia,0.7213114754098361
+553,278 - Paseo los Pontones - Ps. Melancólicos,paseo los pontones ps melancolicos,274,"Paseo de los Melancólicos, 1",279,paseo de los melancolicos 1,0.7213114754098361
+251,260 - Ciudad Universitaria - Fac. de Biología,ciudad universitaria fac de biologia,252,Ciudad Universitaria - INEF,257,ciudad universitaria inef,0.7213114754098361
+1,2 - Metro Callao,metro callao,159,Metro Acacias,163,metro acacias,0.72
+193,201 - Metro Canal,metro canal,50,Metro Tribunal,54,metro tribunal,0.72
+465,337 - Metro Aluche,metro aluche,341,Metro Empalme,346,metro empalme,0.72
+198,206 - Metro Tetuán,metro tetuan,490,Metro Suances,497,metro suances,0.72
+465,337 - Metro Aluche,metro aluche,494,Metro Alsacia,501,metro alsacia,0.72
+192,200 - Metro Quevedo,metro quevedo,319,Metro Lucero,324,metro lucero,0.72
+462,596 - Metro Lacoma,metro lacoma,159,Metro Acacias,163,metro acacias,0.72
+465,337 - Metro Aluche,metro aluche,490,Metro Suances,497,metro suances,0.72
+1,2 - Metro Callao,metro callao,494,Metro Alsacia,501,metro alsacia,0.72
+301,324 - Metro Lucero,metro lucero,195,Metro Quevedo,200,metro quevedo,0.72
+451,377 - Metro Abrantes,metro abrantes,307,Metro Batán,312,metro batan,0.72
+51,54 - Metro Tribunal,metro tribunal,196,Metro Canal,201,metro canal,0.72
+301,324 - Metro Lucero,metro lucero,490,Metro Suances,497,metro suances,0.72
+570,312 - Metro Batán,metro batan,372,Metro Abrantes,377,metro abrantes,0.72
+287,497 - Metro Suances,metro suances,201,Metro Tetuán,206,metro tetuan,0.72
+567,346 - Metro Empalme,metro empalme,359,Metro Opañel,364,metro opanel,0.72
+567,346 - Metro Empalme,metro empalme,332,Metro Aluche,337,metro aluche,0.72
+551,320 - Metro Lago,metro lago,513,Metro Las Rosas,521,metro las rosas,0.72
+287,497 - Metro Suances,metro suances,332,Metro Aluche,337,metro aluche,0.72
+287,497 - Metro Suances,metro suances,319,Metro Lucero,324,metro lucero,0.72
+170,177 - Metro Legazpi,metro legazpi,324,Metro Laguna,329,metro laguna,0.72
+287,497 - Metro Suances,metro suances,359,Metro Opañel,364,metro opanel,0.72
+497,558 - Biblioteca Pública Mpal. Gloria Fuertes,biblioteca publica mpal gloria fuertes,497,Biblioteca Pública Municipal San Blas,504,biblioteca publica municipal san blas,0.72
+157,163 - Metro Acacias,metro acacias,588,Metro Lacoma,596,metro lacoma,0.72
+283,501 - Metro Alsacia,metro alsacia,2,Metro Callao,2,metro callao,0.72
+237,246 - Metro Iglesia,metro iglesia,120,Metro Bilbao,124,metro bilbao,0.72
+157,163 - Metro Acacias,metro acacias,2,Metro Callao,2,metro callao,0.72
+283,501 - Metro Alsacia,metro alsacia,332,Metro Aluche,337,metro aluche,0.72
+427,364 - Metro Opañel,metro opanel,490,Metro Suances,497,metro suances,0.72
+422,329 - Metro Laguna,metro laguna,494,Metro Alsacia,501,metro alsacia,0.72
+530,521 - Metro Las Rosas,metro las rosas,315,Metro Lago,320,metro lago,0.72
+427,364 - Metro Opañel,metro opanel,341,Metro Empalme,346,metro empalme,0.72
+120,124 - Metro Bilbao,metro bilbao,241,Metro Iglesia,246,metro iglesia,0.72
+342,355 - Intercambiador de Plaza Elíptica,intercambiador de plaza eliptica,157,Intercambiador de Príncipe Pío A,161,intercambiador de principe pio a,0.71875
+312,419 - Estación de tren de El Pozo,estacion de tren de el pozo,407,Estación de tren de Puente de Alcocer,412,estacion de tren de puente de alcocer,0.71875
+88,94 - Estación de tren de Recoletos,estacion de tren de recoletos,396,Estación de tren de Villaverde Bajo,401,estacion de tren de villaverde bajo,0.71875
+155,161 - Intercambiador de Príncipe Pío A,intercambiador de principe pio a,350,Intercambiador de Plaza Elíptica,355,intercambiador de plaza eliptica,0.71875
+503,401 - Estación de tren de Villaverde Bajo,estacion de tren de villaverde bajo,87,Estación de tren de Recoletos,94,estacion de tren de recoletos,0.71875
+405,530 - Metro Mar de Cristal,metro mar de cristal,579,Metro Paco de Lucía,587,metro paco de lucia,0.717948717948718
+402,557 - Metro Alameda de Osuna,metro alameda de osuna,387,Metro Almendrales,392,metro almendrales,0.717948717948718
+132,136 - Metro Nuevos Ministerios,metro nuevos ministerios,451,Metro Vinateros,458,metro vinateros,0.717948717948718
+345,458 - Metro Vinateros,metro vinateros,132,Metro Nuevos Ministerios,136,metro nuevos ministerios,0.717948717948718
+36,39 - Plaza de la Cebada,plaza de la cebada,29,Plaza de la Provincia,32,plaza de la provincia,0.717948717948718
+23,25B - Plaza de Celenque B,25b plaza de celenque b,100,Plaza de Colón B,106B,plaza de colon b,0.717948717948718
+35,38 - Plaza de los Carros,plaza de los carros,24,Plaza de las Salesas,26,plaza de las salesas,0.717948717948718
+22,25A - Plaza de Celenque A,25a plaza de celenque a,99,Plaza de Colón A,106A,plaza de colon a,0.717948717948718
+68,73 - Plaza de los Astros,plaza de los astros,24,Plaza de las Salesas,26,plaza de las salesas,0.717948717948718
+199,207 - Plaza de la Remonta,plaza de la remonta,24,Plaza de las Salesas,26,plaza de las salesas,0.717948717948718
+41,44 - Plaza de Nelson Mandela,plaza de nelson mandela,99,Plaza de Colón A,106A,plaza de colon a,0.717948717948718
+29,32 - Plaza de la Provincia,plaza de la provincia,36,Plaza de la Cebada,39,plaza de la cebada,0.717948717948718
+550,542 - Intercambiador de Valdebebas,intercambiador de valdebebas,104,Intercambiador de Moncloa,110,intercambiador de moncloa,0.7169811320754716
+287,497 - Metro Suances,metro suances,517,Metro Manoteras,525,metro manoteras,0.7142857142857143
+345,458 - Metro Vinateros,metro vinateros,216,Metro Pavones,221,metro pavones,0.7142857142857143
+337,525 - Metro Manoteras,metro manoteras,557,Metro Barajas,565,metro barajas,0.7142857142857143
+518,565 - Metro Barajas,metro barajas,517,Metro Manoteras,525,metro manoteras,0.7142857142857143
+140,144 - Metro Diego de León,metro diego de leon,185,Velázquez - Diego de León,190,velazquez diego de leon,0.7142857142857143
+145,149 - Plaza de Quito,plaza de quito,249,Plaza del Perú,254,plaza del peru,0.7142857142857143
+433,366 - Metro Carabanchel,metro carabanchel,196,Metro Canal,201,metro canal,0.7142857142857143
+237,246 - Metro Iglesia,metro iglesia,368,Metro La Peseta,373,metro la peseta,0.7142857142857143
+237,246 - Metro Iglesia,metro iglesia,119,Metro Argüelles,123,metro arguelles,0.7142857142857143
+245,254 - Plaza del Perú,plaza del peru,153,Plaza de Cuzco,157,plaza de cuzco,0.7142857142857143
+353,440 - Metro Villa de Vallecas,metro villa de vallecas,421,Estadio de Vallecas,428,estadio de vallecas,0.7142857142857143
+253,384 - Metro Usera,metro usera,191,Metro Prosperidad,196,metro prosperidad,0.7142857142857143
+413,585 - Metro Fuencarral,metro fuencarral,54,Metro Chueca,58,metro chueca,0.7142857142857143
+103,109 - Marqués de Salamanca,marques de salamanca,10,Marqués de la Ensenada,10,marques de la ensenada,0.7142857142857143
+255,385 - Estación de tren Orcasitas,estacion de tren orcasitas,593,Estación de tren de Fuencarral,601,estacion de tren de fuencarral,0.7142857142857143
+8,9 - Plaza de San Miguel,plaza de san miguel,40,Plaza de Nelson Mandela,44,plaza de nelson mandela,0.7142857142857143
+599,601 - Estación de tren de Fuencarral,estacion de tren de fuencarral,380,Estación de tren Orcasitas,385,estacion de tren orcasitas,0.7142857142857143
+111,116A - Plaza de España - Martín de los Heros,116a plaza de espana martin de los heros,113,Altamirano  - Martín de los Heros,117,altamirano martin de los heros,0.7142857142857143
+126,130 - Metro Ríos Rosas,metro rios rosas,95,Metro Retiro,102,metro retiro,0.7142857142857143
+564,581 - Metro Peñagrande,metro penagrande,359,Metro Opañel,364,metro opanel,0.7142857142857143
+183,191 - Metro Diego de León,metro diego de leon,185,Velázquez - Diego de León,190,velazquez diego de leon,0.7142857142857143
+55,58 - Metro Chueca,metro chueca,577,Metro Fuencarral,585,metro fuencarral,0.7142857142857143
+213,221 - Metro Pavones,metro pavones,517,Metro Manoteras,525,metro manoteras,0.7142857142857143
+182,190 - Velázquez - Diego de León,velazquez diego de leon,140,Metro Diego de León,144,metro diego de leon,0.7142857142857143
+450,376 - Metro Carpetana,metro carpetana,557,Metro Barajas,565,metro barajas,0.7142857142857143
+213,221 - Metro Pavones,metro pavones,158,Metro Pirámides,162,metro piramides,0.7142857142857143
+453,334 - Metro Campamento,metro campamento,2,Metro Callao,2,metro callao,0.7142857142857143
+41,44 - Plaza de Nelson Mandela,plaza de nelson mandela,9,Plaza de San Miguel,9,plaza de san miguel,0.7142857142857143
+332,428 - Estadio de Vallecas,estadio de vallecas,433,Metro Villa de Vallecas,440,metro villa de vallecas,0.7142857142857143
+337,525 - Metro Manoteras,metro manoteras,490,Metro Suances,497,metro suances,0.7142857142857143
+467,339 - Estación de tren Las Águilas,estacion de tren las aguilas,168,Estación de tren de Delicias,172,estacion de tren de delicias,0.7142857142857143
+193,201 - Metro Canal,metro canal,361,Metro Carabanchel,366,metro carabanchel,0.7142857142857143
+9,10 - Marqués de la Ensenada,marques de la ensenada,103,Marqués de Salamanca,109,marques de salamanca,0.7142857142857143
+1,2 - Metro Callao,metro callao,329,Metro Campamento,334,metro campamento,0.7142857142857143
+188,196 - Metro Prosperidad,metro prosperidad,379,Metro Usera,384,metro usera,0.7142857142857143
+156,162 - Metro Pirámides,metro piramides,341,Metro Empalme,346,metro empalme,0.7142857142857143
+492,157 - Plaza de Cuzco,plaza de cuzco,249,Plaza del Perú,254,plaza del peru,0.7142857142857143
+445,373 - Metro La Peseta,metro la peseta,241,Metro Iglesia,246,metro iglesia,0.7142857142857143
+156,162 - Metro Pirámides,metro piramides,216,Metro Pavones,221,metro pavones,0.7142857142857143
+487,453 - Metro La Gavia,metro la gavia,229,Metro La Elipa,234,metro la elipa,0.7142857142857143
+182,190 - Velázquez - Diego de León,velazquez diego de leon,186,Metro Diego de León,191,metro diego de leon,0.7142857142857143
+166,172 - Estación de tren de Delicias,estacion de tren de delicias,334,Estación de tren Las Águilas,339,estacion de tren las aguilas,0.7142857142857143
+245,254 - Plaza del Perú,plaza del peru,145,Plaza de Quito,149,plaza de quito,0.7142857142857143
+119,123 - Metro Argüelles,metro arguelles,241,Metro Iglesia,246,metro iglesia,0.7142857142857143
+518,565 - Metro Barajas,metro barajas,371,Metro Carpetana,376,metro carpetana,0.7142857142857143
+96,102 - Metro Retiro,metro retiro,126,Metro Ríos Rosas,130,metro rios rosas,0.7142857142857143
+427,364 - Metro Opañel,metro opanel,573,Metro Peñagrande,581,metro penagrande,0.7142857142857143
+337,525 - Metro Manoteras,metro manoteras,216,Metro Pavones,221,metro pavones,0.7142857142857143
+389,510 - Metro Avenida de Guadalajara,metro avenida de guadalajara,585,Metro Avenida de la Ilustración,593,metro avenida de la ilustracion,0.711864406779661
+459,593 - Metro Avenida de la Ilustración,metro avenida de la ilustracion,503,Metro Avenida de Guadalajara,510,metro avenida de guadalajara,0.711864406779661
+153,159 - Paseo de la Habana 63,paseo de la habana 63,166,"Paseo de la Esperanza, 21",170,paseo de la esperanza 21,0.7111111111111111
+68,73 - Plaza de los Astros,plaza de los astros,17,Plaza de Carlos Cambronero,17,plaza de carlos cambronero,0.7111111111111111
+164,"170 - Paseo de la Esperanza, 21",paseo de la esperanza 21,155,Paseo de la Habana 63,159,paseo de la habana 63,0.7111111111111111
+16,17 - Plaza de Carlos Cambronero,plaza de carlos cambronero,67,Plaza de los Astros,73,plaza de los astros,0.7111111111111111
+72,77 - Plaza del Conde de Casal,plaza del conde de casal,11,Plaza del Dos de Mayo,11,plaza del dos de mayo,0.7111111111111111
+10,11 - Plaza del Dos de Mayo,plaza del dos de mayo,71,Plaza del Conde de Casal,77,plaza del conde de casal,0.7111111111111111
+531,508 - Metro Canillejas,metro canillejas,517,Metro Manoteras,525,metro manoteras,0.7096774193548387
+119,123 - Metro Argüelles,metro arguelles,501,Metro Canillejas,508,metro canillejas,0.7096774193548387
+453,334 - Metro Campamento,metro campamento,371,Metro Carpetana,376,metro carpetana,0.7096774193548387
+308,492 - Metro La Almudena,metro la almudena,446,Metro La Gavia,453,metro la gavia,0.7096774193548387
+451,377 - Metro Abrantes,metro abrantes,387,Metro Almendrales,392,metro almendrales,0.7096774193548387
+591,448 - Metro Las Suertes,metro las suertes,372,Metro Abrantes,377,metro abrantes,0.7096774193548387
+591,448 - Metro Las Suertes,metro las suertes,445,"Las Suertes, 15",452,las suertes 15,0.7096774193548387
+337,525 - Metro Manoteras,metro manoteras,501,Metro Canillejas,508,metro canillejas,0.7096774193548387
+197,205 - Metro Estrecho,metro estrecho,546,Metro El Capricho,554,metro el capricho,0.7096774193548387
+451,377 - Metro Abrantes,metro abrantes,441,Metro Las Suertes,448,metro las suertes,0.7096774193548387
+310,392 - Metro Almendrales,metro almendrales,372,Metro Abrantes,377,metro abrantes,0.7096774193548387
+482,604 - Metro Las Tablas,metro las tablas,368,Metro La Peseta,373,metro la peseta,0.7096774193548387
+450,376 - Metro Carpetana,metro carpetana,329,Metro Campamento,334,metro campamento,0.7096774193548387
+451,377 - Metro Abrantes,metro abrantes,361,Metro Carabanchel,366,metro carabanchel,0.7096774193548387
+50,53 - Plaza de Lavapiés,plaza de lavapies,249,Plaza del Perú,254,plaza del peru,0.7096774193548387
+327,423 - Estación de tren Asamblea de Madrid,estacion de tren asamblea de madrid,305,Estación de tren de Aravaca,310,estacion de tren de aravaca,0.7096774193548387
+572,310 - Estación de tren de Aravaca,estacion de tren de aravaca,416,Estación de tren Asamblea de Madrid,423,estacion de tren asamblea de madrid,0.7096774193548387
+486,"452 - Las Suertes, 15",las suertes 15,441,Metro Las Suertes,448,metro las suertes,0.7096774193548387
+449,592 - Estación de tren de Pitis,estacion de tren de pitis,407,Estación de tren de Puente de Alcocer,412,estacion de tren de puente de alcocer,0.7096774193548387
+535,412 - Estación de tren de Puente de Alcocer,estacion de tren de puente de alcocer,584,Estación de tren de Pitis,592,estacion de tren de pitis,0.7096774193548387
+265,554 - Metro El Capricho,metro el capricho,200,Metro Estrecho,205,metro estrecho,0.7096774193548387
+252,261 - Ciudad Universitaria - Facultad Derecho,ciudad universitaria facultad derecho,252,Ciudad Universitaria - INEF,257,ciudad universitaria inef,0.7096774193548387
+245,254 - Plaza del Perú,plaza del peru,49,Plaza de Lavapiés,53,plaza de lavapies,0.7096774193548387
+88,94 - Estación de tren de Recoletos,estacion de tren de recoletos,434,Estación de tren de Santa Eugenia,441,estacion de tren de santa eugenia,0.7096774193548387
+433,366 - Metro Carabanchel,metro carabanchel,372,Metro Abrantes,377,metro abrantes,0.7096774193548387
+248,257 - Ciudad Universitaria - INEF,ciudad universitaria inef,258,Ciudad Universitaria - Facultad Derecho,261,ciudad universitaria facultad derecho,0.7096774193548387
+531,508 - Metro Canillejas,metro canillejas,119,Metro Argüelles,123,metro arguelles,0.7096774193548387
+156,162 - Metro Pirámides,metro piramides,573,Metro Peñagrande,581,metro penagrande,0.7096774193548387
+398,441 - Estación de tren de Santa Eugenia,estacion de tren de santa eugenia,467,Estación de tren de Vicálvaro,474,estacion de tren de vicalvaro,0.7096774193548387
+487,453 - Metro La Gavia,metro la gavia,485,Metro La Almudena,492,metro la almudena,0.7096774193548387
+445,373 - Metro La Peseta,metro la peseta,596,Metro Las Tablas,604,metro las tablas,0.7096774193548387
+226,234 - Metro La Elipa,metro la elipa,485,Metro La Almudena,492,metro la almudena,0.7096774193548387
+564,581 - Metro Peñagrande,metro penagrande,158,Metro Pirámides,162,metro piramides,0.7096774193548387
+156,162 - Metro Pirámides,metro piramides,583,Metro Mirasierra,591,metro mirasierra,0.7096774193548387
+594,474 - Estación de tren de Vicálvaro,estacion de tren de vicalvaro,434,Estación de tren de Santa Eugenia,441,estacion de tren de santa eugenia,0.7096774193548387
+535,412 - Estación de tren de Puente de Alcocer,estacion de tren de puente de alcocer,168,Estación de tren de Delicias,172,estacion de tren de delicias,0.7076923076923077
+284,498 - Metro Torre Arias,metro torre arias,193,Metro Rubén Darío,198,metro ruben dario,0.7058823529411765
+617,612 - Calle Rosalia de Castro 1,calle rosalia de castro 1,331,"Calle Oliva de Plasencia, 1",336,calle oliva de plasencia 1,0.7058823529411765
+366,526 - Plaza del Liceo,plaza del liceo,35,Plaza de los Carros,38,plaza de los carros,0.7058823529411765
+464,"336 - Calle Oliva de Plasencia, 1",calle oliva de plasencia 1,604,Calle Rosalia de Castro 1,612,calle rosalia de castro 1,0.7058823529411765
+41,44 - Plaza de Nelson Mandela,plaza de nelson mandela,131,Plaza de San Juan de la Cruz,135,plaza de san juan de la cruz,0.7058823529411765
+366,526 - Plaza del Liceo,plaza del liceo,202,Plaza de la Remonta,207,plaza de la remonta,0.7058823529411765
+190,198 - Metro Rubén Darío,metro ruben dario,546,Metro El Capricho,554,metro el capricho,0.7058823529411765
+484,438 - Biblioteca Pública Luis Martín Santos,biblioteca publica luis martin santos,77,Biblioteca Pública Elena Fortún,84,biblioteca publica elena fortun,0.7058823529411765
+189,197 - Parque de Berlín,parque de berlin,219,Parque de Caramuel,224,parque de caramuel,0.7058823529411765
+269,484 - Metro García Noblejas,metro garcia noblejas,557,Metro Barajas,565,metro barajas,0.7058823529411765
+265,554 - Metro El Capricho,metro el capricho,193,Metro Rubén Darío,198,metro ruben dario,0.7058823529411765
+436,494 - Metro Pinar de Chamartín,metro pinar de chamartin,523,Metro Parque de Santa María,531,metro parque de santa maria,0.7058823529411765
+518,565 - Metro Barajas,metro barajas,477,Metro García Noblejas,484,metro garcia noblejas,0.7058823529411765
+631,633 - HUB Plaza de España,hub plaza de espana,20,Banco de España,20,banco de espana,0.7058823529411765
+36,39 - Plaza de la Cebada,plaza de la cebada,52,Plaza del Carmen,56,plaza del carmen,0.7058823529411765
+199,207 - Plaza de la Remonta,plaza de la remonta,518,Plaza del Liceo,526,plaza del liceo,0.7058823529411765
+49,52 - Plaza de Santa Ana,plaza de santa ana,99,Plaza de Colón A,106A,plaza de colon a,0.7058823529411765
+308,492 - Metro La Almudena,metro la almudena,387,Metro Almendrales,392,metro almendrales,0.7058823529411765
+212,220 - Plaza del Encuentro,plaza del encuentro,518,Plaza del Liceo,526,plaza del liceo,0.7058823529411765
+310,392 - Metro Almendrales,metro almendrales,485,Metro La Almudena,492,metro la almudena,0.7058823529411765
+36,39 - Plaza de la Cebada,plaza de la cebada,100,Plaza de Colón B,106B,plaza de colon b,0.7058823529411765
+321,486 - Serrano Galvache - Arturo Soria,serrano galvache arturo soria,482,Serrano Galvache - Yerma,489,serrano galvache yerma,0.7058823529411765
+53,56 - Plaza del Carmen,plaza del carmen,36,Plaza de la Cebada,39,plaza de la cebada,0.7058823529411765
+190,198 - Metro Rubén Darío,metro ruben dario,491,Metro Torre Arias,498,metro torre arias,0.7058823529411765
+190,198 - Metro Rubén Darío,metro ruben dario,356,Metro Pan Bendito,361,metro pan bendito,0.7058823529411765
+397,361 - Metro Pan Bendito,metro pan bendito,524,Metro San Lorenzo,532,metro san lorenzo,0.7058823529411765
+216,224 - Parque de Caramuel,parque de caramuel,192,Parque de Berlín,197,parque de berlin,0.7058823529411765
+397,361 - Metro Pan Bendito,metro pan bendito,193,Metro Rubén Darío,198,metro ruben dario,0.7058823529411765
+407,532 - Metro San Lorenzo,metro san lorenzo,356,Metro Pan Bendito,361,metro pan bendito,0.7058823529411765
+406,531 - Metro Parque de Santa María,metro parque de santa maria,487,Metro Pinar de Chamartín,494,metro pinar de chamartin,0.7058823529411765
+78,84 - Biblioteca Pública Elena Fortún,biblioteca publica elena fortun,431,Biblioteca Pública Luis Martín Santos,438,biblioteca publica luis martin santos,0.7058823529411765
+64,69 - Parque del Retiro - Puerta Ángel Caído,parque del retiro puerta angel caido,277,Parque Retiro - Puerta Reina Mercedes,282,parque retiro puerta reina mercedes,0.704225352112676
+320,306 - Centro Deportivo Mpal Fernando Martín,centro deportivo mpal fernando martin,392,Centro Deportivo Municipal Orcasur,397,centro deportivo municipal orcasur,0.704225352112676
+596,546 - Andorra - Canillas,andorra canillas,515,Carretera de Canillas,523,carretera de canillas,0.7027027027027027
+49,52 - Plaza de Santa Ana,plaza de santa ana,9,Plaza de San Miguel,9,plaza de san miguel,0.7027027027027027
+35,38 - Plaza de los Carros,plaza de los carros,36,Plaza de la Cebada,39,plaza de la cebada,0.7027027027027027
+8,9 - Plaza de San Miguel,plaza de san miguel,48,Plaza de Santa Ana,52,plaza de santa ana,0.7027027027027027
+36,39 - Plaza de la Cebada,plaza de la cebada,35,Plaza de los Carros,38,plaza de los carros,0.7027027027027027
+338,504 - Biblioteca Pública Municipal San Blas,biblioteca publica municipal san blas,431,Biblioteca Pública Luis Martín Santos,438,biblioteca publica luis martin santos,0.7027027027027027
+124,128 - Metro Islas Filipinas,metro islas filipinas,596,Metro Las Tablas,604,metro las tablas,0.7027027027027027
+631,633 - HUB Plaza de España,hub plaza de espana,48,Plaza de Santa Ana,52,plaza de santa ana,0.7027027027027027
+482,604 - Metro Las Tablas,metro las tablas,124,Metro Islas Filipinas,128,metro islas filipinas,0.7027027027027027
+49,52 - Plaza de Santa Ana,plaza de santa ana,188,Plaza de las Ventas,193,plaza de las ventas,0.7027027027027027
+49,52 - Plaza de Santa Ana,plaza de santa ana,202,Plaza de la Remonta,207,plaza de la remonta,0.7027027027027027
+199,207 - Plaza de la Remonta,plaza de la remonta,48,Plaza de Santa Ana,52,plaza de santa ana,0.7027027027027027
+194,202 - Parque de Santander,parque de santander,219,Parque de Caramuel,224,parque de caramuel,0.7027027027027027
+294,555 - Parque del Capricho,parque del capricho,219,Parque de Caramuel,224,parque de caramuel,0.7027027027027027
+216,224 - Parque de Caramuel,parque de caramuel,547,Parque del Capricho,555,parque del capricho,0.7027027027027027
+270,523 - Carretera de Canillas,carretera de canillas,538,Andorra - Canillas,546,andorra canillas,0.7027027027027027
+92,98 - Plaza de Felipe II,plaza de felipe ii,256,Plaza de Celenque B,25B,plaza de celenque b,0.7027027027027027
+92,98 - Plaza de Felipe II,plaza de felipe ii,255,Plaza de Celenque A,25A,plaza de celenque a,0.7027027027027027
+269,484 - Metro García Noblejas,metro garcia noblejas,501,Metro Canillejas,508,metro canillejas,0.7027027027027027
+558,277 - Virgen del Puerto,virgen del puerto,184,Virgen de la Alegría,189,virgen de la alegria,0.7027027027027027
+185,193 - Plaza de las Ventas,plaza de las ventas,48,Plaza de Santa Ana,52,plaza de santa ana,0.7027027027027027
+104,110 - Intercambiador de Moncloa,intercambiador de moncloa,350,Intercambiador de Plaza Elíptica,355,intercambiador de plaza eliptica,0.7017543859649122
+88,94 - Estación de tren de Recoletos,estacion de tren de recoletos,334,Estación de tren Las Águilas,339,estacion de tren las aguilas,0.7017543859649122
+594,474 - Estación de tren de Vicálvaro,estacion de tren de vicalvaro,334,Estación de tren Las Águilas,339,estacion de tren las aguilas,0.7017543859649122
+342,355 - Intercambiador de Plaza Elíptica,intercambiador de plaza eliptica,104,Intercambiador de Moncloa,110,intercambiador de moncloa,0.7017543859649122
+85,91 - Hermosilla - General Pardiñas,hermosilla general pardinas,139,Diego de León - General Pardiñas,143,diego de leon general pardinas,0.7017543859649122
+497,558 - Biblioteca Pública Mpal. Gloria Fuertes,biblioteca publica mpal gloria fuertes,492,Biblioteca Pública Municipal Canillejas,499,biblioteca publica municipal canillejas,0.7012987012987013
+285,499 - Biblioteca Pública Municipal Canillejas,biblioteca publica municipal canillejas,550,Biblioteca Pública Mpal. Gloria Fuertes,558,biblioteca publica mpal gloria fuertes,0.7012987012987013
+600,"603 - Castiello de Jaca, 14",castiello de jaca 14,498,"Castillo de Uclés, 37",505,castillo de ucles 37,0.7
+100,106B - Plaza de Colón B,106b plaza de colon b,256,Plaza de Celenque B,25B,plaza de celenque b,0.7
+550,542 - Intercambiador de Valdebebas,intercambiador de valdebebas,350,Intercambiador de Plaza Elíptica,355,intercambiador de plaza eliptica,0.7
+253,384 - Metro Usera,metro usera,1,Metro Sol,1,metro sol,0.7
+104,110 - Intercambiador de Moncloa,intercambiador de moncloa,203,Intercambiador de Plaza de Castilla,208,intercambiador de plaza de castilla,0.7
+35,38 - Plaza de los Carros,plaza de los carros,11,Plaza del Dos de Mayo,11,plaza del dos de mayo,0.7
+561,1 - Metro Sol,metro sol,379,Metro Usera,384,metro usera,0.7
+409,106A - Plaza de Colón A,106a plaza de colon a,255,Plaza de Celenque A,25A,plaza de celenque a,0.7
+503,401 - Estación de tren de Villaverde Bajo,estacion de tren de villaverde bajo,584,Estación de tren de Pitis,592,estacion de tren de pitis,0.7
+72,77 - Plaza del Conde de Casal,plaza del conde de casal,99,Plaza de Colón A,106A,plaza de colon a,0.7
+376,"505 - Castillo de Uclés, 37",castillo de ucles 37,595,"Castiello de Jaca, 14",603,castiello de jaca 14,0.7
+52,55 - Plaza de San Ildefonso,plaza de san ildefonso,48,Plaza de Santa Ana,52,plaza de santa ana,0.7
+449,592 - Estación de tren de Pitis,estacion de tren de pitis,416,Estación de tren Asamblea de Madrid,423,estacion de tren asamblea de madrid,0.7
+307,352 - Algorta  - General Ricardos,algorta general ricardos,346,Comandante Fontanes - General Ricardos,351,comandante fontanes general ricardos,0.7
+398,441 - Estación de tren de Santa Eugenia,estacion de tren de santa eugenia,414,Estación de tren de El Pozo,419,estacion de tren de el pozo,0.7
+561,1 - Metro Sol,metro sol,196,Metro Canal,201,metro canal,0.7
+449,592 - Estación de tren de Pitis,estacion de tren de pitis,396,Estación de tren de Villaverde Bajo,401,estacion de tren de villaverde bajo,0.7
+68,73 - Plaza de los Astros,plaza de los astros,11,Plaza del Dos de Mayo,11,plaza del dos de mayo,0.7
+312,419 - Estación de tren de El Pozo,estacion de tren de el pozo,434,Estación de tren de Santa Eugenia,441,estacion de tren de santa eugenia,0.7
+49,52 - Plaza de Santa Ana,plaza de santa ana,51,Plaza de San Ildefonso,55,plaza de san ildefonso,0.7
+193,201 - Metro Canal,metro canal,1,Metro Sol,1,metro sol,0.7
+327,423 - Estación de tren Asamblea de Madrid,estacion de tren asamblea de madrid,584,Estación de tren de Pitis,592,estacion de tren de pitis,0.7
+332,428 - Estadio de Vallecas,estadio de vallecas,625,EV Puente de Vallecas,8000,ev puente de vallecas,0.7
+10,11 - Plaza del Dos de Mayo,plaza del dos de mayo,35,Plaza de los Carros,38,plaza de los carros,0.7
+10,11 - Plaza del Dos de Mayo,plaza del dos de mayo,67,Plaza de los Astros,73,plaza de los astros,0.7
+629,8000 - EV Puente de Vallecas,ev puente de vallecas,421,Estadio de Vallecas,428,estadio de vallecas,0.7

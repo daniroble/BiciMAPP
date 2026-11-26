@@ -1,0 +1,626 @@
+﻿OBJECTID,DS_STATION,DS_STATI_1,NM_TOTAL_B,DS_LONGITU,DS_LATITUD,ID_SUBURB,ID_DISTRIC,x,y,crtm_id,crtm_name,crtm_system_name,crtm_name_normalized,crtm_system_normalized,crtm_lon,crtm_lat,crtm_bikes
+1,1,Metro Sol,23,-3.7054098,40.416465,16,1,440153.5866,4474221.286,1,Metro Sol,1,metro sol,1,-3.7054098,40.416465,23
+2,2,Metro Callao,27,-3.70569,40.4204,15,1,440133.3027,4474658.2593,2,Metro Callao,2,metro callao,2,-3.70569,40.4204,27
+3,3,Plaza Conde Suchil,19,-3.7072537,40.4303223,72,7,440009.4626,4475760.6929,3,Plaza Conde Suchil,3,plaza conde suchil,3,-3.7072537,40.4303223,19
+4,4,Malasaña,27,-3.7025,40.4286259,15,1,440411.186,4475569.1756,4,Malasaña,4,malasana,4,-3.7025,40.4286259,27
+5,5,Fuencarral,27,-3.7021354,40.4285212,14,1,440442.0207,4475557.3081,5,Fuencarral,5,fuencarral,5,-3.7021354,40.4285212,27
+6,6,Colegio Arquitectos,19,-3.698447,40.424148,14,1,440751.0508,4475069.404,6,Colegio Arquitectos,6,colegio arquitectos,6,-3.698447,40.424148,19
+7,7,Hortaleza,19,-3.6977715,40.4251906,14,1,440809.2676,4475184.6795,7,Hortaleza,7,hortaleza,7,-3.6977715,40.4251906,19
+8,8,Metro Alonso Martínez,24,-3.6954403,40.4278682,74,7,441009.3602,4475480.3333,8,Metro Alonso Martínez,8,metro alonso martinez,8,-3.6954403,40.4278682,24
+9,9,Plaza de San Miguel,24,-3.7095084,40.4156057,11,1,439805.0959,4474128.6879,9,Plaza de San Miguel,9,plaza de san miguel,9,-3.7095084,40.4156057,24
+10,10,Marqués de la Ensenada,23,-3.692104,40.425403,14,1,441290.2201,4475204.4744,10,Marqués de la Ensenada,10,marques de la ensenada,10,-3.692104,40.425403,23
+11,11,Plaza del Dos de Mayo,23,-3.7036,40.427,15,1,440316.4416,4475389.4436,11,Plaza del Dos de Mayo,11,plaza del dos de mayo,11,-3.7036,40.427,23
+12,12,San Hermenegildo,27,-3.7061406,40.4284667,15,1,440102.2322,4475553.9664,12,San Hermenegildo,12,san hermenegildo,12,-3.7061406,40.4284667,27
+13,13,Conde Duque,23,-3.7105,40.4273,15,1,439731.4053,4475427.4276,13,Conde Duque,13,conde duque,13,-3.7105,40.4273,23
+14,14,Ventura Rodríguez,27,-3.7133069,40.4260425,92,9,439492.1794,4475289.7639,14,Ventura Rodríguez,14,ventura rodriguez,14,-3.7133069,40.4260425,27
+15,15,Norte,19,-3.7074453,40.4262383,15,1,439989.5806,4475307.4998,15,Norte,15,norte,15,-3.7074453,40.4262383,19
+16,16,San Bernardo,19,-3.70748084851,40.4229374,15,1,439983.6312,4474941.1249,16,San Bernardo,16,san bernardo,16,-3.70748084851,40.4229374,19
+17,17,Plaza de Carlos Cambronero,23,-3.704166,40.423126,15,1,440265.0026,4474959.813,17,Plaza de Carlos Cambronero,17,plaza de carlos cambronero,17,-3.704166,40.423126,23
+18,18,Plaza de Pedro Zerolo,24,-3.6996776,40.4209251,14,1,440643.8259,4474712.4891,18,Plaza de Pedro Zerolo,18,plaza de pedro zerolo,18,-3.6996776,40.4209251,24
+19,19,Prim,28,-3.6954983,40.4218616,14,1,440999.192,4474813.6412,19,Prim,19,prim,19,-3.6954983,40.4218616,28
+20,20,Banco de España,27,-3.6952465,40.4188076,13,1,441017.8857,4474474.4802,20,Banco de España,20,banco de espana,20,-3.6952465,40.4188076,27
+21,22,Jacometrezo 3,12,-3.706494,40.420172,16,1,440064.893,4474633.4965,21,Jacometrezo 3,22,jacometrezo 3,22,-3.706494,40.420172,12
+22,23,Santo Domingo,24,-3.708249,40.4202595,11,1,439916.085,4474644.4008,22,Santo Domingo,23,santo domingo,23,-3.708249,40.4202595,24
+23,24,Palacio de Oriente,18,-3.7106495,40.417767,11,1,439710.2132,4474369.3692,23,Palacio de Oriente,24,palacio de oriente,24,-3.7106495,40.417767,18
+24,26,Plaza de las Salesas,27,-3.6945,40.4239,14,1,441085.6593,4475039.2367,24,Plaza de las Salesas,26,plaza de las salesas,26,-3.6945,40.4239,27
+25,27,Huertas,27,-3.6957,40.4133,13,1,440974.5993,4473863.4419,25,Huertas,27,huertas,27,-3.6957,40.4133,27
+26,29,Marqués de Cubas,23,-3.6957434,40.4163838,13,1,440973.612,4474205.7712,26,Marqués de Cubas,29,marques de cubas,29,-3.6957434,40.4163838,23
+27,30,San Quintín,27,-3.711504,40.4192095,11,1,439639.0081,4474530.0696,27,San Quintín,30,san quintin,30,-3.711504,40.4192095,27
+28,31,Mayor,27,-3.7068969,40.4163638,16,1,440027.3313,4474211.061,28,Mayor,31,mayor,31,-3.7068969,40.4163638,27
+29,32,Plaza de la Provincia,18,-3.7061032,40.4150099,16,1,440093.4681,4474060.2404,29,Plaza de la Provincia,32,plaza de la provincia,32,-3.7061032,40.4150099,18
+30,33,Puerta del Sol,23,-3.7032264,40.4165363,16,1,440338.889,4474227.7239,30,Puerta del Sol,33,puerta del sol,33,-3.7032264,40.4165363,23
+31,34,Jacinto Benavente,24,-3.7036883,40.4145422,16,1,440297.939,4474006.6916,31,Jacinto Benavente,34,jacinto benavente,34,-3.7036883,40.4145422,24
+32,35,"Doctor Letamendi, 3",23,-3.71006296131,40.4136907233,11,1,439756.3385,4473916.5042,32,"Doctor Letamendi, 3",35,doctor letamendi 3,35,-3.71006296131,40.4136907233,23
+33,36,Plaza Ramales,24,-3.71183,40.4168,11,1,439609.1969,4474262.8387,33,Plaza Ramales,36,plaza ramales,36,-3.71183,40.4168,24
+34,37,Plaza de San Francisco,24,-3.714113,40.4108,11,1,439410.1266,4473598.404,34,Plaza de San Francisco,37,plaza de san francisco,37,-3.714113,40.4108,24
+35,38,Plaza de los Carros,27,-3.7115898,40.4113586,11,1,439624.7119,4473658.6815,35,Plaza de los Carros,38,plaza de los carros,38,-3.7115898,40.4113586,27
+36,39,Plaza de la Cebada,31,-3.7088337,40.4112744,11,1,439858.482,4473647.4562,36,Plaza de la Cebada,39,plaza de la cebada,39,-3.7088337,40.4112744,31
+37,41,Metro Antón Martín,19,-3.6991147,40.4122047,12,1,440683.9212,4473744.1505,37,Metro Antón Martín,41,metro anton martin,41,-3.6991147,40.4122047,19
+38,42,Santa Isabel,27,-3.6982922,40.4108488,12,1,440752.5173,4473593.0946,38,Santa Isabel,42,santa isabel,42,-3.6982922,40.4108488,27
+39,43,Jesús y María,18,-3.702471,40.4100387,12,1,440397.2441,4473505.9837,39,Jesús y María,43,jesus y maria,43,-3.702471,40.4100387,18
+40,44,Plaza de Nelson Mandela,19,-3.70386405331,40.4097907125,12,1,440278.8272,4473479.3976,40,Plaza de Nelson Mandela,44,plaza de nelson mandela,44,-3.70386405331,40.4097907125,19
+41,45,Metro Puerta de Toledo,19,-3.7111034,40.4068659,12,1,439661.9689,4473159.662,41,Metro Puerta de Toledo,45,metro puerta de toledo,45,-3.7111034,40.4068659,19
+42,46,Ribera de Curtidores,27,-3.7071259,40.4053153,22,2,439998.0906,4472984.8386,42,Ribera de Curtidores,46,ribera de curtidores,46,-3.7071259,40.4053153,27
+43,47,Renfe/Cercanías Embajadores,24,-3.7027998,40.4045772,22,2,440364.5257,4472899.9822,43,Renfe/Cercanías Embajadores,47,renfe cercanias embajadores,47,-3.7027998,40.4045772,24
+44,48,Juan Sebastián Elcano,23,-3.701321,40.4040433,26,2,440489.5388,4472839.723,44,Juan Sebastián Elcano,48,juan sebastian elcano,48,-3.701321,40.4040433,23
+45,49,Casa Encendida,27,-3.6992774,40.4060533,12,1,440664.7146,4473061.4578,45,Casa Encendida,49,casa encendida,49,-3.6992774,40.4060533,27
+46,50,Museo Reina Sofía,23,-3.6960398,40.4073541,12,1,440940.5716,4473203.6774,46,Museo Reina Sofía,50,museo reina sofia,50,-3.6960398,40.4073541,23
+47,51,Ronda de Atocha,27,-3.69348563128,40.4077556466,12,1,441157.6459,4473246.5452,47,Ronda de Atocha,51,ronda de atocha,51,-3.69348563128,40.4077556466,27
+48,52,Plaza de Santa Ana,15,-3.7008558,40.4144689,13,1,440538.1903,4473996.6456,48,Plaza de Santa Ana,52,plaza de santa ana,52,-3.7008558,40.4144689,15
+49,53,Plaza de Lavapiés,24,-3.70075412639,40.4083087082,12,1,440541.3948,4473312.7992,49,Plaza de Lavapiés,53,plaza de lavapies,53,-3.70075412639,40.4083087082,24
+50,54,Metro Tribunal,19,-3.70039299755,40.4265991018,14,1,440588.1281,4475342.7824,50,Metro Tribunal,54,metro tribunal,54,-3.70039299755,40.4265991018,19
+51,55,Plaza de San Ildefonso,24,-3.7020842,40.4239757,15,1,440442.3543,4475052.7241,51,Plaza de San Ildefonso,55,plaza de san ildefonso,55,-3.7020842,40.4239757,24
+52,56,Plaza del Carmen,24,-3.7039033,40.4190322,16,1,440283.6678,4474505.225,52,Plaza del Carmen,56,plaza del carmen,56,-3.7039033,40.4190322,24
+53,57,Santa Cruz de Marcenado,23,-3.7126299,40.4295658,15,1,439552.7625,4475680.3862,53,Santa Cruz de Marcenado,57,santa cruz de marcenado,57,-3.7126299,40.4295658,23
+54,58,Metro Chueca,27,-3.6978583,40.4222783,14,1,440799.3512,4474861.4733,54,Metro Chueca,58,metro chueca,58,-3.6978583,40.4222783,27
+55,59,Plaza de Juan Pujol,19,-3.7043418,40.4255495,15,1,440252.2336,4475228.9398,55,Plaza de Juan Pujol,59,plaza de juan pujol,59,-3.7043418,40.4255495,19
+56,60,Puerta de Alcalá,24,-3.68909805655,40.4188524906,35,3,441539.5396,4474475.3771,56,Puerta de Alcalá,60,puerta de alcala,60,-3.68909805655,40.4188524906,24
+57,61,O Donnell - Narváez,27,-3.6753139,40.4214551,34,3,442711.1518,4474755.2374,57,O Donnell - Narváez,61,o donnell narvaez,61,-3.6753139,40.4214551,27
+58,62,Hospital M. Infantil Gregorio Marañón,27,-3.6724968,40.4213148,34,3,442950.0178,4474737.8415,58,Hospital M. Infantil Gregorio Marañón,62,hospital m infantil gregorio maranon,62,-3.6724968,40.4213148,27
+59,63,Hospital Gral. Uni. Gregorio Marañón,23,-3.6708959,40.4179237,34,3,443082.9702,4474360.3986,59,Hospital Gral. Uni. Gregorio Marañón,63,hospital gral uni gregorio maranon,63,-3.6708959,40.4179237,23
+60,65,Parque del Retiro - Calle Antonio Maura,24,-3.68942479794,40.416701447,35,3,441509.9571,4474236.8285,60,Parque del Retiro - Calle Antonio Maura,65,parque del retiro calle antonio maura,65,-3.68942479794,40.416701447,24
+61,67,CaixaForum Madrid,23,-3.693225,40.4108472,13,1,441182.4523,4473589.5323,61,CaixaForum Madrid,67,caixaforum madrid,67,-3.693225,40.4108472,23
+62,68,Espalter - Ruiz de Alarcón,19,-3.6913232,40.4127692,35,3,441345.483,4473801.6093,62,Espalter - Ruiz de Alarcón,68,espalter ruiz de alarcon,68,-3.6913232,40.4127692,19
+63,69,Parque del Retiro - Puerta Ángel Caído,27,-3.688822,40.409808,35,3,441555.1342,4473471.2608,63,Parque del Retiro - Puerta Ángel Caído,69,parque del retiro puerta angel caido,69,-3.688822,40.409808,27
+64,70,Hospital Uni. Infantil Niño Jesús,27,-3.67787254233,40.4153823856,35,3,442488.9221,4474082.8311,64,Hospital Uni. Infantil Niño Jesús,70,hospital uni infantil nino jesus,70,-3.67787254233,40.4153823856,27
+65,71,Plaza del Doctor Laguna,23,-3.6739,40.4161,34,3,442826.5647,4474159.9081,65,Plaza del Doctor Laguna,71,plaza del doctor laguna,71,-3.6739,40.4161,23
+66,72,Metro Sáinz de Baranda,23,-3.6696,40.4159,36,3,443191.2097,4474134.9351,66,Metro Sáinz de Baranda,72,metro sainz de baranda,72,-3.6696,40.4159,23
+67,73,Plaza de los Astros,23,-3.6687,40.4115,33,3,443263.8706,4473645.9596,67,Plaza de los Astros,73,plaza de los astros,73,-3.6687,40.4115,23
+68,74,Parque Retiro - Jardines Cecilio Rguez,27,-3.67658876379,40.4120629098,35,3,442595.0185,4473713.5365,68,Parque Retiro - Jardines Cecilio Rguez,74,parque retiro jardines cecilio rguez,74,-3.67658876379,40.4120629098,27
+69,75,Parque del Retiro - Plaza Mariano Cavia,27,-3.6784749,40.4082717,35,3,442431.758,4473293.9414,69,Parque del Retiro - Plaza Mariano Cavia,75,parque del retiro plaza mariano cavia,75,-3.6784749,40.4082717,27
+70,76,"Avenida del Mediterráneo, 19",24,-3.675102,40.407271,36,3,442717.1006,4473180.673,70,"Avenida del Mediterráneo, 19",76,avenida del mediterraneo 19,76,-3.675102,40.407271,24
+71,77,Plaza del Conde de Casal,18,-3.6707132,40.4064784,31,3,443088.8286,4473089.8598,71,Plaza del Conde de Casal,77,plaza del conde de casal,77,-3.6707132,40.4064784,18
+72,78,Metro Pacífico,27,-3.67452406005,40.4006374742,32,3,442760.5207,4472443.9823,72,Metro Pacífico,78,metro pacifico,78,-3.67452406005,40.4006374742,27
+73,79,Metro Menéndez Pelayo,27,-3.68043982432,40.405110194,31,3,442262.3324,4472944.2982,73,Metro Menéndez Pelayo,79,metro menendez pelayo,79,-3.68043982432,40.405110194,27
+74,81,Cuesta de Moyano,24,-3.69183322007,40.4093426119,35,3,441299.2332,4473421.5986,74,Cuesta de Moyano,81,cuesta de moyano,81,-3.69183322007,40.4093426119,24
+75,82,Doctor Esquerdo - Metro Conde de Casal,23,-3.6697526,40.4084556,33,3,443172.0008,4473308.7095,75,Doctor Esquerdo - Metro Conde de Casal,82,doctor esquerdo metro conde de casal,82,-3.6697526,40.4084556,23
+76,83,Pío Baroja,23,-3.6744795,40.4132995,36,3,442775.0273,4473849.4293,76,Pío Baroja,83,pio baroja,83,-3.6744795,40.4132995,23
+77,84,Biblioteca Pública Elena Fortún,23,-3.67248157539,40.4035715699,32,3,442936.323,4472768.344,77,Biblioteca Pública Elena Fortún,84,biblioteca publica elena fortun,84,-3.67248157539,40.4035715699,23
+78,85,Parque del Retiro - Puerta de O´Donnell,27,-3.679891,40.4213143,35,3,442322.7398,4474742.5863,78,Parque del Retiro - Puerta de O´Donnell,85,parque del retiro puerta de o donnell,85,-3.679891,40.4213143,27
+79,86,Cibeles,24,-3.6933498,40.4186516,13,1,441178.6601,4474455.9,79,Cibeles,86,cibeles,86,-3.6933498,40.4186516,24
+80,87,Ayala - Velázquez,23,-3.6832566,40.427736,41,4,442042.7356,4475457.5952,80,Ayala - Velázquez,87,ayala velazquez,87,-3.6832566,40.427736,23
+81,88,Velázquez-Padilla,23,-3.6838303,40.4313576,46,4,441997.1827,4475859.9684,81,Velázquez-Padilla,88,velazquez padilla,88,-3.6838303,40.4313576,23
+82,89,Ayala - Conde de Peñalver,23,-3.6752024,40.4272582,42,4,442725.5332,4475399.307,82,Ayala - Conde de Peñalver,89,ayala conde de penalver,89,-3.6752024,40.4272582,23
+83,90,Metro Velázquez,27,-3.6838416,40.4251493,41,4,441990.8902,4475170.8562,83,Metro Velázquez,90,metro velazquez,90,-3.6838416,40.4251493,27
+84,91,Hermosilla - General Pardiñas,23,-3.6786285,40.426049,42,4,442433.879,4475267.3129,84,Hermosilla - General Pardiñas,91,hermosilla general pardinas,91,-3.6786285,40.426049,23
+85,92,Claudio Coello - Hermosilla,23,-3.6865463,40.4262945,41,4,441762.4412,4475299.7524,85,Claudio Coello - Hermosilla,92,claudio coello hermosilla,92,-3.6865463,40.4262945,23
+86,93,Plaza de Margaret Thatcher,23,-3.68933616903,40.4257585334,41,4,441525.3194,4475242.103,86,Plaza de Margaret Thatcher,93,plaza de margaret thatcher,93,-3.68933616903,40.4257585334,23
+87,94,Estación de tren de Recoletos,23,-3.690756,40.4232153,41,4,441402.6707,4474960.7455,87,Estación de tren de Recoletos,94,estacion de tren de recoletos,94,-3.690756,40.4232153,23
+88,95,Claudio Coello - Villanueva,23,-3.6869293,40.4225428,41,4,441726.7146,4474883.5674,88,Claudio Coello - Villanueva,95,claudio coello villanueva,95,-3.6869293,40.4225428,23
+89,96,Alcalá - Castelló,27,-3.68220479877,40.422015155,41,4,442127.0522,4474821.8939,89,Alcalá - Castelló,96,alcala castello,96,-3.68220479877,40.422015155,27
+90,97,Metro Príncipe de Vergara,27,-3.6802556,40.4225364,42,4,442292.8538,4474878.477,90,Metro Príncipe de Vergara,97,metro principe de vergara,97,-3.6802556,40.4225364,27
+91,98,Plaza de Felipe II,24,-3.6757676,40.4241325,42,4,442674.9357,4475052.722,91,Plaza de Felipe II,98,plaza de felipe ii,98,-3.6757676,40.4241325,24
+92,99,Alcántara - Hermosilla,23,-3.6740178,40.4260391,42,4,442824.986,4475263.2201,92,Alcántara - Hermosilla,99,alcantara hermosilla,99,-3.6740178,40.4260391,23
+93,100,Wizink Center,27,-3.67384,40.42478,42,4,442839.0025,4475123.3454,93,Wizink Center,100,wizink center,100,-3.67384,40.42478,27
+94,101,Metro O Donnell,24,-3.6696804,40.4230771,42,4,443190.4261,4474931.6414,94,Metro O Donnell,101,metro o donnell,101,-3.6696804,40.4230771,24
+95,102,Metro Retiro,23,-3.6842317,40.4211845,41,4,441954.3904,4474731.0211,95,Metro Retiro,102,metro retiro,102,-3.6842317,40.4211845,23
+96,103,Ortega y Gasset - Serrano,23,-3.686744,40.43053,46,4,441749.3253,4475770.0221,96,Ortega y Gasset - Serrano,103,ortega y gasset serrano,103,-3.686744,40.43053,23
+97,104,Castellana - Hermosilla,23,-3.68958,40.42677,41,4,441505.5119,4475354.5369,97,Castellana - Hermosilla,104,castellana hermosilla,104,-3.68958,40.42677,23
+98,105,"Serrano, 46",23,-3.6875418,40.4270832,41,4,441678.6767,4475387.9545,98,"Serrano, 46",105,serrano 46,105,-3.6875418,40.4270832,23
+99,106A,Plaza de Colón A,19,-3.687807,40.424924,41,4,441654.3149,4475148.4591,99,Plaza de Colón A,106A,plaza de colon a,106a,-3.687807,40.424924,19
+100,106B,Plaza de Colón B,19,-3.68789,40.424776,41,4,441647.1461,4475132.0859,100,Plaza de Colón B,106B,plaza de colon b,106b,-3.68789,40.424776,19
+101,107,Serrano - Conde de Aranda,23,-3.68838411045,40.421560873,41,4,441602.4506,4474775.5344,101,Serrano - Conde de Aranda,107,serrano conde de aranda,107,-3.68838411045,40.421560873,23
+102,108,Mártires Concepcionistas - Alcalá,27,-3.670652,40.427402,42,4,443111.6477,4475412.3288,102,Mártires Concepcionistas - Alcalá,108,martires concepcionistas alcala,108,-3.670652,40.427402,27
+103,109,Marqués de Salamanca,23,-3.6814521,40.4301245,46,4,442197.8485,4475721.5358,103,Marqués de Salamanca,109,marques de salamanca,109,-3.6814521,40.4301245,23
+104,110,Intercambiador de Moncloa,23,-3.7201021,40.434745,91,9,438923.6307,4476260.4166,104,Intercambiador de Moncloa,110,intercambiador de moncloa,110,-3.7201021,40.434745,23
+105,111A,Metro Moncloa A,23,-3.7175248,40.4336027,71,7,439141.1996,4476131.8425,105,Metro Moncloa A,111A,metro moncloa a,111a,-3.7175248,40.4336027,23
+106,111B,Metro Moncloa B,23,-3.7177434,40.433913,71,7,439122.9381,4476166.4364,106,Metro Moncloa B,111B,metro moncloa b,111b,-3.7177434,40.433913,23
+107,112,Paseo de Moret - Parque del Oeste,23,-3.724736,40.4326901,92,9,438528.7259,4476035.537,107,Paseo de Moret - Parque del Oeste,112,paseo de moret parque del oeste,112,-3.724736,40.4326901,23
+108,113,Teleférico Madrid - Estación Rosales,24,-3.7207263,40.427538,91,9,438864.1614,4475460.8719,108,Teleférico Madrid - Estación Rosales,113,teleferico madrid estacion rosales,113,-3.7207263,40.427538,24
+109,114,Quintana - Juan Álvarez de Mendizábal,23,-3.7174631,40.4278379,92,9,439141.2361,4475491.9077,109,Quintana - Juan Álvarez de Mendizábal,114,quintana juan alvarez de mendizabal,114,-3.7174631,40.4278379,23
+110,115,Ferraz - Templo de Debod,23,-3.71705150552,40.4253147684,92,9,439173.8768,4475211.5571,110,Ferraz - Templo de Debod,115,ferraz templo de debod,115,-3.71705150552,40.4253147684,23
+111,116A,Plaza de España - Martín de los Heros,18,-3.7130447,40.4236775,92,9,439512.3027,4475027.0699,111,Plaza de España - Martín de los Heros,116A,plaza de espana martin de los heros,116a,-3.7130447,40.4236775,18
+112,116B,Metro Plaza de España,18,-3.71046,40.423684,15,1,439731.5708,4475026.0251,112,Metro Plaza de España,116B,metro plaza de espana,116b,-3.71046,40.423684,18
+113,117,Altamirano  - Martín de los Heros,23,-3.7188898,40.4309797,92,9,439023.0531,4475841.6309,113,Altamirano  - Martín de los Heros,117,altamirano martin de los heros,117,-3.7188898,40.4309797,23
+114,118,"OFICINA DEL SER, APR Y BICIREGISTRO",23,-3.6882407,40.400781,26,2,441596.6545,4472468.8857,114,"OFICINA DEL SER, APR Y BICIREGISTRO",118,oficina del ser apr y biciregistro,118,-3.6882407,40.400781,23
+115,119,Méndez Álvaro,23,-3.6862653,40.4012905,27,2,441764.7251,4472524.1366,115,Méndez Álvaro,119,mendez alvaro,119,-3.6862653,40.4012905,23
+116,120,Metro Palos de la Frontera,27,-3.69482510185,40.4030904514,26,2,441039.92,4472729.6043,116,Metro Palos de la Frontera,120,metro palos de la frontera,120,-3.69482510185,40.4030904514,27
+117,121,Glorieta de Santa María de la Cabeza,27,-3.6986027,40.4017487,26,2,440718.1885,4472583.1974,117,Glorieta de Santa María de la Cabeza,121,glorieta de santa maria de la cabeza,121,-3.6986027,40.4017487,27
+118,122,Santa Engracia - Zurbarán,23,-3.6963659,40.4295362,74,7,440932.3051,4475666.0994,118,Santa Engracia - Zurbarán,122,santa engracia zurbaran,122,-3.6963659,40.4295362,23
+119,123,Metro Argüelles,27,-3.7133412,40.4306458,71,7,439493.3955,4475800.753,119,Metro Argüelles,123,metro arguelles,123,-3.7133412,40.4306458,27
+120,124,Metro Bilbao,27,-3.6993695,40.430969,73,7,440678.7884,4475827.1525,120,Metro Bilbao,124,metro bilbao,124,-3.6993695,40.430969,27
+121,125,Fdez. de la Hoz - Gral. Martínez Campos,27,-3.6948,40.4353,74,7,441070.162,4476304.8345,121,Fdez. de la Hoz - Gral. Martínez Campos,125,fdez de la hoz gral martinez campos,125,-3.6948,40.4353,27
+122,126,General Álvarez de Castro,27,-3.7018044,40.4345976,73,7,440475.4559,4476231.5645,122,General Álvarez de Castro,126,general alvarez de castro,126,-3.7018044,40.4345976,27
+123,127,Mercado Municipal de Vallehermoso,27,-3.708439,40.4338516,72,7,439912.0641,4476153.2504,123,Mercado Municipal de Vallehermoso,127,mercado municipal de vallehermoso,127,-3.708439,40.4338516,27
+124,128,Metro Islas Filipinas,27,-3.7154,40.4392,76,7,439326.4536,4476751.6811,124,Metro Islas Filipinas,128,metro islas filipinas,128,-3.7154,40.4392,27
+125,129,Metro Alonso Cano,27,-3.6982353,40.4383865,75,7,440781.5011,4476649.7333,125,Metro Alonso Cano,129,metro alonso cano,129,-3.6982353,40.4383865,27
+126,130,Metro Ríos Rosas,23,-3.70164,40.44156,75,7,440495.5387,4477004.28,126,Metro Ríos Rosas,130,metro rios rosas,130,-3.70164,40.44156,23
+127,131,Plaza de Juan Zorrilla,23,-3.70403123,40.4417884,75,7,440292.9445,4477031.2462,127,Plaza de Juan Zorrilla,131,plaza de juan zorrilla,131,-3.70403123,40.4417884,23
+128,132,Glorieta de Cuatro Caminos,27,-3.70360525041,40.4463775013,75,7,440333.1291,4477540.3491,128,Glorieta de Cuatro Caminos,132,glorieta de cuatro caminos,132,-3.70360525041,40.4463775013,27
+129,133,Raimundo Fdez. Villaverde - Dulcinea,24,-3.7001669,40.447125,62,6,440625.367,4477621.0042,129,Raimundo Fdez. Villaverde - Dulcinea,133,raimundo fdez villaverde dulcinea,133,-3.7001669,40.447125,24
+130,134,María de Guzmán - Agustín de Betancourt,23,-3.6955687,40.4441818,75,7,441012.7276,4477291.2273,130,María de Guzmán - Agustín de Betancourt,134,maria de guzman agustin de betancourt,134,-3.6955687,40.4441818,23
+131,135,Plaza de San Juan de la Cruz,23,-3.692734,40.441481,75,7,441250.7731,4476989.549,131,Plaza de San Juan de la Cruz,135,plaza de san juan de la cruz,135,-3.692734,40.441481,23
+132,136,Metro Nuevos Ministerios,23,-3.690769,40.4451244,51,5,441420.5847,4477392.6614,132,Metro Nuevos Ministerios,136,metro nuevos ministerios,136,-3.690769,40.4451244,23
+133,137,Plaza de la República Argentina,24,-3.6853377,40.4454477,51,5,441881.4583,4477424.9593,133,Plaza de la República Argentina,137,plaza de la republica argentina,137,-3.6853377,40.4454477,24
+134,138,Estación de tren Nuevos Ministerios,23,-3.6914063,40.4457414,75,7,441367.0754,4477461.5713,134,Estación de tren Nuevos Ministerios,138,estacion de tren nuevos ministerios,138,-3.6914063,40.4457414,23
+135,139,José Gutiérrez Abascal - Castellana,24,-3.69041930727,40.4393956203,51,5,441445.2691,4476756.5348,135,José Gutiérrez Abascal - Castellana,139,jose gutierrez abascal castellana,139,-3.69041930727,40.4393956203,24
+136,140,Velázquez - López de Hoyos,27,-3.6830583,40.4387566,51,5,442069.0153,4476680.7498,136,Velázquez - López de Hoyos,140,velazquez lopez de hoyos,140,-3.6830583,40.4387566,27
+137,141,Plaza de Emilio Castelar,12,-3.6893917,40.4354047,74,7,441528.9642,4476312.8622,137,Plaza de Emilio Castelar,141,plaza de emilio castelar,141,-3.6893917,40.4354047,12
+138,142,Bajo elevado de Eduardo Dato,23,-3.6879154,40.4334087,46,4,441652.4528,4476090.3303,138,Bajo elevado de Eduardo Dato,142,bajo elevado de eduardo dato,142,-3.6879154,40.4334087,23
+139,143,Diego de León - General Pardiñas,23,-3.6780802,40.434676,45,4,442487.74,4476224.5506,139,Diego de León - General Pardiñas,143,diego de leon general pardinas,143,-3.6780802,40.434676,23
+140,144,Metro Diego de León,27,-3.675556,40.4324081,45,4,442699.9098,4475971.1738,140,Metro Diego de León,144,metro diego de leon,144,-3.675556,40.4324081,27
+141,145,Ortega y Gasset 87,23,-3.6712823,40.429887,45,4,443060.2777,4475688.5691,141,Ortega y Gasset 87,145,ortega y gasset 87,145,-3.6712823,40.429887,23
+142,146,"María Francisca, 3",19,-3.6788499,40.4442541,51,5,442430.6275,4477288.2204,142,"María Francisca, 3",146,maria francisca 3,146,-3.6788499,40.4442541,19
+143,147,Doctor Arce 45,23,-3.6794,40.4484,51,5,442387.5166,4477748.7743,143,Doctor Arce 45,147,doctor arce 45,147,-3.6794,40.4484,23
+144,148,Serrano 210,23,-3.6813971,40.451117,51,5,442220.4902,4478051.6664,144,Serrano 210,148,serrano 210,148,-3.6813971,40.451117,23
+145,149,Plaza de Quito,23,-3.6879303,40.4498515,51,5,441665.4047,4477915.491,145,Plaza de Quito,149,plaza de quito,149,-3.6879303,40.4498515,23
+146,150,Castellana - Hermanos Pinzón,23,-3.6908,40.4491,51,5,441421.4076,4477833.974,146,Castellana - Hermanos Pinzón,150,castellana hermanos pinzon,150,-3.6908,40.4491,23
+147,151,Orense 12,27,-3.69535926501,40.4488122495,62,6,441034.5356,4477805.0679,147,Orense 12,151,orense 12,151,-3.69535926501,40.4488122495,27
+148,152,"General Perón, 4",23,-3.6989,40.4525,62,6,440737.5237,4478216.7792,148,"General Perón, 4",152,general peron 4,152,-3.6989,40.4525,23
+149,153,General Perón - Poeta Joan Maragall,23,-3.6936,40.4523,62,6,441186.7607,4478191.0357,149,General Perón - Poeta Joan Maragall,153,general peron poeta joan maragall,153,-3.6936,40.4523,23
+150,154,Orense 36,24,-3.6946218,40.4548456,62,6,441102.3401,4478474.279,150,Orense 36,154,orense 36,154,-3.6946218,40.4548456,24
+151,155,San Germán 57,23,-3.70093019018,40.4573342301,62,6,440569.6342,4478754.7447,151,San Germán 57,155,san german 57,155,-3.70093019018,40.4573342301,23
+152,156,Sor Ángela de la Cruz-Paseo Castellana,24,-3.691533,40.4592351,63,6,441368.0606,4478959.4591,152,Sor Ángela de la Cruz-Paseo Castellana,156,sor angela de la cruz paseo castellana,156,-3.691533,40.4592351,24
+153,157,Plaza de Cuzco,23,-3.6894151,40.4591366,55,5,441547.5437,4478947.1213,153,Plaza de Cuzco,157,plaza de cuzco,157,-3.6894151,40.4591366,23
+154,158,Alberto Alcocer - Padre Damián,23,-3.684715,40.4585318,54,5,441945.5268,4478876.8872,154,Alberto Alcocer - Padre Damián,158,alberto alcocer padre damian,158,-3.684715,40.4585318,23
+155,159,Paseo de la Habana 63,23,-3.6835926,40.4543852,54,5,442037.1283,4478415.8761,155,Paseo de la Habana 63,159,paseo de la habana 63,159,-3.6835926,40.4543852,23
+156,160,Metro Colombia,24,-3.6763439,40.4572466,54,5,442654.1942,4478728.7591,156,Metro Colombia,160,metro colombia,160,-3.6763439,40.4572466,24
+157,161,Intercambiador de Príncipe Pío A,27,-3.72209932141,40.4221924742,91,9,438742.8441,4474868.4705,157,Intercambiador de Príncipe Pío A,161,intercambiador de principe pio a,161,-3.72209932141,40.4221924742,27
+158,162,Metro Pirámides,23,-3.7105765,40.4034968,22,2,439703.671,4472785.3344,158,Metro Pirámides,162,metro piramides,162,-3.7105765,40.4034968,23
+159,163,Metro Acacias,19,-3.706445,40.4037586,22,2,440054.4866,4472811.5839,159,Metro Acacias,163,metro acacias,163,-3.706445,40.4037586,19
+160,164,Paseo de las Delicias - Tomás Bretón,27,-3.69461,40.39723,25,2,441053.0614,4472078.9552,160,Paseo de las Delicias - Tomás Bretón,164,paseo de las delicias tomas breton,164,-3.69461,40.39723,27
+161,165,Entrada Matadero - Paseo de la Chopera,43,-3.697596,40.392888,23,2,440795.8544,4471598.9922,161,Entrada Matadero - Paseo de la Chopera,165,entrada matadero paseo de la chopera,165,-3.697596,40.392888,43
+162,166,Viaducto de Segovia,26,-3.71337702331,40.4139047324,11,1,439475.3539,4473942.5235,162,Viaducto de Segovia,166,viaducto de segovia,166,-3.71337702331,40.4139047324,26
+163,167,Segovia 45,27,-3.71748917032,40.4137477074,21,2,439126.3249,4473927.9183,163,Segovia 45,167,segovia 45,167,-3.71748917032,40.4137477074,27
+164,168,Santa María Cabeza - Batalla del Salado,23,-3.6959,40.4046,26,2,440950.0269,4472897.8807,164,Santa María Cabeza - Batalla del Salado,168,santa maria cabeza batalla del salado,168,-3.6959,40.4046,23
+165,169,Glorieta de Pirámides,24,-3.713823,40.401589,22,2,439426.4752,4472575.7895,165,Glorieta de Pirámides,169,glorieta de piramides,169,-3.713823,40.401589,24
+166,170,"Paseo de la Esperanza, 21",24,-3.7043956,40.4010554,22,2,440225.9992,4472510.1427,166,"Paseo de la Esperanza, 21",170,paseo de la esperanza 21,170,-3.7043956,40.4010554,24
+167,171,Embajadores-Cáceres,27,-3.6984023,40.3997013,25,2,440733.3986,4472355.8031,167,Embajadores-Cáceres,171,embajadores caceres,171,-3.6984023,40.3997013,27
+168,172,Estación de tren de Delicias,23,-3.6934926,40.4008279,25,2,441151.0214,4472477.5747,168,Estación de tren de Delicias,172,estacion de tren de delicias,172,-3.6934926,40.4008279,23
+169,173,Paseo Esperanza - Santa María Cabeza,24,-3.7024839,40.3983467,22,2,440385.8353,4472208.1881,169,Paseo Esperanza - Santa María Cabeza,173,paseo esperanza santa maria cabeza,173,-3.7024839,40.3983467,24
+170,174,"Paseo de las Yeserías, 45",27,-3.70652588466,40.3974295831,22,2,440042.0082,4472109.1224,170,"Paseo de las Yeserías, 45",174,paseo de las yeserias 45,174,-3.70652588466,40.3974295831,27
+171,175,Jaime el Conquistador - Divino Vallés,19,-3.69834452,40.3962264,23,2,440735.2549,4471970.0532,171,Jaime el Conquistador - Divino Vallés,175,jaime el conquistador divino valles,175,-3.69834452,40.3962264,19
+172,176,Plaza de la Beata María Ana de Jesús,23,-3.6939412,40.3941856,25,2,441107.1659,4471740.5836,172,Plaza de la Beata María Ana de Jesús,176,plaza de la beata maria ana de jesus,176,-3.6939412,40.3941856,23
+173,177,Metro Legazpi,23,-3.69418763743,40.3914470857,25,2,441083.8646,4471436.7752,173,Metro Legazpi,177,metro legazpi,177,-3.69418763743,40.3914470857,23
+174,178,Junta Municipal Distrito de Retiro,24,-3.6788343,40.4029202,31,3,442396.7008,4472700.1629,174,Junta Municipal Distrito de Retiro,178,junta municipal distrito de retiro,178,-3.6788343,40.4029202,24
+175,180,Estación Sur Méndez Álvaro B,23,-3.67589,40.3940423,27,2,442639.0105,4471712.8092,175,Estación Sur Méndez Álvaro B,180,estacion sur mendez alvaro b,180,-3.67589,40.3940423,23
+176,181,Ibiza - Narváez,27,-3.67644354048,40.4181693267,34,3,442612.5283,4474391.2511,176,Ibiza - Narváez,181,ibiza narvaez,181,-3.67644354048,40.4181693267,27
+177,182,Parque Roma,23,-3.6657777,40.4186666,33,3,443517.8092,4474439.576,177,Parque Roma,182,parque roma,182,-3.6657777,40.4186666,23
+178,183,Hermosilla - Doctor Esquerdo,23,-3.669339,40.425635,42,4,443221.5385,4475215.3478,178,Hermosilla - Doctor Esquerdo,183,hermosilla doctor esquerdo,183,-3.669339,40.425635,23
+179,184,"Marqués de Zafra, 24",24,-3.6653055,40.426,43,4,443563.9984,4475253.2784,179,"Marqués de Zafra, 24",184,marques de zafra 24,184,-3.6653055,40.426,24
+180,185,Parque Quinta de la Fuente del Berro,24,-3.6615277,40.4250833,43,4,443883.699,4475149.1188,180,Parque Quinta de la Fuente del Berro,185,parque quinta de la fuente del berro,185,-3.6615277,40.4250833,24
+181,186,General Pardiñas - Don Ramón de la Cruz,23,-3.6783016,40.4289804,45,4,442464.1073,4475592.4845,181,General Pardiñas - Don Ramón de la Cruz,186,general pardinas don ramon de la cruz,186,-3.6783016,40.4289804,23
+182,187,Alejandro González - Alcalá,23,-3.6638249,40.4301326,43,4,443693.0411,4475711.0509,182,Alejandro González - Alcalá,187,alejandro gonzalez alcala,187,-3.6638249,40.4301326,23
+183,188,Puente de Ventas,27,-3.6590286,40.4312562,151,15,444100.8062,4475832.7242,183,Puente de Ventas,188,puente de ventas,188,-3.6590286,40.4312562,27
+184,189,Virgen de la Alegría,23,-3.6554918,40.4351256,154,15,444403.9887,4476259.9946,184,Virgen de la Alegría,189,virgen de la alegria,189,-3.6554918,40.4351256,23
+185,190,Velázquez - Diego de León,23,-3.6833753,40.4343053,46,4,442038.3075,4476186.8639,185,Velázquez - Diego de León,190,velazquez diego de leon,190,-3.6833753,40.4343053,23
+186,191,Metro Diego de León,19,-3.67407778406,40.4345693871,44,4,442827.1224,4476210.1185,186,Metro Diego de León,191,metro diego de leon,191,-3.67407778406,40.4345693871,19
+187,192,Avda. de los Toreros - Fco. Silvela,27,-3.67146771839,40.4318264645,44,4,443046.1863,4475903.9687,187,Avda. de los Toreros - Fco. Silvela,192,avda de los toreros fco silvela,192,-3.67146771839,40.4318264645,27
+188,193,Plaza de las Ventas,27,-3.6655555,40.4324722,44,4,443548.2036,4475971.8503,188,Plaza de las Ventas,193,plaza de las ventas,193,-3.6655555,40.4324722,27
+189,194,Intercambiador de Avenida de América,24,-3.6771535,40.4372638,44,4,442568.5419,4476511.1931,189,Intercambiador de Avenida de América,194,intercambiador de avenida de america,194,-3.6771535,40.4372638,24
+190,195,Indalecio Hernández - Mataelpino,24,-3.6754444,40.4392222,52,5,442715.1592,4476727.4655,190,Indalecio Hernández - Mataelpino,195,indalecio hernandez mataelpino,195,-3.6754444,40.4392222,24
+191,196,Metro Prosperidad,27,-3.6752218,40.4442237,53,5,442738.2824,4477282.4874,191,Metro Prosperidad,196,metro prosperidad,196,-3.6752218,40.4442237,27
+192,197,Parque de Berlín,23,-3.677916,40.4516059,51,5,442516.0911,4478103.6625,192,Parque de Berlín,197,parque de berlin,197,-3.677916,40.4516059,23
+193,198,Metro Rubén Darío,23,-3.6891,40.432,74,7,441550.757,4475934.748,193,Metro Rubén Darío,198,metro ruben dario,198,-3.6891,40.432,23
+194,199,"Fernando el Católico, 61",27,-3.7149166,40.4343611,71,7,439363.1042,4476214.2312,194,"Fernando el Católico, 61",199,fernando el catolico 61,199,-3.7149166,40.4343611,27
+195,200,Metro Quevedo,24,-3.70457898116,40.4337536059,72,7,440239.3767,4476139.7546,195,Metro Quevedo,200,metro quevedo,200,-3.70457898116,40.4337536059,24
+196,201,Metro Canal,23,-3.7038333,40.4386944,75,7,440306.9939,4476687.6783,196,Metro Canal,201,metro canal,201,-3.7038333,40.4386944,23
+197,202,Parque de Santander,27,-3.7083,40.4413,76,7,439930.4835,4476979.9283,197,Parque de Santander,202,parque de santander,202,-3.7083,40.4413,27
+198,203,General Ampudia - San Francisco Sales,24,-3.7144722,40.44175,76,7,439407.4312,4477034.0944,198,General Ampudia - San Francisco Sales,203,general ampudia san francisco sales,203,-3.7144722,40.44175,24
+199,204,Doctor Santero - Bravo Murillo,23,-3.7040397,40.4476488,61,6,440297.4118,4477681.757,199,Doctor Santero - Bravo Murillo,204,doctor santero bravo murillo,204,-3.7040397,40.4476488,23
+200,205,Metro Estrecho,23,-3.7032777,40.4535,61,6,440367.2024,4478330.7267,200,Metro Estrecho,205,metro estrecho,205,-3.7032777,40.4535,23
+201,206,Metro Tetuán,23,-3.69891552143,40.4607466894,66,6,440743.4534,4479132.1749,201,Metro Tetuán,206,metro tetuan,206,-3.69891552143,40.4607466894,23
+202,207,Plaza de la Remonta,19,-3.6973352,40.4630443,65,6,440879.4541,4479386.1511,202,Plaza de la Remonta,207,plaza de la remonta,207,-3.6973352,40.4630443,19
+203,208,Intercambiador de Plaza de Castilla,18,-3.6890611,40.4662811,56,5,441583.7477,4479739.9294,203,Intercambiador de Plaza de Castilla,208,intercambiador de plaza de castilla,208,-3.6890611,40.4662811,18
+204,209,Plaza de Castilla - Fundación Canal,23,-3.6887,40.4657,55,5,441613.8575,4479675.1881,204,Plaza de Castilla - Fundación Canal,209,plaza de castilla fundacion canal,209,-3.6887,40.4657,23
+205,210,Calle de las Tres Cruces - Gran Vía,27,-3.7027164,40.4196518,16,1,440384.9074,4474573.199,205,Calle de las Tres Cruces - Gran Vía,210,calle de las tres cruces gran via,210,-3.7027164,40.4196518,27
+206,211,Desengaño - Valverde,22,-3.70239,40.42059,15,1,440413.4257,4474677.1187,206,Desengaño - Valverde,211,desengano valverde,211,-3.70239,40.42059,22
+207,212,Metro Marqués de Vadillo,27,-3.716591,40.398247,113,11,439188.5794,4472206.7302,207,Metro Marqués de Vadillo,212,metro marques de vadillo,212,-3.716591,40.398247,27
+208,213,Glorieta de Cádiz,23,-3.7002247,40.3889918,125,12,440569.3328,4471168.2812,208,Glorieta de Cádiz,213,glorieta de cadiz,213,-3.7002247,40.3889918,23
+209,214,Condesa de Venadito - Albacete,24,-3.6569031,40.4434316,155,15,444291.1442,4477182.8484,209,Condesa de Venadito - Albacete,214,condesa de venadito albacete,214,-3.6569031,40.4434316,24
+210,215,Gutierre de Cetina - Ascao,23,-3.6408093,40.429588,152,15,445644.8453,4475636.1856,210,Gutierre de Cetina - Ascao,215,gutierre de cetina ascao,215,-3.6408093,40.429588,23
+211,216,Plaza de Puerta del Ángel,27,-3.72897,40.4141,102,10,438152.5751,4473974.9942,211,Plaza de Puerta del Ángel,216,plaza de puerta del angel,216,-3.72897,40.4141,27
+212,217,Hospital Universitario La Paz,23,-3.6890758,40.480884,85,8,441595.1558,4481360.8699,212,Hospital Universitario La Paz,217,hospital universitario la paz,217,-3.6890758,40.480884,23
+213,218,Camino de los Vinateros A,23,-3.6572967,40.4105478,144,14,444230.6092,4473533.0078,213,Camino de los Vinateros A,218,camino de los vinateros a,218,-3.6572967,40.4105478,23
+214,219,Camino de los Vinateros B,18,-3.6467338,40.4083593,143,14,445125.064,4473283.4741,214,Camino de los Vinateros B,219,camino de los vinateros b,219,-3.6467338,40.4083593,18
+215,220,Plaza del Encuentro,24,-3.651384,40.406156,144,14,444728.6924,4473041.8071,215,Plaza del Encuentro,220,plaza del encuentro,220,-3.651384,40.406156,24
+216,221,Metro Pavones,23,-3.63474447873,40.4004920267,141,14,446136.0858,4472402.839,216,Metro Pavones,221,metro pavones,221,-3.63474447873,40.4004920267,23
+217,222,Eugenio Caxes - Antonio López,23,-3.7026789,40.3917871,125,12,440363.5,4471480.2094,217,Eugenio Caxes - Antonio López,222,eugenio caxes antonio lopez,222,-3.7026789,40.3917871,23
+218,223,Ermita del Santo,27,-3.724576,40.406448,101,10,438518.4115,4473122.5598,218,Ermita del Santo,223,ermita del santo,223,-3.724576,40.406448,27
+219,224,Parque de Caramuel,27,-3.7287,40.409,102,10,438170.8151,4473408.7074,219,Parque de Caramuel,224,parque de caramuel,224,-3.7287,40.409,27
+220,225,Sierra Toledana - Doctor Lozano,24,-3.660345,40.402506,136,13,443965.3005,4472642.3022,220,Sierra Toledana - Doctor Lozano,225,sierra toledana doctor lozano,225,-3.660345,40.402506,24
+221,226,Sierra Toledana - Camino de Valderribas,23,-3.6607768678,40.3990153151,136,13,443925.7571,4472255.1131,221,Sierra Toledana - Camino de Valderribas,226,sierra toledana camino de valderribas,226,-3.6607768678,40.3990153151,23
+222,227,Arroyo del Olivar,24,-3.66593624294,40.3938297792,132,13,443483.5879,4471682.809,222,Arroyo del Olivar,227,arroyo del olivar,227,-3.66593624294,40.3938297792,24
+223,228,San Delfín - Antonio López,18,-3.70804297284,40.3944060796,111,11,439910.5744,4471774.5459,223,San Delfín - Antonio López,228,san delfin antonio lopez,228,-3.70804297284,40.3944060796,18
+224,229,Centro Deportivo Municipal Concepción,23,-3.6486508,40.4369378,153,15,444985.6942,4476456.8652,224,Centro Deportivo Municipal Concepción,229,centro deportivo municipal concepcion,229,-3.6486508,40.4369378,23
+225,230,Carlota O´Neill - Agastia,24,-3.6488254,40.4436792,155,15,444976.3825,4477205.2682,225,Carlota O´Neill - Agastia,230,carlota o neill agastia,230,-3.6488254,40.4436792,24
+226,231,Derechos Humanos - Verdaguer y García,24,-3.6557193,40.4398283,155,15,444388.568,4476782.1365,226,Derechos Humanos - Verdaguer y García,231,derechos humanos verdaguer y garcia,231,-3.6557193,40.4398283,24
+227,232,José María de Pereda - Alcalá,27,-3.6486169,40.4327663,151,15,444985.1695,4475993.8087,227,José María de Pereda - Alcalá,232,jose maria de pereda alcala,232,-3.6486169,40.4327663,27
+228,233,El dragón de La Elipa,24,-3.6555789,40.4229522,151,15,444386.5743,4474908.8063,228,El dragón de La Elipa,233,el dragon de la elipa,233,-3.6555789,40.4229522,24
+229,234,Metro La Elipa,24,-3.6510917,40.4261278,151,15,444769.8282,4475258.4818,229,Metro La Elipa,234,metro la elipa,234,-3.6510917,40.4261278,24
+230,235,Sodio - Embajadores,23,-3.691076,40.389041,24,2,441345.8658,4471167.6331,230,Sodio - Embajadores,235,sodio embajadores,235,-3.691076,40.389041,23
+231,236,Paseo Imperial,27,-3.7170785,40.4075794,21,2,439155.6123,4473242.9563,231,Paseo Imperial,236,paseo imperial,236,-3.7170785,40.4075794,27
+232,237,Acueducto de Amaniel,24,-3.7102736,40.4516819,61,6,439772.3732,4478133.6652,232,Acueducto de Amaniel,237,acueducto de amaniel,237,-3.7102736,40.4516819,24
+233,238,"San Germán, 5",24,-3.6932611,40.4561825,62,6,441218.8812,4478621.7685,233,"San Germán, 5",238,san german 5,238,-3.6932611,40.4561825,24
+234,239,Francos Rodríguez - José Calvo,23,-3.7078331,40.4567132,66,6,439983.7939,4478690.4794,234,Francos Rodríguez - José Calvo,239,francos rodriguez jose calvo,239,-3.7078331,40.4567132,23
+235,240,Brasilia - Parque Breogán,23,-3.66096,40.43666,44,4,443941.4705,4476433.7686,235,Brasilia - Parque Breogán,240,brasilia parque breogan,240,-3.66096,40.43666,23
+236,241,Camilo José Cela,23,-3.66779,40.4378,44,4,443363.1447,4476564.6653,236,Camilo José Cela,241,camilo jose cela,241,-3.66779,40.4378,23
+237,242,Metro Parque de las Avenidas,23,-3.662928,40.439513,44,4,443776.9325,4476751.7019,237,Metro Parque de las Avenidas,242,metro parque de las avenidas,242,-3.662928,40.439513,23
+238,243,Cartagena,23,-3.67012,40.43503,44,4,443163.1979,4476258.6924,238,Cartagena,243,cartagena,243,-3.67012,40.43503,23
+239,244,Hospital Clínico San Carlos,23,-3.71757,40.44003,76,7,439143.1614,4476845.3041,239,Hospital Clínico San Carlos,244,hospital clinico san carlos,244,-3.71757,40.44003,23
+240,245,Galileo - Donoso Cortés,24,-3.7101381,40.4363637,72,7,439770.1914,4476433.2506,240,Galileo - Donoso Cortés,245,galileo donoso cortes,245,-3.7101381,40.4363637,24
+241,246,Metro Iglesia,27,-3.6992484724,40.4359578815,73,7,440693.4375,4476380.8365,241,Metro Iglesia,246,metro iglesia,246,-3.6992484724,40.4359578815,27
+242,247,Zurbano - José Abascal,23,-3.69281,40.43837,75,7,441241.619,4476644.2786,242,Zurbano - José Abascal,247,zurbano jose abascal,247,-3.69281,40.43837,23
+243,248,Sinesio Delgado - Cuatro Torres,27,-3.6879973,40.4743209,85,8,441680.8893,4480631.6481,243,Sinesio Delgado - Cuatro Torres,248,sinesio delgado cuatro torres,248,-3.6879973,40.4743209,27
+244,249,Castellana - Cuatro Torres,24,-3.6853186,40.4795018,56,5,441912.4204,4481204.965,244,Castellana - Cuatro Torres,249,castellana cuatro torres,249,-3.6853186,40.4795018,24
+245,250,Serrano - CSIC,27,-3.6858096,40.4406491,51,5,441837.3036,4476892.6253,245,Serrano - CSIC,250,serrano csic,250,-3.6858096,40.4406491,27
+246,251,Santa Hortensia - Corazón de María,23,-3.66683,40.44421,52,5,443449.9369,4477275.5596,246,Santa Hortensia - Corazón de María,251,santa hortensia corazon de maria,251,-3.66683,40.44421,23
+247,252,Est. tren Chamartín - Clara Campoamor,23,-3.6839695,40.4717403,56,5,442020.0947,4480342.5465,247,Est. tren Chamartín - Clara Campoamor,252,est tren chamartin clara campoamor,252,-3.6839695,40.4717403,23
+248,253,Doctor Fleming - Estadio S. Bernabéu,19,-3.68844,40.45546,54,5,441627.0367,4478538.3725,248,Doctor Fleming - Estadio S. Bernabéu,253,doctor fleming estadio s bernabeu,253,-3.68844,40.45546,19
+249,254,Plaza del Perú,23,-3.67656,40.461,55,5,442639.0639,4479145.528,249,Plaza del Perú,254,plaza del peru,254,-3.67656,40.461,23
+250,255,General López Pozas - Apolonio Morales,23,-3.685292,40.46361,55,5,441900.98,4479440.9488,250,General López Pozas - Apolonio Morales,255,general lopez pozas apolonio morales,255,-3.685292,40.46361,23
+251,256,Reina Victoria - Beatriz de Bobadilla,23,-3.71383,40.44635,93,9,439466.0219,4477544.2547,251,Reina Victoria - Beatriz de Bobadilla,256,reina victoria beatriz de bobadilla,256,-3.71383,40.44635,23
+252,257,Ciudad Universitaria - INEF,23,-3.730527,40.438873,93,9,438043.2115,4476725.885,252,Ciudad Universitaria - INEF,257,ciudad universitaria inef,257,-3.730527,40.438873,23
+253,258,Metro Ciudad Universitaria A,24,-3.726939,40.444311,93,9,438352.4843,4477326.9932,253,Metro Ciudad Universitaria A,258,metro ciudad universitaria a,258,-3.726939,40.444311,24
+254,259,Metro Ciudad Universitaria B,19,-3.72675200416,40.4427052845,93,9,438366.8759,4477148.628,254,Metro Ciudad Universitaria B,259,metro ciudad universitaria b,259,-3.72675200416,40.4427052845,19
+255,25A,Plaza de Celenque A,24,-3.7057791,40.4173703,16,1,440123.0578,4474322.0241,255,Plaza de Celenque A,25A,plaza de celenque a,25a,-3.7057791,40.4173703,24
+256,25B,Plaza de Celenque B,24,-3.7058976,40.4173687,16,1,440113.003,4474321.9268,256,Plaza de Celenque B,25B,plaza de celenque b,25b,-3.7058976,40.4173687,24
+257,260,Ciudad Universitaria - Fac. de Biología,24,-3.7272945,40.4483322,93,9,438326.012,4477773.5956,257,Ciudad Universitaria - Fac. de Biología,260,ciudad universitaria fac de biologia,260,-3.7272945,40.4483322,24
+258,261,Ciudad Universitaria - Facultad Derecho,23,-3.7296756,40.4505516,93,9,438126.1305,4478021.6153,258,Ciudad Universitaria - Facultad Derecho,261,ciudad universitaria facultad derecho,261,-3.7296756,40.4505516,23
+259,262,María de las Mercedes de Borbón B,23,-3.620114,40.4928683,166,16,447449.6225,4482647.7798,259,María de las Mercedes de Borbón B,262,maria de las mercedes de borbon b,262,-3.620114,40.4928683,23
+260,263,Gran Vía de San Francisco,23,-3.71279328238,40.4083388082,11,1,439519.8975,4473324.309,260,Gran Vía de San Francisco,263,gran via de san francisco,263,-3.71279328238,40.4083388082,23
+261,265,Puerto Serrano - Embajadores,23,-3.688461,40.385412,24,2,441564.6757,4470763.0864,261,Puerto Serrano - Embajadores,265,puerto serrano embajadores,265,-3.688461,40.385412,23
+262,267,Paseo de la Chopera - Fernando Poo,23,-3.70039966472,40.395,23,2,440559.766,4471835.3036,262,Paseo de la Chopera - Fernando Poo,267,paseo de la chopera fernando poo,267,-3.70039966472,40.395,23
+263,268,Metro Arganzuela-Planetario,23,-3.68903146358,40.3933832798,25,2,441523.1506,4471648.2678,263,Metro Arganzuela-Planetario,268,metro arganzuela planetario,268,-3.68903146358,40.3933832798,23
+264,269,Ariel - Parque Enrique Tierno Galván,24,-3.67970176634,40.3930238024,24,2,442314.6444,4471602.237,264,Ariel - Parque Enrique Tierno Galván,269,ariel parque enrique tierno galvan,269,-3.67970176634,40.3930238024,24
+265,270,Teresa L. Valcárcel - Tte. Cnel. Noreña,24,-3.69328771,40.38862908,24,2,441157.7899,4471123.38,265,Teresa L. Valcárcel - Tte. Cnel. Noreña,270,teresa l valcarcel tte cnel norena,270,-3.69328771,40.38862908,24
+266,271,Amaltea-Meneses,24,-3.68317,40.394706,25,2,442021.7408,4471791.2281,266,Amaltea-Meneses,271,amaltea meneses,271,-3.68317,40.394706,24
+267,272,Tejo - Parque La Ronda,23,-3.679186,40.39663,27,2,442361.4922,4472002.1852,267,Tejo - Parque La Ronda,272,tejo parque la ronda,272,-3.679186,40.39663,23
+268,273,Delicias - General Lacy,19,-3.69091831,40.40381914,26,2,441372.0696,4472807.8896,268,Delicias - General Lacy,273,delicias general lacy,273,-3.69091831,40.40381914,19
+269,274,Estación Sur Méndez Álvaro A,23,-3.68134346,40.39675755,27,2,442178.5091,4472017.752,269,Estación Sur Méndez Álvaro A,274,estacion sur mendez alvaro a,274,-3.68134346,40.39675755,23
+270,275,"Juan Antonio Vallejo-Nájera Botas, 25",23,-3.7082123,40.4020545,22,2,439903.0053,4472623.63,270,"Juan Antonio Vallejo-Nájera Botas, 25",275,juan antonio vallejo najera botas 25,275,-3.7082123,40.4020545,23
+271,276,"Paseo de las Yeserías, 15",23,-3.7099166,40.39900539,22,2,439755.6638,4472286.341,271,"Paseo de las Yeserías, 15",276,paseo de las yeserias 15,276,-3.7099166,40.39900539,23
+272,277,Virgen del Puerto,15,-3.721178,40.411622,21,2,438811.4267,4473694.5132,272,Virgen del Puerto,277,virgen del puerto,277,-3.721178,40.411622,15
+273,278,Paseo los Pontones - Ps. Melancólicos,23,-3.7196,40.4040433,21,2,438938.4647,4472852.1901,273,Paseo los Pontones - Ps. Melancólicos,278,paseo los pontones ps melancolicos,278,-3.7196,40.4040433,23
+274,279,"Paseo de los Melancólicos, 1",23,-3.7184816,40.4104448,21,2,439039.1433,4473561.9811,274,"Paseo de los Melancólicos, 1",279,paseo de los melancolicos 1,279,-3.7184816,40.4104448,23
+275,280,Ps de los Melancólicos - San Epifanio,23,-3.718569,40.401782,21,2,439023.9103,4472600.4754,275,Ps de los Melancólicos - San Epifanio,280,ps de los melancolicos san epifanio,280,-3.718569,40.401782,23
+276,281,Reina Cristina - Julián Gayarre,23,-3.6831862,40.4067247,31,3,442030.6763,4473125.3048,276,Reina Cristina - Julián Gayarre,281,reina cristina julian gayarre,281,-3.6831862,40.4067247,23
+277,282,Parque Retiro - Puerta Reina Mercedes,23,-3.6787796,40.4181327,35,3,442414.3112,4474388.7053,277,Parque Retiro - Puerta Reina Mercedes,282,parque retiro puerta reina mercedes,282,-3.6787796,40.4181327,23
+278,283,Museo Nacional del Prado,23,-3.6919057,40.4152082,35,3,441298.1807,4474072.7238,278,Museo Nacional del Prado,283,museo nacional del prado,283,-3.6919057,40.4152082,23
+279,284,"Avenida de Burgos, 17",23,-3.67579002943,40.4735938789,56,5,442715.0465,4480542.9541,279,"Avenida de Burgos, 17",284,avenida de burgos 17,284,-3.67579002943,40.4735938789,23
+280,285,Santa María Magdalena - La Drácena,23,-3.6706,40.4631,55,5,443146.1462,4479374.7735,280,Santa María Magdalena - La Drácena,285,santa maria magdalena la dracena,285,-3.6706,40.4631,23
+281,286,Plaza Duque de Pastrana,23,-3.6779,40.4679,56,5,442531.3347,4479912.3022,281,Plaza Duque de Pastrana,286,plaza duque de pastrana,286,-3.6779,40.4679,23
+282,287,Metro Bambú,23,-3.6762,40.4765,56,5,442682.7655,4480865.8015,282,Metro Bambú,287,metro bambu,287,-3.6762,40.4765,23
+283,288,Caídos de la División Azul,23,-3.6723,40.4664,55,5,443004.8077,4479742.1709,283,Caídos de la División Azul,288,caidos de la division azul,288,-3.6723,40.4664,23
+284,289,Luis de Salazar - Padre Claret,23,-3.6649258,40.4474166,52,5,443614.1022,4477630.2747,284,Luis de Salazar - Padre Claret,289,luis de salazar padre claret,289,-3.6649258,40.4474166,23
+285,290,Francisco Suárez - Paseo de La Habana,23,-3.67994416,40.46437817,55,5,442355.0297,4479522.7103,285,Francisco Suárez - Paseo de La Habana,290,francisco suarez paseo de la habana,290,-3.67994416,40.46437817,23
+286,291,Plaza José María Soler,23,-3.66790332,40.45866532,54,5,443371.0501,4478880.7896,286,Plaza José María Soler,291,plaza jose maria soler,291,-3.66790332,40.45866532,23
+287,292,Centro Deportivo Municipal Pradillo,23,-3.6717937,40.44904126,53,5,443033.0699,4477815.0197,287,Centro Deportivo Municipal Pradillo,292,centro deportivo municipal pradillo,292,-3.6717937,40.44904126,23
+288,293,Santa Rita - Clara del Rey,23,-3.6682882,40.4457928,52,5,443327.6038,4477452.1851,288,Santa Rita - Clara del Rey,293,santa rita clara del rey,293,-3.6682882,40.4457928,23
+289,294,Edificio Torres Blancas,24,-3.672339,40.440944,52,5,442979.9868,4476916.5757,289,Edificio Torres Blancas,294,edificio torres blancas,294,-3.672339,40.440944,24
+290,295,Hernani - Edgar Neville,23,-3.6972,40.4481,62,6,440877.8186,4477727.2388,290,Hernani - Edgar Neville,295,hernani edgar neville,295,-3.6972,40.4481,23
+291,296,Costa Verde,23,-3.696862,40.469477,64,6,440925.2092,4480099.8673,291,Costa Verde,296,costa verde,296,-3.696862,40.469477,23
+292,297,Simancas - Pinos Alta,23,-3.69511298,40.4655,64,6,441070.0032,4479657.2492,292,Simancas - Pinos Alta,297,simancas pinos alta,297,-3.69511298,40.4655,23
+293,298,Marques de Viana - Bellver,19,-3.704478,40.463643,66,6,440274.4082,4479457.4149,293,Marques de Viana - Bellver,298,marques de viana bellver,298,-3.704478,40.463643,19
+294,299,Rosario Pino - Joan Maragall,24,-3.69193246,40.46204955,63,6,441336.6403,4479272.1295,294,Rosario Pino - Joan Maragall,299,rosario pino joan maragall,299,-3.69193246,40.46204955,24
+295,300,Capitan Blanco Argibay - Alfalfa,24,-3.7031882,40.4667435,65,6,440386.4996,4479800.7002,295,Capitan Blanco Argibay - Alfalfa,300,capitan blanco argibay alfalfa,300,-3.7031882,40.4667435,24
+296,301,Muller - Capitan Blanco Argibay,24,-3.69837565,40.46518187,65,6,440793.1204,4479624.1197,296,Muller - Capitan Blanco Argibay,301,muller capitan blanco argibay,301,-3.69837565,40.46518187,24
+297,302,Ps. Dirección B - Pque A. Rguez Sahagún,24,-3.703955,40.4702445774,65,6,440324.5919,4480189.8399,297,Ps. Dirección B - Pque A. Rguez Sahagún,302,ps direccion b pque a rguez sahagun,302,-3.703955,40.4702445774,24
+298,303,Ps. Dirección A - Pque A. Rguez Sahagún,24,-3.70808508481,40.4677892974,65,6,439972.2889,4479920.1026,298,Ps. Dirección A - Pque A. Rguez Sahagún,303,ps direccion a pque a rguez sahagun,303,-3.70808508481,40.4677892974,24
+299,304,"Valle de Mena, 5",23,-3.71527245,40.46962735,94,9,439364.6302,4480129.0399,299,"Valle de Mena, 5",304,valle de mena 5,304,-3.71527245,40.46962735,23
+300,305,Intercambiador de Príncipe Pío B,23,-3.72317757,40.42276114,91,9,438651.8899,4474932.3404,300,Intercambiador de Príncipe Pío B,305,intercambiador de principe pio b,305,-3.72317757,40.42276114,23
+301,306,Centro Deportivo Mpal Fernando Martín,23,-3.7121965,40.4617959,94,9,439618.375,4479257.6363,301,Centro Deportivo Mpal Fernando Martín,306,centro deportivo mpal fernando martin,306,-3.7121965,40.4617959,23
+302,307,Metro Valdezarza,24,-3.71693008,40.46588016,94,9,439220.7297,4479714.2395,302,Metro Valdezarza,307,metro valdezarza,307,-3.71693008,40.46588016,24
+303,308,María Auxiliadora - Francos Rodríguez,24,-3.71346147,40.45772941,93,9,439507.4796,4478807.12,303,María Auxiliadora - Francos Rodríguez,308,maria auxiliadora francos rodriguez,308,-3.71346147,40.45772941,24
+304,309,Ofelia Nieto - Villaamil,24,-3.708734,40.462051,94,9,439912.1633,4479283.5901,304,Ofelia Nieto - Villaamil,309,ofelia nieto villaamil,309,-3.708734,40.462051,24
+305,310,Estación de tren de Aravaca,23,-3.7845536,40.4490509,97,9,433471.1483,4477894.9347,305,Estación de tren de Aravaca,310,estacion de tren de aravaca,310,-3.7845536,40.4490509,23
+306,311,C. Universitaria - F. Geografía e Histo,27,-3.733574,40.448553,93,9,437793.7144,4477802.5089,306,C. Universitaria - F. Geografía e Histo,311,c universitaria f geografia e histo,311,-3.733574,40.448553,27
+307,312,Metro Batán,27,-3.7528559,40.4077495,91,9,436120.0193,4473287.0814,307,Metro Batán,312,metro batan,312,-3.7528559,40.4077495,27
+308,313,"Juan XXIII, 24",27,-3.7169359,40.448084,93,9,439204.1967,4477738.8626,308,"Juan XXIII, 24",313,juan xxiii 24,313,-3.7169359,40.448084,27
+309,314,Av. Valladolid - Parque de la Bombilla,27,-3.73068,40.42966,91,9,438021.7764,4475703.3491,309,Av. Valladolid - Parque de la Bombilla,314,av valladolid parque de la bombilla,314,-3.73068,40.42966,27
+310,315,Caroli,23,-3.784627,40.45862,97,9,433474.3624,4478957.166,310,Caroli,315,caroli,315,-3.784627,40.45862,23
+311,316,C. Deportivo Mpal. Ciudad De Los Poetas,19,-3.71995383,40.46439687,94,9,438963.04,4479551.6797,311,C. Deportivo Mpal. Ciudad De Los Poetas,316,c deportivo mpal ciudad de los poetas,316,-3.71995383,40.46439687,19
+312,317,"Antonio Machado, 30",27,-3.71921712,40.46826955,94,9,439029.0003,4479981.0404,312,"Antonio Machado, 30",317,antonio machado 30,317,-3.71921712,40.46826955,27
+313,318,C. Deportivo Mpal. José María Cagigal,23,-3.73702764736,40.4320513101,91,9,437485.5618,4475973.2571,313,C. Deportivo Mpal. José María Cagigal,318,c deportivo mpal jose maria cagigal,318,-3.73702764736,40.4320513101,23
+314,319,Valdesangil,24,-3.7166729,40.4684218,94,9,439244.8233,4479996.186,314,Valdesangil,319,valdesangil,319,-3.7166729,40.4684218,24
+315,320,Metro Lago,19,-3.7345247,40.4167792,91,9,437683.7698,4474276.2869,315,Metro Lago,320,metro lago,320,-3.7345247,40.4167792,19
+316,321,Metro Casa de Campo,27,-3.761051,40.40316,91,9,435420.2704,4472783.604,316,Metro Casa de Campo,321,metro casa de campo,321,-3.761051,40.40316,27
+317,322,Ps. Jesuitas - Mercado Alto Extremadura,27,-3.7351,40.408,102,10,437626.8559,4473302.2048,317,Ps. Jesuitas - Mercado Alto Extremadura,322,ps jesuitas mercado alto extremadura,322,-3.7351,40.408,27
+318,323,Centro Deportivo Municipal Gallur,23,-3.7359,40.3984,101,10,437550.1039,4472237.1749,318,Centro Deportivo Municipal Gallur,323,centro deportivo municipal gallur,323,-3.7359,40.3984,23
+319,324,Metro Lucero,23,-3.74509615211,40.4045713248,103,10,436775.4677,4472928.7258,319,Metro Lucero,324,metro lucero,324,-3.74509615211,40.4045713248,23
+320,325,Ps. Jesuitas - Pza. Cerro Bermejo,23,-3.7305543,40.4106918,102,10,438015.0312,4473597.7954,320,Ps. Jesuitas - Pza. Cerro Bermejo,325,ps jesuitas pza cerro bermejo,325,-3.7305543,40.4106918,23
+321,326,Metro Alto de Extremadura,24,-3.73961578102,40.4093795032,102,10,437244.9704,4473458.5257,321,Metro Alto de Extremadura,326,metro alto de extremadura,326,-3.73961578102,40.4093795032,24
+322,327,"El Greco, 27 - C. Cultural El Greco",24,-3.74726153,40.40741199,103,10,436594.3904,4473245.5895,322,"El Greco, 27 - C. Cultural El Greco",327,el greco 27 c cultural el greco,327,-3.74726153,40.40741199,24
+323,328,"Cebreros, 97",23,-3.7521917,40.4032379,103,10,436172.1156,4472785.8159,323,"Cebreros, 97",328,cebreros 97,328,-3.7521917,40.4032379,23
+324,329,Metro Laguna,23,-3.74445208,40.3988162,103,10,436824.7404,4472289.4495,324,Metro Laguna,329,metro laguna,329,-3.74445208,40.3988162,23
+325,330,Duquesa de Parcent - Marcelino Castillo,23,-3.7447281,40.39500224,104,10,436797.7504,4471866.2997,325,Duquesa de Parcent - Marcelino Castillo,330,duquesa de parcent marcelino castillo,330,-3.7447281,40.39500224,23
+326,331,Valmojado,24,-3.75757186,40.39649629,104,10,435709.1601,4472041.3996,326,Valmojado,331,valmojado,331,-3.75757186,40.39649629,24
+327,332,"Los Yébenes, 159",23,-3.75181704,40.39302789,104,10,436194.2697,4471652.2401,327,"Los Yébenes, 159",332,los yebenes 159,332,-3.75181704,40.39302789,23
+328,333,Illescas - Camarena,23,-3.7562323,40.392175,104,10,435818.739,4471560.7658,328,Illescas - Camarena,333,illescas camarena,333,-3.7562323,40.392175,23
+329,334,Metro Campamento,24,-3.76815631,40.39497294,104,10,434809.4397,4471880.0598,329,Metro Campamento,334,metro campamento,334,-3.76815631,40.39497294,24
+330,335,"Cardaño, 10",24,-3.77057541,40.39659757,105,10,434605.7096,4472062.1796,330,"Cardaño, 10",335,cardano 10,335,-3.77057541,40.39659757,24
+331,336,"Calle Oliva de Plasencia, 1",24,-3.77915183,40.37850071,107,10,433860.1702,4470059.8196,331,"Calle Oliva de Plasencia, 1",336,calle oliva de plasencia 1,336,-3.77915183,40.37850071,24
+332,337,Metro Aluche,18,-3.76048923,40.38614104,104,10,435451.6902,4470894.0995,332,Metro Aluche,337,metro aluche,337,-3.76048923,40.38614104,18
+333,338,Guareña - Luis Chamizo,18,-3.76533910353,40.3863623371,107,10,435040.2545,4470922.215,333,Guareña - Luis Chamizo,338,guarena luis chamizo,338,-3.76533910353,40.3863623371,18
+334,339,Estación de tren Las Águilas,24,-3.78061952,40.38132642,107,10,433738.3498,4470374.5698,334,Estación de tren Las Águilas,339,estacion de tren las aguilas,339,-3.78061952,40.38132642,24
+335,340,Illescas - Seseña,27,-3.7656976,40.3970983,104,10,435020.1466,4472114.1635,335,Illescas - Seseña,340,illescas sesena,340,-3.7656976,40.3970983,27
+336,341,Escalona - Seseña,27,-3.76182259,40.39834576,104,10,435350.1903,4472249.7897,336,Escalona - Seseña,341,escalona sesena,341,-3.76182259,40.39834576,27
+337,342,Osa de la Vega - Rafael Finat,23,-3.773381,40.374979,107,10,434346.6249,4469664.6129,337,Osa de la Vega - Rafael Finat,342,osa de la vega rafael finat,342,-3.773381,40.374979,23
+338,343,Metro Aviación Española,23,-3.78339301,40.38358975,107,10,433505.1498,4470627.8797,338,Metro Aviación Española,343,metro aviacion espanola,343,-3.78339301,40.38358975,23
+339,344,"Ocaña, 103",23,-3.75292035,40.38586273,104,10,436093.8597,4470857.7095,339,"Ocaña, 103",344,ocana 103,344,-3.75292035,40.38586273,23
+340,345,Fuente del Tiro - Avd. de las Águilas,24,-3.7798001,40.38308791,107,10,433809.6299,4470569.4802,340,Fuente del Tiro - Avd. de las Águilas,345,fuente del tiro avd de las aguilas,345,-3.7798001,40.38308791,24
+341,346,Metro Empalme,24,-3.7664844,40.3907438,104,10,434947.2601,4471409.3964,341,Metro Empalme,346,metro empalme,346,-3.7664844,40.3907438,24
+342,347,Est. tren Mtra Justa Freire-Poli Aluche,24,-3.768603,40.383554,107,10,434760.5122,4470612.8947,342,Est. tren Mtra Justa Freire-Poli Aluche,347,est tren mtra justa freire poli aluche,347,-3.768603,40.383554,24
+343,348,José de Cadalso - Rafael Finat,27,-3.77024778,40.37959145,107,10,434617.0699,4470174.2696,343,José de Cadalso - Rafael Finat,348,jose de cadalso rafael finat,348,-3.77024778,40.37959145,27
+344,349,Huerta de Castañeda 26,24,-3.74201882097,40.406220957,103,10,437038.1317,4473109.6375,344,Huerta de Castañeda 26,349,huerta de castaneda 26,349,-3.74201882097,40.406220957,24
+345,350,Ervigio - Amalarico,23,-3.7315,40.3947,113,11,437920.1014,4471823.3784,345,Ervigio - Amalarico,350,ervigio amalarico,350,-3.7315,40.3947,23
+346,351,Comandante Fontanes - General Ricardos,23,-3.7211209,40.3951415,113,11,438801.3474,4471865.148,346,Comandante Fontanes - General Ricardos,351,comandante fontanes general ricardos,351,-3.7211209,40.3951415,23
+347,352,Algorta  - General Ricardos,23,-3.72745169,40.3916226145,113,11,438260.86,4471478.9561,347,Algorta  - General Ricardos,352,algorta general ricardos,352,-3.72745169,40.3916226145,23
+348,353,"Mercedes Arteaga, 21",24,-3.72221757048,40.39251608,112,11,438705.896,4471574.4882,348,"Mercedes Arteaga, 21",353,mercedes arteaga 21,353,-3.72221757048,40.39251608,24
+349,354,Jacinto Verdaguer - Lola de Membrives,24,-3.71605261163,40.395938547,112,11,439232.1931,4471950.1235,349,Jacinto Verdaguer - Lola de Membrives,354,jacinto verdaguer lola de membrives,354,-3.71605261163,40.395938547,24
+350,355,Intercambiador de Plaza Elíptica,24,-3.7182338,40.3854641,112,11,439037.6402,4470788.9703,350,Intercambiador de Plaza Elíptica,355,intercambiador de plaza eliptica,355,-3.7182338,40.3854641,24
+351,356,Portalegre - Tinamús,24,-3.72364769,40.38937686,112,11,438581.6697,4471227.0298,351,Portalegre - Tinamús,356,portalegre tinamus,356,-3.72364769,40.38937686,24
+352,357,Sorbe - Baleares,24,-3.71320917,40.3898701,111,11,439468.0699,4471274.5802,352,Sorbe - Baleares,357,sorbe baleares,357,-3.71320917,40.3898701,24
+353,358,Verdad,23,-3.71716,40.391787,112,11,439134.4757,4471490.0668,353,Verdad,358,verdad,358,-3.71716,40.391787,23
+354,359,El Toboso - Zaida,23,-3.7363397,40.3929901,113,11,437507.7883,4471636.9904,354,El Toboso - Zaida,359,el toboso zaida,359,-3.7363397,40.3929901,23
+355,360,Ntra. Sra. Fátima - Ntra. Sra. de Luz,23,-3.7470882,40.3840155,114,11,436587.1513,4470648.4698,355,Ntra. Sra. Fátima - Ntra. Sra. de Luz,360,ntra sra fatima ntra sra de luz,360,-3.7470882,40.3840155,23
+356,361,Metro Pan Bendito,23,-3.73266666,40.37734672,117,11,437805.1299,4469897.9995,356,Metro Pan Bendito,361,metro pan bendito,361,-3.73266666,40.37734672,23
+357,362,"Hilario Herranz Establos, 36",27,-3.726638,40.372839,116,11,438312.7866,4469393.4253,357,"Hilario Herranz Establos, 36",362,hilario herranz establos 36,362,-3.726638,40.372839,27
+358,363,Metro Oporto,23,-3.72987333,40.38745087,112,11,438051.5101,4471017.5897,358,Metro Oporto,363,metro oporto,363,-3.72987333,40.38745087,23
+359,364,Metro Opañel,23,-3.72378064,40.38550735,112,11,438566.8699,4470797.61,359,Metro Opañel,364,metro opanel,364,-3.72378064,40.38550735,23
+360,365,Palacio Vistalegre Arena,23,-3.73725908,40.38537202,114,11,437422.71,4470792.0399,360,Palacio Vistalegre Arena,365,palacio vistalegre arena,365,-3.73725908,40.38537202,23
+361,366,Metro Carabanchel,23,-3.744521,40.387737,114,11,436808.5354,4471059.7153,361,Metro Carabanchel,366,metro carabanchel,366,-3.744521,40.387737,23
+362,367,Metro San Francisco,23,-3.73984,40.373972,115,11,437193.0578,4469528.4785,362,Metro San Francisco,367,metro san francisco,367,-3.73984,40.373972,23
+363,368,Eugenia de Montijo,15,-3.74706068,40.3791024,115,11,436584.8802,4470103.1004,363,Eugenia de Montijo,368,eugenia de montijo,368,-3.74706068,40.3791024,15
+364,369,Junta Municipal Distrito de Carabanchel,23,-3.7415832,40.3802446,115,11,437050.9099,4470225.9701,364,Junta Municipal Distrito de Carabanchel,369,junta municipal distrito de carabanchel,369,-3.7415832,40.3802446,23
+365,370,Avefría - Plaza de Tarifa,23,-3.7308025,40.38386939,115,11,437969.3599,4470620.7001,365,Avefría - Plaza de Tarifa,370,avefria plaza de tarifa,370,-3.7308025,40.38386939,23
+366,371,"Joaquin Turina, 49",27,-3.76182,40.372458,116,11,435325.6533,4469376.2665,366,"Joaquin Turina, 49",371,joaquin turina 49,371,-3.76182,40.372458,27
+367,372,"Lonja de la Seda, 33",23,-3.76158263,40.36612215,116,11,435339.7497,4468672.8205,367,"Lonja de la Seda, 33",372,lonja de la seda 33,372,-3.76158263,40.36612215,23
+368,373,Metro La Peseta,23,-3.75787005,40.36277848,116,11,435651.7803,4468298.9699,368,Metro La Peseta,373,metro la peseta,373,-3.75787005,40.36277848,23
+369,374,Dinero - La Peseta,27,-3.7501466,40.3625707,116,11,436307.3633,4468270.3172,369,Dinero - La Peseta,374,dinero la peseta,374,-3.7501466,40.3625707,27
+370,375,"Calderilla, 4",27,-3.73851114,40.36521132,116,11,437297.7503,4468555.1104,370,"Calderilla, 4",375,calderilla 4,375,-3.73851114,40.36521132,27
+371,376,Metro Carpetana,24,-3.7405438,40.39229225,114,11,437150.3396,4471562.5097,371,Metro Carpetana,376,metro carpetana,376,-3.7405438,40.39229225,24
+372,377,Metro Abrantes,23,-3.72783615,40.38091762,117,11,438218.4497,4470290.9798,372,Metro Abrantes,377,metro abrantes,377,-3.72783615,40.38091762,23
+373,378,"Eugenia de Montijo, 83",24,-3.7509733,40.37562288,116,11,436249.4702,4469719.69,373,"Eugenia de Montijo, 83",378,eugenia de montijo 83,378,-3.7509733,40.37562288,24
+374,379,Antonia Rodríguez Sacristán - Valeriana,24,-3.74765739,40.37313777,116,11,436528.6304,4469441.4605,374,Antonia Rodríguez Sacristán - Valeriana,379,antonia rodriguez sacristan valeriana,379,-3.74765739,40.37313777,24
+375,380,Oca,24,-3.7335492,40.3894333,113,11,437741.341,4471240.2197,375,Oca,380,oca,380,-3.7335492,40.3894333,24
+376,381,Alfredo Aleix - Mercedes Rodríguez,24,-3.7553916,40.3684767,116,11,435867.6203,4468929.6658,376,Alfredo Aleix - Mercedes Rodríguez,381,alfredo aleix mercedes rodriguez,381,-3.7553916,40.3684767,24
+377,382,"arque Eugenia de Montijo, 2",24,-3.7545822,40.3783501,114,11,435945.6887,4470025.0165,377,"arque Eugenia de Montijo, 2",382,arque eugenia de montijo 2,382,-3.7545822,40.3783501,24
+378,383,Metro San Fermín-Orcasur,23,-3.6939702,40.3700017,123,12,441083.6388,4469056.2168,378,Metro San Fermín-Orcasur,383,metro san fermin orcasur,383,-3.6939702,40.3700017,23
+379,384,Metro Usera,23,-3.7061449,40.38707469,125,12,440065.1599,4470959.4799,379,Metro Usera,384,metro usera,384,-3.7061449,40.38707469,23
+380,385,Estación de tren Orcasitas,23,-3.70388671,40.36721104,122,12,440239.2798,4468753.1096,380,Estación de tren Orcasitas,385,estacion de tren orcasitas,385,-3.70388671,40.36721104,23
+381,386,"Avenida de los Poblados, 130",23,-3.71331521,40.37347443,121,12,439444.3901,4469454.7505,381,"Avenida de los Poblados, 130",386,avenida de los poblados 130,386,-3.71331521,40.37347443,23
+382,387,"Isabelita Usera, 44",23,-3.70773972,40.38272256,127,12,439925.9302,4470477.4801,382,"Isabelita Usera, 44",387,isabelita usera 44,387,-3.70773972,40.38272256,23
+383,388,Estación tren - Hospital 12 de Octubre,23,-3.70041478,40.37837955,127,12,440543.8697,4469990.4604,383,Estación tren - Hospital 12 de Octubre,388,estacion tren hospital 12 de octubre,388,-3.70041478,40.37837955,23
+384,389,Julio Merino - Pilarica,23,-3.7032,40.3831,124,12,440311.6052,4470516.3014,384,Julio Merino - Pilarica,389,julio merino pilarica,389,-3.7032,40.3831,23
+385,390,Avena - Mijo,23,-3.7159,40.3773,126,12,439228.3944,4469881.1573,385,Avena - Mijo,390,avena mijo,390,-3.7159,40.3773,23
+386,391,Junta Municipal Distrito de Usera,23,-3.7112962209,40.3817026329,126,12,439623.1356,4470366.6914,386,Junta Municipal Distrito de Usera,391,junta municipal distrito de usera,391,-3.7112962209,40.3817026329,23
+387,392,Metro Almendrales,23,-3.697856,40.38268,124,12,440764.8456,4470466.0884,387,Metro Almendrales,392,metro almendrales,392,-3.697856,40.38268,23
+388,393,"Manuel Noya , 29",24,-3.7117979,40.3853787,125,12,439583.8358,4470775.0738,388,"Manuel Noya , 29",393,manuel noya 29,393,-3.7117979,40.3853787,24
+389,394,"Periana, 24",24,-3.68765805,40.36672327,123,12,441616.7001,4468688.1304,389,"Periana, 24",394,periana 24,394,-3.68765805,40.36672327,24
+390,395,"Guetaria, 84B",24,-3.71569102,40.36916772,121,12,439238.8303,4468978.3403,390,"Guetaria, 84B",395,guetaria 84b,395,-3.71569102,40.36916772,24
+391,396,"Gran Avenida, 27",24,-3.70760649,40.36997711,121,12,439925.92,4469062.6595,391,"Gran Avenida, 27",396,gran avenida 27,396,-3.70760649,40.36997711,24
+392,397,Centro Deportivo Municipal Orcasur,24,-3.69838038,40.36809336,122,12,440707.55,4468847.3405,392,Centro Deportivo Municipal Orcasur,397,centro deportivo municipal orcasur,397,-3.69838038,40.36809336,24
+393,398,Orovilla - Felicidad,27,-3.6895,40.3587,174,17,441453.3732,4467798.7767,393,Orovilla - Felicidad,398,orovilla felicidad,398,-3.6895,40.3587,27
+394,399,Bohemios - Gigantes y Cabezudos,24,-3.693901,40.356536,175,17,441077.7899,4467561.4978,394,Bohemios - Gigantes y Cabezudos,399,bohemios gigantes y cabezudos,399,-3.693901,40.356536,24
+395,400,Metro Ciudad de los Ángeles,24,-3.69399661,40.36064659,175,17,441073.2502,4468017.8305,395,Metro Ciudad de los Ángeles,400,metro ciudad de los angeles,400,-3.69399661,40.36064659,24
+396,401,Estación de tren de Villaverde Bajo,27,-3.683127,40.353285,173,17,441989.8791,4467193.5228,396,Estación de tren de Villaverde Bajo,401,estacion de tren de villaverde bajo,401,-3.683127,40.353285,27
+397,402,"Berrocal, 9",27,-3.67615,40.344115,173,17,442574.5828,4466171.1186,397,"Berrocal, 9",402,berrocal 9,402,-3.67615,40.344115,27
+398,403,"Auñón, 16",23,-3.6775242,40.3504944,173,17,442463.2924,4466880.1129,398,"Auñón, 16",403,aunon 16,403,-3.6775242,40.3504944,23
+399,404,Junta Municipal Distrito de Villaverde,27,-3.710985,40.349111,171,17,439620.4774,4466748.852,399,Junta Municipal Distrito de Villaverde,404,junta municipal distrito de villaverde,404,-3.710985,40.349111,27
+400,405,"Paseo Alberto Palacios, 42",23,-3.71290396442,40.3449259916,171,17,439453.7682,4466285.6343,400,"Paseo Alberto Palacios, 42",405,paseo alberto palacios 42,405,-3.71290396442,40.3449259916,23
+401,406,La Nave de Madrid,23,-3.6960817,40.3486,175,17,440885.6859,4466682.0695,401,La Nave de Madrid,406,la nave de madrid,406,-3.6960817,40.3486,23
+402,407,"Carmen de Burgos, 4",23,-3.6847883,40.3575459,174,17,441852.4634,4467667.5662,402,"Carmen de Burgos, 4",407,carmen de burgos 4,407,-3.6847883,40.3575459,23
+403,408,Metro San Cristóbal,23,-3.692444,40.341725,172,17,441188.647,4465916.5332,403,Metro San Cristóbal,408,metro san cristobal,408,-3.692444,40.341725,23
+404,409,"Eduardo Barreiros, 114",23,-3.7046436,40.3553495,175,17,440164.5318,4467437.0077,404,"Eduardo Barreiros, 114",409,eduardo barreiros 114,409,-3.7046436,40.3553495,23
+405,410,Est. de tren de S. Cristóbal Industrial,24,-3.6992665,40.3325463,171,17,440601.138,4464902.2713,405,Est. de tren de S. Cristóbal Industrial,410,est de tren de s cristobal industrial,410,-3.6992665,40.3325463,24
+406,411,Estación de tren de Villaverde Alto,23,-3.7118183,40.3417533,171,17,439543.1409,4465932.7289,406,Estación de tren de Villaverde Alto,411,estacion de tren de villaverde alto,411,-3.7118183,40.3417533,23
+407,412,Estación de tren de Puente de Alcocer,24,-3.7043083,40.3500291,171,17,440188.3037,4466846.2252,407,Estación de tren de Puente de Alcocer,412,estacion de tren de puente de alcocer,412,-3.7043083,40.3500291,24
+408,413,Doctor Martín Arévalo,24,-3.707413,40.345928,171,17,439921.0033,4466393.1133,408,Doctor Martín Arévalo,413,doctor martin arevalo,413,-3.707413,40.345928,24
+409,414,Metro Villaverde Bajo-Cruce,24,-3.692163,40.350985,174,17,441220.5525,4466944.1899,409,Metro Villaverde Bajo-Cruce,414,metro villaverde bajo cruce,414,-3.692163,40.350985,24
+410,415,Diamante - Delmira Agustini,24,-3.6877534,40.3532609,174,17,441596.9883,4467193.8911,410,Diamante - Delmira Agustini,415,diamante delmira agustini,415,-3.6877534,40.3532609,24
+411,416,Ramírez Tomé,27,-3.64597393618,40.388756181,135,13,445173.6383,4471107.0755,411,Ramírez Tomé,416,ramirez tome,416,-3.64597393618,40.388756181,27
+412,417,"Romeo y Julieta, 13",27,-3.66217563,40.37873799,133,13,443790.1997,4470005.2405,412,"Romeo y Julieta, 13",417,romeo y julieta 13,417,-3.66217563,40.37873799,27
+413,418,Puerto de Arlabán - San Diego,27,-3.6675,40.3864,132,13,443344.6486,4470859.1121,413,Puerto de Arlabán - San Diego,418,puerto de arlaban san diego,418,-3.6675,40.3864,27
+414,419,Estación de tren de El Pozo,27,-3.655868,40.3762374,133,13,444323.578,4469723.6884,414,Estación de tren de El Pozo,419,estacion de tren de el pozo,419,-3.655868,40.3762374,27
+415,421,Arroyo del Olivar - Buenos Aires,24,-3.653269,40.388435,133,13,444554.2097,4471075.9738,415,Arroyo del Olivar - Buenos Aires,421,arroyo del olivar buenos aires,421,-3.653269,40.388435,24
+416,423,Estación de tren Asamblea de Madrid,24,-3.66855013,40.38138801,131,13,443251.3101,4470303.4605,416,Estación de tren Asamblea de Madrid,423,estacion de tren asamblea de madrid,423,-3.66855013,40.38138801,24
+417,424,"Camino de Valderribas, 47",24,-3.663958,40.4002231,136,13,443656.8077,4472391.1989,417,"Camino de Valderribas, 47",424,camino de valderribas 47,424,-3.663958,40.4002231,24
+418,425,Ramón Perez Ayala - Pque. Cerro Tío Pío,24,-3.65381017,40.40003472,136,13,444517.7997,4472363.8703,418,Ramón Perez Ayala - Pque. Cerro Tío Pío,425,ramon perez ayala pque cerro tio pio,425,-3.65381017,40.40003472,24
+419,426,Humanes - Benjamín Palencia,24,-3.64932678,40.3952121,135,13,444894.3301,4471825.7599,419,Humanes - Benjamín Palencia,426,humanes benjamin palencia,426,-3.64932678,40.3952121,24
+420,427,"Andaluces, 2",24,-3.64148304,40.3914244,134,13,445556.9498,4471400.4697,420,"Andaluces, 2",427,andaluces 2,427,-3.64148304,40.3914244,24
+421,428,Estadio de Vallecas,24,-3.6571,40.3919,133,13,444231.912,4471462.9944,421,Estadio de Vallecas,428,estadio de vallecas,428,-3.6571,40.3919,24
+422,429,Carlos M. Alvarez - Javier de Miguel,23,-3.6635,40.3895,133,13,443686.7409,4471200.6535,422,Carlos M. Alvarez - Javier de Miguel,429,carlos m alvarez javier de miguel,429,-3.6635,40.3895,23
+423,430,Torremolinos - Rafael Alberti,24,-3.64178999,40.38500948,134,13,445525.7303,4470688.6102,423,Torremolinos - Rafael Alberti,430,torremolinos rafael alberti,430,-3.64178999,40.38500948,24
+424,431,"Puerto Canfranc, 18",24,-3.6634,40.3969,136,13,443701.3916,4472021.9823,424,"Puerto Canfranc, 18",431,puerto canfranc 18,431,-3.6634,40.3969,24
+425,432,Maquinilla - Tranvía Blanco,24,-3.63648424,40.38078101,134,13,445972.7,4470216.0005,425,Maquinilla - Tranvía Blanco,432,maquinilla tranvia blanco,432,-3.63648424,40.38078101,24
+426,433,"Villalobos, 28",24,-3.65076037,40.38161669,134,13,444761.5598,4470317.5795,426,"Villalobos, 28",433,villalobos 28,433,-3.65076037,40.38161669,24
+427,434,Charleroi - Cocherón de la Villa,24,-3.63219372,40.38191654,134,13,446337.7998,4470339.4304,427,Charleroi - Cocherón de la Villa,434,charleroi cocheron de la villa,434,-3.63219372,40.38191654,24
+428,435,San Claudio,24,-3.63953994,40.38902883,134,13,445719.9396,4471133.3695,428,San Claudio,435,san claudio,435,-3.63953994,40.38902883,24
+429,436,Campus Sur UPM,24,-3.62713659,40.3901675,134,13,446773.56,4471252.2199,429,Campus Sur UPM,436,campus sur upm,436,-3.62713659,40.3901675,24
+430,437,Metro Sierra de Guadalupe,27,-3.62376457,40.38135158,181,18,447052.8496,4470271.6397,430,Metro Sierra de Guadalupe,437,metro sierra de guadalupe,437,-3.62376457,40.38135158,27
+431,438,Biblioteca Pública Luis Martín Santos,27,-3.6140607,40.3804482,182,18,447875.8543,4470165.6011,431,Biblioteca Pública Luis Martín Santos,438,biblioteca publica luis martin santos,438,-3.6140607,40.3804482,27
+432,439,Cabeza Mesada - Parque de Valdeperdices,27,-3.629413,40.37647902,183,18,446569.5403,4469734.1896,432,Cabeza Mesada - Parque de Valdeperdices,439,cabeza mesada parque de valdeperdices,439,-3.629413,40.37647902,27
+433,440,Metro Villa de Vallecas,18,-3.62144691,40.3795035,181,18,447248.1398,4470065.1204,433,Metro Villa de Vallecas,440,metro villa de vallecas,440,-3.62144691,40.3795035,18
+434,441,Estación de tren de Santa Eugenia,24,-3.60948153,40.38600753,182,18,448268.8097,4470779.99,434,Estación de tren de Santa Eugenia,441,estacion de tren de santa eugenia,441,-3.60948153,40.38600753,24
+435,442,Santa Eugenia - Zazuar,27,-3.60463,40.38305936,182,18,448678.3597,4470449.9202,435,Santa Eugenia - Zazuar,442,santa eugenia zazuar,442,-3.60463,40.38305936,27
+436,443,"Fuentespina, 33",24,-3.60724755,40.37941487,182,18,448453.4001,4470046.9095,436,"Fuentespina, 33",443,fuentespina 33,443,-3.60724755,40.37941487,24
+437,444,"Valderrebollo, 18",23,-3.6276352,40.3743481,183,18,446718.7791,4469496.5881,437,"Valderrebollo, 18",444,valderrebollo 18,444,-3.6276352,40.3743481,23
+438,445,C. Deportivo Mpal. Juan de Dios Román,27,-3.60503564,40.36334587,183,18,448628.9601,4468261.9898,438,C. Deportivo Mpal. Juan de Dios Román,445,c deportivo mpal juan de dios roman,445,-3.60503564,40.36334587,27
+439,446,C. Deportivo Mpal. Miguel Guillén Prim,23,-3.6236297,40.373826,181,18,447058.4076,4469436.2305,439,C. Deportivo Mpal. Miguel Guillén Prim,446,c deportivo mpal miguel guillen prim,446,-3.6236297,40.373826,23
+440,447,Adolfo Bioy Casares - Las Suertes,27,-3.5981935,40.3668504,183,18,449212.5314,4468647.0357,440,Adolfo Bioy Casares - Las Suertes,447,adolfo bioy casares las suertes,447,-3.5981935,40.3668504,27
+441,448,Metro Las Suertes,27,-3.599352,40.363376,183,18,449111.5597,4468262.0492,441,Metro Las Suertes,448,metro las suertes,448,-3.599352,40.363376,27
+442,449,Metro Congosto,24,-3.61869106,40.37286701,181,18,447476.9201,4469326.8397,442,Metro Congosto,449,metro congosto,449,-3.61869106,40.37286701,24
+443,450,"Camino de las Hormigueras, 161",24,-3.6370762,40.3762555,181,18,445918.8332,4469714.037,443,"Camino de las Hormigueras, 161",450,camino de las hormigueras 161,450,-3.6370762,40.3762555,24
+444,451," La Granja de San Ildefonso, 14",27,-3.62283116,40.36813427,183,18,447121.7497,4468803.9798,444,"La Granja de San Ildefonso, 14",451,la granja de san ildefonso 14,451,-3.62283116,40.36813427,27
+445,452,"Las Suertes, 15",23,-3.6078539,40.3713613,183,18,448395.7857,4469153.3292,445,"Las Suertes, 15",452,las suertes 15,452,-3.6078539,40.3713613,23
+446,453,Metro La Gavia,27,-3.61253028,40.37043968,183,18,447998.07,4469053.7697,446,Metro La Gavia,453,metro la gavia,453,-3.61253028,40.37043968,27
+447,454,Gran Vía del Sureste - Las Suertes,27,-3.5897045,40.3631604,183,18,449930.5333,4468232.6131,447,Gran Vía del Sureste - Las Suertes,454,gran via del sureste las suertes,454,-3.5897045,40.3631604,27
+448,455,"Luis de Hoyos Sainz,  198",23,-3.62927465,40.400094,141,14,446599.9397,4472355.3399,448,"Luis de Hoyos Sainz,  198",455,luis de hoyos sainz 198,455,-3.62927465,40.400094,23
+449,456,"Encomienda de Palacios, 8",23,-3.6464,40.4005,145,14,445147.0072,4472410.8914,449,"Encomienda de Palacios, 8",456,encomienda de palacios 8,456,-3.6464,40.4005,23
+450,457,"Hacienda de Pavones, 148",23,-3.6419,40.4026,145,14,445530.5689,4472641.2068,450,"Hacienda de Pavones, 148",457,hacienda de pavones 148,457,-3.6419,40.4026,23
+451,458,Metro Vinateros,24,-3.65256604,40.40991083,143,14,444631.4704,4473459.3302,451,Metro Vinateros,458,metro vinateros,458,-3.65256604,40.40991083,24
+452,459,Moratalaz,24,-3.66000272,40.40750626,144,14,443998.4898,4473197.1102,452,Moratalaz,459,moratalaz,459,-3.66000272,40.40750626,24
+453,460,Fuente Carrantona - Doctor García Tapia,27,-3.63192261,40.4070216,143,14,446380.7304,4473125.9,453,Fuente Carrantona - Doctor García Tapia,460,fuente carrantona doctor garcia tapia,460,-3.63192261,40.4070216,27
+454,461,Plaza Corregidor Ldo. Antonio de Mena,24,-3.6408,40.4099,143,14,445629.7863,4473450.8234,454,Plaza Corregidor Ldo. Antonio de Mena,461,plaza corregidor ldo antonio de mena,461,-3.6408,40.4099,24
+455,462,Gallegos - Lavadero Viejo,27,-3.6102747,40.40240379,191,19,448214.0499,4472600.4199,455,Gallegos - Lavadero Viejo,462,gallegos lavadero viejo,462,-3.6102747,40.40240379,27
+456,463,"Casalarreina, 18",24,-3.61231879805,40.4093908986,191,19,448045.9659,4473377.1819,456,"Casalarreina, 18",463,casalarreina 18,463,-3.61231879805,40.4093908986,24
+457,464,Univ. Rey Juan Carlos - Campus Madrid,24,-3.61283416,40.40634029,191,19,447999.8904,4473038.8702,457,Univ. Rey Juan Carlos - Campus Madrid,464,univ rey juan carlos campus madrid,464,-3.61283416,40.40634029,24
+458,465,Cordel de Pavones - Bulevar José Prat,24,-3.619645,40.397375,192,19,447414.9986,4472047.7612,458,Cordel de Pavones - Bulevar José Prat,465,cordel de pavones bulevar jose prat,465,-3.619645,40.397375,24
+459,466,Villablanca - Vereda del Pinar,23,-3.60783265,40.40894698,191,19,448426.2701,4473325.2799,459,Villablanca - Vereda del Pinar,466,villablanca vereda del pinar,466,-3.60783265,40.40894698,23
+460,467,Univ. Rey Juan Carlos - Facultad  CJS,24,-3.6084888,40.4062361,191,19,448368.5248,4473024.7578,460,Univ. Rey Juan Carlos - Facultad  CJS,467,univ rey juan carlos facultad cjs,467,-3.6084888,40.4062361,24
+461,468,Caños de San Pedro - San Cipriano,23,-3.601922,40.403472,191,19,448923.6448,4472714.1302,461,Caños de San Pedro - San Cipriano,468,canos de san pedro san cipriano,468,-3.601922,40.403472,23
+462,469,C. Deportivo Mpal Faustina Valladolid,24,-3.62299,40.40343,192,19,447135.8663,4472721.8551,462,C. Deportivo Mpal Faustina Valladolid,469,c deportivo mpal faustina valladolid,469,-3.62299,40.40343,24
+463,470,Avenida Real - Galeote,18,-3.6063672,40.4021519,191,19,448545.438,4472570.1785,463,Avenida Real - Galeote,470,avenida real galeote,470,-3.6063672,40.4021519,18
+464,471,Molino Viejo - Minerva,18,-3.60666,40.396301,193,19,448516.1348,4471920.9055,464,Molino Viejo - Minerva,471,molino viejo minerva,471,-3.60666,40.396301,18
+465,472,Metro Valdebernardo,27,-3.6211485,40.3987974,192,19,447288.5155,4472206.5415,465,Metro Valdebernardo,472,metro valdebernardo,472,-3.6211485,40.3987974,27
+466,473,Villablanca - Parque Forestal Vicálvaro,27,-3.59888007,40.40500033,191,19,449182.92,4472882.02,466,Villablanca - Parque Forestal Vicálvaro,473,villablanca parque forestal vicalvaro,473,-3.59888007,40.40500033,27
+467,474,Estación de tren de Vicálvaro,27,-3.596875,40.402255,193,19,449351.0006,4472576.1404,467,Estación de tren de Vicálvaro,474,estacion de tren de vicalvaro,474,-3.596875,40.402255,27
+468,475,Aurora Boreal - Minerva,23,-3.603668,40.399236,193,19,448772.2754,4472244.9491,468,Aurora Boreal - Minerva,475,aurora boreal minerva,475,-3.603668,40.399236,23
+469,476,Metro Avenida de la Paz,23,-3.662016,40.453493,157,15,443865.9122,4478302.9018,469,Metro Avenida de la Paz,476,metro avenida de la paz,476,-3.662016,40.453493,23
+470,477,Metro Ciudad Lineal,23,-3.638904,40.438278,153,15,445813.4354,4476599.6022,470,Metro Ciudad Lineal,477,metro ciudad lineal,477,-3.638904,40.438278,23
+471,478,José del Hierro - Misterios,23,-3.6410572,40.44152084,154,15,445633.43,4476960.8799,471,José del Hierro - Misterios,478,jose del hierro misterios,478,-3.6410572,40.44152084,23
+472,479,Metro Arturo Soria,27,-3.65583713128,40.454783623,156,15,444390.9026,4478442.2514,472,Metro Arturo Soria,479,metro arturo soria,479,-3.65583713128,40.454783623,27
+473,480,Vicente Muzas - Arturo Soria,22,-3.66044255,40.45903315,157,15,444003.9299,4478916.8603,473,Vicente Muzas - Arturo Soria,480,vicente muzas arturo soria,480,-3.66044255,40.45903315,22
+474,481,Diego Ayllón - Arturo Soria,23,-3.65219063,40.45117857,156,15,444697.1398,4478039.8002,474,Diego Ayllón - Arturo Soria,481,diego ayllon arturo soria,481,-3.65219063,40.45117857,23
+475,482,Metro Pueblo Nuevo,23,-3.6423386,40.4356873,152,15,445520.0479,4476314.1478,475,Metro Pueblo Nuevo,482,metro pueblo nuevo,482,-3.6423386,40.4356873,23
+476,483,Marcelino Álvarez - Daroca,23,-3.6534324,40.4297428,151,15,444574.24,4475661.2113,476,Marcelino Álvarez - Daroca,483,marcelino alvarez daroca,483,-3.6534324,40.4297428,23
+477,484,Metro García Noblejas,23,-3.632389,40.42893071,152,15,446358.5601,4475558.08,477,Metro García Noblejas,484,metro garcia noblejas,484,-3.632389,40.42893071,23
+478,485,Francisco Villaespesa - Ledesma,23,-3.6464629,40.4293263,151,15,445165.0761,4475610.6307,478,Francisco Villaespesa - Ledesma,485,francisco villaespesa ledesma,485,-3.6464629,40.4293263,23
+479,486,Serrano Galvache - Arturo Soria,23,-3.6679379,40.471382,159,15,443378.798,4480292.368,479,Serrano Galvache - Arturo Soria,486,serrano galvache arturo soria,486,-3.6679379,40.471382,23
+480,487,Manuel Uribe - Arturo Soria,23,-3.66503419,40.46434131,158,15,443619.0601,4479508.9899,480,Manuel Uribe - Arturo Soria,487,manuel uribe arturo soria,487,-3.66503419,40.46434131,23
+481,488,"Ricardo Ortiz, 33",24,-3.65796439,40.42657032,151,15,444187.2001,4475311.9203,481,"Ricardo Ortiz, 33",488,ricardo ortiz 33,488,-3.65796439,40.42657032,24
+482,489,Serrano Galvache - Yerma,24,-3.67144504,40.47675257,159,15,443086.0299,4480890.7598,482,Serrano Galvache - Yerma,489,serrano galvache yerma,489,-3.67144504,40.47675257,24
+483,490,Hnos.García Noblejas-FcoLargo Caballero,24,-3.62888094,40.42427523,152,15,446652.4497,4475039.2,483,Hnos.García Noblejas-FcoLargo Caballero,490,hnos garcia noblejas fcolargo caballero,490,-3.62888094,40.42427523,24
+484,491,Esteban Collantes - José Arcones Gil,24,-3.637663,40.432883,152,15,445914.3646,4475999.9983,484,Esteban Collantes - José Arcones Gil,491,esteban collantes jose arcones gil,491,-3.637663,40.432883,24
+485,492,Metro La Almudena,24,-3.63949891,40.42466356,152,15,445752.0404,4475088.7695,485,Metro La Almudena,492,metro la almudena,492,-3.63949891,40.42466356,24
+486,493,Arturo Soria - San Luis,23,-3.6684167,40.47636724,159,15,443342.4003,4480846.0395,486,Arturo Soria - San Luis,493,arturo soria san luis,493,-3.6684167,40.47636724,23
+487,494,Metro Pinar de Chamartín,23,-3.666529,40.480694,159,15,443506.0373,4481325.1025,487,Metro Pinar de Chamartín,494,metro pinar de chamartin,494,-3.666529,40.480694,23
+488,495,Caleruega,24,-3.670476,40.478611,159,15,443169.7367,4481096.4223,488,Caleruega,495,caleruega,495,-3.670476,40.478611,24
+489,496,Cronos,27,-3.6194333,40.4384695,201,20,447464.9391,4476609.0962,489,Cronos,496,cronos,496,-3.6194333,40.4384695,27
+490,497,Metro Suances,23,-3.6274,40.4407,201,20,446791.0257,4476861.4499,490,Metro Suances,497,metro suances,497,-3.6274,40.4407,23
+491,498,Metro Torre Arias,27,-3.6178317,40.4431335,201,20,447604.3953,4477125.8476,491,Metro Torre Arias,498,metro torre arias,498,-3.6178317,40.4431335,27
+492,499,Biblioteca Pública Municipal Canillejas,23,-3.6121996,40.4466561,207,20,448084.7424,4477513.5295,492,Biblioteca Pública Municipal Canillejas,499,biblioteca publica municipal canillejas,499,-3.6121996,40.4466561,23
+493,500,"Aracne, 17",27,-3.5895,40.445,206,20,450008.4797,4477316.6065,493,"Aracne, 17",500,aracne 17,500,-3.5895,40.445,27
+494,501,Metro Alsacia,23,-3.6242,40.4191,204,20,447045.4752,4474461.9368,494,Metro Alsacia,501,metro alsacia,501,-3.6242,40.4191,23
+495,502,Puertollano - Veinticinco de Septiembre,23,-3.6237372,40.4425157,208,20,447103.0882,4477060.7921,495,Puertollano - Veinticinco de Septiembre,502,puertollano veinticinco de septiembre,502,-3.6237372,40.4425157,23
+496,503,Zaldívar - Valdecanillas,24,-3.62650373,40.43209033,201,20,446860.2596,4475905.2397,496,Zaldívar - Valdecanillas,503,zaldivar valdecanillas,503,-3.62650373,40.43209033,24
+497,504,Biblioteca Pública Municipal San Blas,24,-3.62346693555,40.4230992857,204,20,447110.7979,4474905.416,497,Biblioteca Pública Municipal San Blas,504,biblioteca publica municipal san blas,504,-3.62346693555,40.4230992857,24
+498,505,"Castillo de Uclés, 37",24,-3.62306578,40.4315255,201,20,447151.4245,4475840.4815,498,"Castillo de Uclés, 37",505,castillo de ucles 37,505,-3.62306578,40.4315255,24
+499,506,Albarracín - Julián Camarillo,24,-3.63251641,40.43397327,201,20,446351.7602,4476117.8796,499,Albarracín - Julián Camarillo,506,albarracin julian camarillo,506,-3.63251641,40.43397327,24
+500,507,Seis - Sexta,24,-3.59650295,40.44845033,206,20,449417.1901,4477703.5798,500,Seis - Sexta,507,seis sexta,507,-3.59650295,40.44845033,24
+501,508,Metro Canillejas,24,-3.609553,40.449095,207,20,448311.0471,4477782.6946,501,Metro Canillejas,508,metro canillejas,508,-3.609553,40.449095,24
+502,509,Amposta - Arcos de Jalón,23,-3.61865045,40.42218951,204,20,447518.6798,4474801.5595,502,Amposta - Arcos de Jalón,509,amposta arcos de jalon,509,-3.61865045,40.42218951,23
+503,510,Metro Avenida de Guadalajara,24,-3.61346199,40.42218968,204,20,447958.8298,4474798.5096,503,Metro Avenida de Guadalajara,510,metro avenida de guadalajara,510,-3.61346199,40.42218968,24
+504,511,Aquitania 31,27,-3.61726728,40.41912347,204,20,447633.6401,4474460.4104,504,Aquitania 31,511,aquitania 31,511,-3.61726728,40.41912347,27
+505,512,Semilla - Aparejadores,24,-3.61537023,40.42667885,204,20,447800.4196,4475297.9305,505,Semilla - Aparejadores,512,semilla aparejadores,512,-3.61537023,40.42667885,24
+506,513,Centro Deportivo Mpal. Pepu Hernández,27,-3.60645414,40.4271211,205,20,448557.0801,4475341.7903,506,Centro Deportivo Mpal. Pepu Hernández,513,centro deportivo mpal pepu hernandez,513,-3.60645414,40.4271211,27
+507,515,"Avenida de Hellin, 13",24,-3.61579967,40.43091667,202,20,447767.2703,4475768.5802,507,"Avenida de Hellin, 13",515,avenida de hellin 13,515,-3.61579967,40.43091667,24
+508,516,Juan Ignacio Luca Tena - Quinta Molinos,27,-3.63110255,40.44796778,208,20,446482.7798,4477670.4095,508,Juan Ignacio Luca Tena - Quinta Molinos,516,juan ignacio luca tena quinta molinos,516,-3.63110255,40.44796778,27
+509,517,San Mariano - Circe,27,-3.61190481,40.44175279,207,20,448105.9702,4476969.09,509,San Mariano - Circe,517,san mariano circe,517,-3.61190481,40.44175279,27
+510,518,Tampico - Plaza Barbados,23,-3.635345,40.444569,208,20,446120.3055,4477295.7248,510,Tampico - Plaza Barbados,518,tampico plaza barbados,518,-3.635345,40.444569,23
+511,519,"Troya, 11",24,-3.61191521,40.43699597,207,20,448101.4303,4476441.0905,511,"Troya, 11",519,troya 11,519,-3.61191521,40.43699597,24
+512,520,Niza - Plaza de Grecia,23,-3.60811578,40.4342806,205,20,448421.5997,4476137.4602,512,Niza - Plaza de Grecia,520,niza plaza de grecia,520,-3.60811578,40.4342806,23
+513,521,Metro Las Rosas,24,-3.6048181,40.423893,205,20,448693.4064,4474982.5218,513,Metro Las Rosas,521,metro las rosas,521,-3.6048181,40.423893,24
+514,522,Metro Estadio Metropolitano,24,-3.60097542,40.43333298,205,20,449026.5098,4476028.1301,514,Metro Estadio Metropolitano,522,metro estadio metropolitano,522,-3.60097542,40.43333298,24
+515,523,Carretera de Canillas,23,-3.65089253,40.4628701,163,16,444816.7803,4479336.7497,515,Carretera de Canillas,523,carretera de canillas,523,-3.65089253,40.4628701,23
+516,524,Glorieta Luis Rosales,23,-3.6543,40.4673,164,16,444531.5346,4479830.6055,516,Glorieta Luis Rosales,524,glorieta luis rosales,524,-3.6543,40.4673,23
+517,525,Metro Manoteras,24,-3.66269029,40.47675499,165,16,443828.1197,4480885.4197,517,Metro Manoteras,525,metro manoteras,525,-3.66269029,40.47675499,24
+518,526,Plaza del Liceo,24,-3.64441924,40.45754368,163,16,445361.2797,4478741.49,518,Plaza del Liceo,526,plaza del liceo,526,-3.64441924,40.45754368,24
+519,527,Velacho Alto - Trinquete,24,-3.65926884,40.47250314,165,16,444114.6103,4480411.2903,519,Velacho Alto - Trinquete,527,velacho alto trinquete,527,-3.65926884,40.47250314,24
+520,528,Albelda - Torrelaguna,24,-3.6573666,40.4494225,156,15,444256.7865,4477848.1307,520,Albelda - Torrelaguna,528,albelda torrelaguna,528,-3.6573666,40.4494225,24
+521,529,"Lopez de Hoyos , 478",23,-3.649843,40.47175,164,16,444913.0169,4480321.7662,521,"Lopez de Hoyos , 478",529,lopez de hoyos 478,529,-3.649843,40.47175,23
+522,530,Metro Mar de Cristal,27,-3.63788349,40.4685745,163,16,445924.2803,4479961.8895,522,Metro Mar de Cristal,530,metro mar de cristal,530,-3.63788349,40.4685745,27
+523,531,Metro Parque de Santa María,18,-3.6450741,40.4768782,164,16,445321.4379,4480888.0335,523,Metro Parque de Santa María,531,metro parque de santa maria,531,-3.6450741,40.4768782,18
+524,532,Metro San Lorenzo,24,-3.6395164,40.47490194,164,16,445790.9402,4480665.2394,524,Metro San Lorenzo,532,metro san lorenzo,532,-3.6395164,40.47490194,24
+525,533,"San Luis, 23",23,-3.65511455,40.47148748,164,16,444465.9299,4480295.9296,525,"San Luis, 23",533,san luis 23,533,-3.65511455,40.47148748,23
+526,534,"Mesena, 102",24,-3.66340634,40.46772408,165,16,443759.8903,4479883.4403,526,"Mesena, 102",534,mesena 102,534,-3.66340634,40.46772408,24
+527,535,Metro Canillas,27,-3.634999,40.463575,163,16,446164.819,4479405.1806,527,Metro Canillas,535,metro canillas,535,-3.634999,40.463575,27
+528,536,Boj,23,-3.6180818,40.4560204,161,16,447593.197,4478556.4407,528,Boj,536,boj,536,-3.6180818,40.4560204,23
+529,537,Plaza López de la Plata,27,-3.62579439,40.45841466,162,16,446941.1303,4478826.8099,529,Plaza López de la Plata,537,plaza lopez de la plata,537,-3.62579439,40.45841466,27
+530,538,"Haendel, 8",27,-3.62532131,40.46275082,163,16,446984.6503,4479307.8401,530,"Haendel, 8",538,haendel 8,538,-3.62532131,40.46275082,27
+531,539,Mota del Cuervo,24,-3.63135715,40.4648762,163,16,446474.6098,4479547.3997,531,Mota del Cuervo,539,mota del cuervo,539,-3.63135715,40.4648762,24
+532,540,Estación de tren Fuente de la Mora,24,-3.6636484,40.4845596,166,16,443753.421,4481752.3468,532,Estación de tren Fuente de la Mora,540,estacion de tren fuente de la mora,540,-3.6636484,40.4845596,24
+533,541,Metro Pinar del Rey,23,-3.6468591,40.4682706,163,16,445163.1327,4479933.6935,533,Metro Pinar del Rey,541,metro pinar del rey,541,-3.6468591,40.4682706,23
+534,542,Intercambiador de Valdebebas,23,-3.615709,40.483962,214,21,447816.0199,4481656.5606,534,Intercambiador de Valdebebas,542,intercambiador de valdebebas,542,-3.615709,40.483962,23
+535,543,Tomas Redondo,23,-3.62913802,40.47178414,166,16,446668.2099,4480312.84,535,Tomas Redondo,543,tomas redondo,543,-3.62913802,40.47178414,23
+536,544,Gregorio Sánchez Herráez 14,23,-3.63657,40.477248,166,16,446042.5737,4480923.8478,536,Gregorio Sánchez Herráez 14,544,gregorio sanchez herraez 14,544,-3.63657,40.477248,23
+537,545,"Zapatoca, 8",23,-3.63335803,40.47285235,164,16,446311.3297,4480433.97,537,"Zapatoca, 8",545,zapatoca 8,545,-3.63335803,40.47285235,23
+538,546,Andorra - Canillas,23,-3.6467519,40.4628976,163,16,445167.8512,4479337.2223,538,Andorra - Canillas,546,andorra canillas,546,-3.6467519,40.4628976,23
+539,547,Rafaela Aparicio - Maruja Mallo,27,-3.6312179,40.4792396,166,16,446497.8165,4481141.6581,539,Rafaela Aparicio - Maruja Mallo,547,rafaela aparicio maruja mallo,547,-3.6312179,40.4792396,27
+540,548,Eduardo Mazón - Guadalajara,23,-3.6154157,40.4521484,161,16,447816.2601,4478125.0698,540,Eduardo Mazón - Guadalajara,548,eduardo mazon guadalajara,548,-3.6154157,40.4521484,23
+541,549,Francisco Pi y Maragall,19,-3.6503544,40.4866354,166,16,444881.841,4481974.3735,541,Francisco Pi y Maragall,549,francisco pi y maragall,549,-3.6503544,40.4866354,19
+542,550,"Príncipe Carlos, 54",23,-3.656674,40.4941108,166,16,444352.4206,4482808.1155,542,"Príncipe Carlos, 54",550,principe carlos 54,550,-3.656674,40.4941108,23
+543,551,Oña,23,-3.6658565,40.4891872,166,16,443570.1513,4482267.4237,543,Oña,551,ona,551,-3.6658565,40.4891872,23
+544,552,Ana de Austria - Ignacio Aldecoa,27,-3.6531502,40.4994394,166,16,444655.4138,4483397.3784,544,Ana de Austria - Ignacio Aldecoa,552,ana de austria ignacio aldecoa,552,-3.6531502,40.4994394,27
+545,553,María Portugal - Niceto Alcalá Zamora,23,-3.658921,40.499909,166,16,444166.8119,4483453.1408,545,María Portugal - Niceto Alcalá Zamora,553,maria portugal niceto alcala zamora,553,-3.658921,40.499909,23
+546,554,Metro El Capricho,27,-3.5941,40.453,211,21,449624.3563,4478207.2189,546,Metro El Capricho,554,metro el capricho,554,-3.5941,40.453,27
+547,555,Parque del Capricho,27,-3.59812171,40.45476837,211,21,449284.6702,4478405.8099,547,Parque del Capricho,555,parque del capricho,555,-3.59812171,40.45476837,27
+548,556,"Cantabria, 6",24,-3.58772201,40.45462514,211,21,450166.3702,4478383.9903,548,"Cantabria, 6",556,cantabria 6,556,-3.58772201,40.45462514,24
+549,557,Metro Alameda de Osuna,24,-3.58815143,40.45746674,211,21,450132.06,4478699.6501,549,Metro Alameda de Osuna,557,metro alameda de osuna,557,-3.58815143,40.45746674,24
+550,558,Biblioteca Pública Mpal. Gloria Fuertes,23,-3.593712,40.461137,215,21,449663.3295,4479110.2044,550,Biblioteca Pública Mpal. Gloria Fuertes,558,biblioteca publica mpal gloria fuertes,558,-3.593712,40.461137,23
+551,559,"Calle Babilonia, 19",23,-3.5882347,40.4675299,215,21,450132.4421,4479816.7084,551,"Calle Babilonia, 19",559,calle babilonia 19,559,-3.5882347,40.4675299,23
+552,560,Playa de Zarauz - Playa de la Caleta,23,-3.5906847,40.4731404,214,21,449928.9096,4480440.862,552,Playa de Zarauz - Playa de la Caleta,560,playa de zarauz playa de la caleta,560,-3.5906847,40.4731404,23
+553,561,Plaza Nuestra Señora de Loreto,23,-3.585751,40.472048,214,21,450346.3266,4480316.8183,553,Plaza Nuestra Señora de Loreto,561,plaza nuestra senora de loreto,561,-3.585751,40.472048,23
+554,562,Tomillar - Tintín y Milú,27,-3.58405573,40.46267435,211,21,450483.1503,4479275.3896,554,Tomillar - Tintín y Milú,562,tomillar tintin y milu,562,-3.58405573,40.46267435,27
+555,563,Soto Hidalgo,27,-3.5820745,40.4606465,211,21,450649.6379,4479049.1889,555,Soto Hidalgo,563,soto hidalgo,563,-3.5820745,40.4606465,27
+556,564,IFEMA B,23,-3.613867,40.463861,215,21,447956.6207,4479424.2549,556,IFEMA B,564,ifema b,564,-3.613867,40.463861,23
+557,565,Metro Barajas,24,-3.5838869,40.47563573,214,21,450506.9802,4480714.0103,557,Metro Barajas,565,metro barajas,565,-3.5838869,40.47563573,24
+558,566,Avenida de Logroño,24,-3.5815033,40.4703472,214,21,450705.1592,4480125.6483,558,Avenida de Logroño,566,avenida de logrono,566,-3.5815033,40.4703472,24
+559,567,Plaza Mayor de Barajas,24,-3.5776537,40.4733252,213,21,451033.6602,4480454.0643,559,Plaza Mayor de Barajas,567,plaza mayor de barajas,567,-3.5776537,40.4733252,24
+560,568,IFEMA A,27,-3.6178336,40.4632802,215,21,447619.8808,4479362.1319,560,IFEMA A,568,ifema a,568,-3.6178336,40.4632802,27
+561,569,C. Deportivo Mpal. Vicente del Bosque,23,-3.6965,40.4795,85,8,440964.6764,4481212.1846,561,C. Deportivo Mpal. Vicente del Bosque,569,c deportivo mpal vicente del bosque,569,-3.6965,40.4795,23
+562,570,Uni. Autónoma Madrid - Facul. Medicina,27,-3.6938,40.4815,85,8,441195.2754,4481432.3836,562,Uni. Autónoma Madrid - Facul. Medicina,570,uni autonoma madrid facul medicina,570,-3.6938,40.4815,27
+563,571,Melchor Fernández Almagro - Plaza Tuy,23,-3.7103262,40.4756475,84,8,439789.3169,4480793.8947,563,Melchor Fernández Almagro - Plaza Tuy,571,melchor fernandez almagro plaza tuy,571,-3.7103262,40.4756475,23
+564,572,Junta Mpal. Dtto. Fuencarral - El Pardo,24,-3.70997335,40.47810429,84,8,439821.4201,4481066.3596,564,Junta Mpal. Dtto. Fuencarral - El Pardo,572,junta mpal dtto fuencarral el pardo,572,-3.70997335,40.47810429,24
+565,573,Melchor Fernández Almagro - Villa Marín,24,-3.69962571,40.47772776,85,8,440698.1798,4481017.5602,565,Melchor Fernández Almagro - Villa Marín,573,melchor fernandez almagro villa marin,573,-3.69962571,40.47772776,24
+566,574,Chantada,24,-3.710678,40.472695,84,8,439756.8576,4480466.4052,566,Chantada,574,chantada,574,-3.710678,40.472695,24
+567,575,Metro Barrio del Pilar,24,-3.703526,40.47817,85,8,440367.9712,4481069.2772,567,Metro Barrio del Pilar,575,metro barrio del pilar,575,-3.703526,40.47817,24
+568,576,"El Ferrol, 18",24,-3.70510525,40.47431313,84,8,440230.6901,4480642.2301,568,"El Ferrol, 18",576,el ferrol 18,576,-3.70510525,40.47431313,24
+569,577,Monforte de Lemos - Plaza de Mondariz,24,-3.70566914,40.47899993,84,8,440187.0503,4481162.8503,569,Monforte de Lemos - Plaza de Mondariz,577,monforte de lemos plaza de mondariz,577,-3.70566914,40.47899993,24
+570,578,Sierra de Atapuerca - Viloria de Rioja,23,-3.67042488,40.50292982,86,8,443194.5804,4483795.7995,570,Sierra de Atapuerca - Viloria de Rioja,578,sierra de atapuerca viloria de rioja,578,-3.67042488,40.50292982,23
+571,579,Maria Tubau - Isabel Colbrand,24,-3.67170358703,40.5139923068,86,8,443095.5855,4485024.5731,571,Maria Tubau - Isabel Colbrand,579,maria tubau isabel colbrand,579,-3.67170358703,40.5139923068,24
+572,580,Metro Herrera Oria,23,-3.706904,40.48337,84,8,440086.2675,4481648.7693,572,Metro Herrera Oria,580,metro herrera oria,580,-3.706904,40.48337,23
+573,581,Metro Peñagrande,24,-3.7163093,40.4764797,83,8,439282.9059,4480890.3683,573,Metro Peñagrande,581,metro penagrande,581,-3.7163093,40.4764797,24
+574,582,Isla Graciosa - Isla de Java,24,-3.6862657,40.49262243,86,8,441843.4701,4482661.9897,574,Isla Graciosa - Isla de Java,582,isla graciosa isla de java,582,-3.6862657,40.49262243,24
+575,583,Ángel Múgica - Marcos de Orueta,24,-3.68529048,40.48468297,86,8,441919.2698,4481780.0603,575,Ángel Múgica - Marcos de Orueta,583,angel mugica marcos de orueta,583,-3.68529048,40.48468297,24
+576,584,Metro Montecarmelo,24,-3.69603345,40.50501029,88,8,441026.5596,4484043.5401,576,Metro Montecarmelo,584,metro montecarmelo,584,-3.69603345,40.50501029,24
+577,585,Metro Fuencarral,24,-3.69374813,40.4954662,86,8,441211.8602,4482982.6099,577,Metro Fuencarral,585,metro fuencarral,585,-3.69374813,40.4954662,24
+578,586,Caldas Estrach - San Cugat del Vallés,23,-3.6974725,40.4963916,86,8,440897.0671,4483087.8187,578,Caldas Estrach - San Cugat del Vallés,586,caldas estrach san cugat del valles,586,-3.6974725,40.4963916,23
+579,587,Metro Paco de Lucía,27,-3.70865744,40.49892399,87,8,439951.5199,4483376.47,579,Metro Paco de Lucía,587,metro paco de lucia,587,-3.70865744,40.49892399,27
+580,588,Campo Calatrava - Rda Ingenioso Hidalgo,27,-3.69112254,40.50052161,86,8,441438.7502,4483542.0197,580,Campo Calatrava - Rda Ingenioso Hidalgo,588,campo calatrava rda ingenioso hidalgo,588,-3.69112254,40.50052161,27
+581,589,Monast. Silos - Monast. Montesclaros,24,-3.70290315,40.50340494,88,8,440443.0799,4483869.9598,581,Monast. Silos - Monast. Montesclaros,589,monast silos monast montesclaros,589,-3.70290315,40.50340494,24
+582,590,Metro Arroyofresno,27,-3.72757227,40.49093014,87,8,438341.4303,4482502.19,582,Metro Arroyofresno,590,metro arroyofresno,590,-3.72757227,40.49093014,27
+583,591,Metro Mirasierra,19,-3.71622921,40.49108225,87,8,439302.8502,4482511.2095,583,Metro Mirasierra,591,metro mirasierra,591,-3.71622921,40.49108225,19
+584,592,Estación de tren de Pitis,27,-3.7249527,40.4956969,87,8,438567.7769,4483029.4784,584,Estación de tren de Pitis,592,estacion de tren de pitis,592,-3.7249527,40.4956969,27
+585,593,Metro Avenida de la Ilustración,24,-3.71869067,40.48027409,83,8,439084.48,4481313.1896,585,Metro Avenida de la Ilustración,593,metro avenida de la ilustracion,593,-3.71869067,40.48027409,24
+586,594,"Pedro Rico, 49",24,-3.703918,40.48194,85,8,440338.0822,4481488.0151,586,"Pedro Rico, 49",594,pedro rico 49,594,-3.703918,40.48194,24
+587,595,Betanzos - Fermín Caballero,24,-3.7132206,40.48178815,84,8,439549.4798,4481477.4903,587,Betanzos - Fermín Caballero,595,betanzos fermin caballero,595,-3.7132206,40.48178815,24
+588,596,Metro Lacoma,24,-3.7230043,40.4854829,83,8,438723.5948,4481894.3587,588,Metro Lacoma,596,metro lacoma,596,-3.7230043,40.4854829,24
+589,597,"Foresta, 8",23,-3.66777681,40.49853277,86,8,443415.2596,4483306.0204,589,"Foresta, 8",597,foresta 8,597,-3.66777681,40.49853277,23
+590,598,Hospital Ramón y Cajal,24,-3.6923396,40.4858012,86,8,441322.8018,4481908.8482,590,Hospital Ramón y Cajal,598,hospital ramon y cajal,598,-3.6923396,40.4858012,24
+591,599,Instalación Deportiva La Cabrera,27,-3.71920443,40.47223267,83,8,439033.6603,4480420.9405,591,Instalación Deportiva La Cabrera,599,instalacion deportiva la cabrera,599,-3.71920443,40.47223267,27
+592,600,Centro Deportivo Municipal La Masó,24,-3.7149566,40.4825507,83,8,439403.026,4481563.3246,592,Centro Deportivo Municipal La Masó,600,centro deportivo municipal la maso,600,-3.7149566,40.4825507,24
+593,601,Estación de tren de Fuencarral,24,-3.6824687,40.5015588,86,8,442172.9168,4483651.4402,593,Estación de tren de Fuencarral,601,estacion de tren de fuencarral,601,-3.6824687,40.5015588,24
+594,602,Monasterio Sobrado - Monasterio Silos,24,-3.692837,40.5093225,88,8,441301.15,4484520.0687,594,Monasterio Sobrado - Monasterio Silos,602,monasterio sobrado monasterio silos,602,-3.692837,40.5093225,24
+595,603,"Castiello de Jaca, 14",23,-3.6782027,40.5091982,86,8,442540.9069,4484496.6348,595,"Castiello de Jaca, 14",603,castiello de jaca 14,603,-3.6782027,40.5091982,23
+596,604,Metro Las Tablas,23,-3.66955215,40.50910428,86,8,443273.7302,4484480.61,596,Metro Las Tablas,604,metro las tablas,604,-3.66955215,40.50910428,23
+597,605,Nuria - Peña Sirio,24,-3.704883,40.491644,87,8,440264.8955,4482565.8209,597,Nuria - Peña Sirio,605,nuria pena sirio,605,-3.704883,40.491644,24
+598,606,Fermín Caballero - Sangenjo,23,-3.698485,40.487363,85,8,440803.3348,4482086.3139,598,Fermín Caballero - Sangenjo,606,fermin caballero sangenjo,606,-3.698485,40.487363,23
+599,607,Metro Ligero - Palas de Rey,27,-3.6641571,40.5051915,86,8,443727.5463,4484042.8311,599,Metro Ligero - Palas de Rey,607,metro ligero palas de rey,607,-3.6641571,40.5051915,27
+600,608,Estella - Camino de Santiago,23,-3.6743568,40.4968198,86,8,442856.2401,4483120.1202,600,Estella - Camino de Santiago,608,estella camino de santiago,608,-3.6743568,40.4968198,23
+601,609,Metro Ronda de la Comunicación,23,-3.6626887,40.5157202,86,8,443860.7423,4485210.5939,601,Metro Ronda de la Comunicación,609,metro ronda de la comunicacion,609,-3.6626887,40.5157202,23
+602,610,Bardegueral,23,-3.7719097,40.4501721,97,9,434544.4285,4478009.9396,602,Bardegueral,610,bardegueral,610,-3.7719097,40.4501721,23
+603,611,María de las Mercedes de Borbón A,23,-3.61210685312,40.490908298,166,16,448126.6677,4482425.48,603,María de las Mercedes de Borbón A,611,maria de las mercedes de borbon a,611,-3.61210685312,40.490908298,23
+604,612,Calle Rosalia de Castro 1,23,-3.734639,40.480258,83,8,437732.6886,4481322.534,604,Calle Rosalia de Castro 1,612,calle rosalia de castro 1,612,-3.734639,40.480258,23
+605,613,Facultad de informática,23,-3.734813,40.453109,93,9,437692.8558,4478309.1,605,Facultad de informática,613,facultad de informatica,613,-3.734813,40.453109,23
+606,614,Biblioteca central de la UNED,23,-3.7344823,40.4356759,93,9,437704.8044,4476373.7886,606,Biblioteca central de la UNED,614,biblioteca central de la uned,614,-3.7344823,40.4356759,23
+607,615,Avenida Juan de Andrés 21,23,-3.722789,40.468732,94,9,438726.615,4480034.8458,607,Avenida Juan de Andrés 21,615,avenida juan de andres 21,615,-3.722789,40.468732,23
+608,616,Alcalde Martín de Alzaga,23,-3.717195,40.462899,94,9,439195.5821,4479383.5116,608,Alcalde Martín de Alzaga,616,alcalde martin de alzaga,616,-3.717195,40.462899,23
+609,617,Calle Eduardo Barreiros,23,-3.70238,40.358866,175,17,440359.8477,4467825.8054,609,Calle Eduardo Barreiros,617,calle eduardo barreiros,617,-3.70238,40.358866,23
+610,618,Calle Paterna 55,19,-3.68482,40.340613,172,17,441835.2263,4465788.0651,610,Calle Paterna 55,618,calle paterna 55,618,-3.68482,40.340613,19
+611,619,Cooperativa Electrica 13,23,-3.659633,40.374387,131,13,444002.4343,4469520.6735,611,Cooperativa Electrica 13,619,cooperativa electrica 13,619,-3.659633,40.374387,23
+612,620,Calle Cazorla 79,23,-3.665886,40.376297,131,13,443473.1969,4469736.6587,612,Calle Cazorla 79,620,calle cazorla 79,620,-3.665886,40.376297,23
+613,621,Calle Montiel 27,23,-3.672609,40.381382,131,13,442906.7725,4470305.406,613,Calle Montiel 27,621,calle montiel 27,621,-3.672609,40.381382,23
+614,622,Calle Sierra de Albarracin 2,23,-3.671961,40.386022,131,13,442965.691,4470820.0224,614,Calle Sierra de Albarracin 2,622,calle sierra de albarracin 2,622,-3.671961,40.386022,23
+615,623,"Ronda del Sur, esq Santa Rafaela",23,-3.673105,40.37773,131,13,442861.5848,4469900.3588,615,"Ronda del Sur, esq Santa Rafaela",623,ronda del sur esq santa rafaela,623,-3.673105,40.37773,23
+616,624,Avenida Blas de Lezo 33,23,-3.553002,40.407067,194,19,453077.2912,4473086.0523,616,Avenida Blas de Lezo 33,624,avenida blas de lezo 33,624,-3.553002,40.407067,23
+617,625,Avenida de Miguel Delibes 49,23,-3.560344,40.405505,194,19,452453.2136,4472916.5956,617,Avenida de Miguel Delibes 49,625,avenida de miguel delibes 49,625,-3.560344,40.405505,23
+618,626,Avenida Victoria Kent 9,23,-3.564012,40.401326,194,19,452139.012,4472454.7109,618,Avenida Victoria Kent 9,626,avenida victoria kent 9,626,-3.564012,40.401326,23
+619,627,Alcalde Andrés Madrid Dávila 92,23,-3.548534,40.398303,194,19,453450.3702,4472110.8965,619,Alcalde Andrés Madrid Dávila 92,627,alcalde andres madrid davila 92,627,-3.548534,40.398303,23
+620,628,Calle Arcaute 13,23,-3.576652,40.44358,206,20,451097.0088,4477151.7937,620,Calle Arcaute 13,628,calle arcaute 13,628,-3.576652,40.44358,23
+621,629,Avda de Fermina Sevillano 23,23,-3.568829,40.44477,206,20,451761.2928,4477279.5811,621,Avda de Fermina Sevillano 23,629,avda de fermina sevillano 23,629,-3.568829,40.44477,23
+622,630,Calle de Febrero 4,23,-3.573031,40.446868,206,20,451406.4575,4477514.762,622,Calle de Febrero 4,630,calle de febrero 4,630,-3.573031,40.446868,23
+623,80A,Estación de Atocha A,23,-3.690538,40.407573,35,3,441407.5964,4473224.3133,623,Estación de Atocha A,80A,estacion de atocha a,80a,-3.690538,40.407573,23
+624,80B,Estación de Atocha B,27,-3.6904748,40.4075211,35,3,441412.914,4473218.5106,624,Estación de Atocha B,80B,estacion de atocha b,80b,-3.6904748,40.4075211,27
+625,8000,EV Puente de Vallecas,23,-3.669224,40.397661,132,13,443207.781,4472110.1778,625,EV Puente de Vallecas,8000,ev puente de vallecas,8000,-3.669224,40.397661,23

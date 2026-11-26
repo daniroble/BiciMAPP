@@ -1,0 +1,10 @@
+﻿metric,value
+exact_matching_rows,610
+municipal_unique_exact,608
+crtm_unique_exact,608
+high_confidence_municipal_unique,599
+high_confidence_crtm_unique,599
+exact_matches_requiring_review,11
+municipal_without_exact_match,23
+spatial_candidates_without_exact_name_25m,13
+crtm_without_exact_match,17

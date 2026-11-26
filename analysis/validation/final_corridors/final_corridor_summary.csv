@@ -1,0 +1,5 @@
+﻿route,combinations,total_trips,mean_recurrence,mean_trips_per_eligible_day,strong_evidence,partial_evidence,demand_only
+Fernando el Católico -> Orense 12,3,166,55.932203389830505,0.9378531073446328,3,0,0
+Galileo -> Diego de León 52,3,177,66.10169491525424,1.0,0,0,3
+Puente Praga -> Paseo de la Esperanza,4,272,64.83050847457626,1.152542372881356,0,0,4
+Lavapiés -> Atocha A,3,184,62.14689265536723,1.03954802259887,0,0,3

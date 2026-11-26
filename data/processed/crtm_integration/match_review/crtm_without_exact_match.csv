@@ -1,0 +1,18 @@
+﻿OBJECTID,DS_STATION,DS_STATI_1,NM_TOTAL_B,DS_LONGITU,DS_LATITUD,ID_SUBURB,ID_DISTRIC,x,y,crtm_id,crtm_name,crtm_system_name,crtm_name_normalized,crtm_system_normalized,crtm_lon,crtm_lat,crtm_bikes
+6,6,Colegio Arquitectos,19,-3.698447,40.424148,14,1,440751.0508,4475069.404,6,Colegio Arquitectos,6,colegio arquitectos,6,-3.698447,40.424148,19
+7,7,Hortaleza,19,-3.6977715,40.4251906,14,1,440809.2676,4475184.6795,7,Hortaleza,7,hortaleza,7,-3.6977715,40.4251906,19
+34,37,Plaza de San Francisco,24,-3.714113,40.4108,11,1,439410.1266,4473598.404,34,Plaza de San Francisco,37,plaza de san francisco,37,-3.714113,40.4108,24
+99,106A,Plaza de Colón A,19,-3.687807,40.424924,41,4,441654.3149,4475148.4591,99,Plaza de Colón A,106A,plaza de colon a,106a,-3.687807,40.424924,19
+100,106B,Plaza de Colón B,19,-3.68789,40.424776,41,4,441647.1461,4475132.0859,100,Plaza de Colón B,106B,plaza de colon b,106b,-3.68789,40.424776,19
+105,111A,Metro Moncloa A,23,-3.7175248,40.4336027,71,7,439141.1996,4476131.8425,105,Metro Moncloa A,111A,metro moncloa a,111a,-3.7175248,40.4336027,23
+106,111B,Metro Moncloa B,23,-3.7177434,40.433913,71,7,439122.9381,4476166.4364,106,Metro Moncloa B,111B,metro moncloa b,111b,-3.7177434,40.433913,23
+111,116A,Plaza de España - Martín de los Heros,18,-3.7130447,40.4236775,92,9,439512.3027,4475027.0699,111,Plaza de España - Martín de los Heros,116A,plaza de espana martin de los heros,116a,-3.7130447,40.4236775,18
+112,116B,Metro Plaza de España,18,-3.71046,40.423684,15,1,439731.5708,4475026.0251,112,Metro Plaza de España,116B,metro plaza de espana,116b,-3.71046,40.423684,18
+255,25A,Plaza de Celenque A,24,-3.7057791,40.4173703,16,1,440123.0578,4474322.0241,255,Plaza de Celenque A,25A,plaza de celenque a,25a,-3.7057791,40.4173703,24
+256,25B,Plaza de Celenque B,24,-3.7058976,40.4173687,16,1,440113.003,4474321.9268,256,Plaza de Celenque B,25B,plaza de celenque b,25b,-3.7058976,40.4173687,24
+364,369,Junta Municipal Distrito de Carabanchel,23,-3.7415832,40.3802446,115,11,437050.9099,4470225.9701,364,Junta Municipal Distrito de Carabanchel,369,junta municipal distrito de carabanchel,369,-3.7415832,40.3802446,23
+377,382,"arque Eugenia de Montijo, 2",24,-3.7545822,40.3783501,114,11,435945.6887,4470025.0165,377,"arque Eugenia de Montijo, 2",382,arque eugenia de montijo 2,382,-3.7545822,40.3783501,24
+386,391,Junta Municipal Distrito de Usera,23,-3.7112962209,40.3817026329,126,12,439623.1356,4470366.6914,386,Junta Municipal Distrito de Usera,391,junta municipal distrito de usera,391,-3.7112962209,40.3817026329,23
+502,509,Amposta - Arcos de Jalón,23,-3.61865045,40.42218951,204,20,447518.6798,4474801.5595,502,Amposta - Arcos de Jalón,509,amposta arcos de jalon,509,-3.61865045,40.42218951,23
+623,80A,Estación de Atocha A,23,-3.690538,40.407573,35,3,441407.5964,4473224.3133,623,Estación de Atocha A,80A,estacion de atocha a,80a,-3.690538,40.407573,23
+624,80B,Estación de Atocha B,27,-3.6904748,40.4075211,35,3,441412.914,4473218.5106,624,Estación de Atocha B,80B,estacion de atocha b,80b,-3.6904748,40.4075211,27

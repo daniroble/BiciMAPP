@@ -1,0 +1,18 @@
+﻿municipal_id,municipal_name,municipal_name_normalized,municipal_lon,municipal_lat,municipal_bases,municipal_state,crtm_id,crtm_name,crtm_system_name,crtm_lon,crtm_lat,crtm_bikes,distance_m,nearest_rank,crtm_candidates_within_25m,crtm_candidates_within_50m,crtm_candidates_within_100m,crtm_candidates_within_250m
+124,128 - Metro Islas Filipinas,metro islas filipinas,-3.715550146,40.43898707,27,IN_SERVICE,124,Metro Islas Filipinas,128,-3.7154,40.4392,27,26.871025640453713,1,0,1,1,2
+33,36 - Plaza Ramales,plaza ramales,-3.712151,40.416876,19,IN_SERVICE,33,Plaza Ramales,36,-3.71183,40.4168,24,28.458899706483543,1,0,1,1,2
+67,72 - Metro Sáinz de Baranda,metro sainz de baranda,-3.66921108,40.41591276,23,IN_SERVICE,66,Metro Sáinz de Baranda,72,-3.6696,40.4159,23,32.956207114870374,1,0,1,1,1
+630,8001 - EV JMD Carabanchel,ev jmd carabanchel,-3.7413485,40.3798462,23,IN_SERVICE,364,Junta Municipal Distrito de Carabanchel,369,-3.7415832,40.3802446,23,48.556291683227485,1,0,1,1,1
+631,633 - HUB Plaza de España,hub plaza de espana,-3.713604904,40.42342991,12,PLANNED,111,Plaza de España - Martín de los Heros,116A,-3.7130447,40.4236775,18,54.833345579189796,1,0,0,1,1
+29,32 - Plaza de la Provincia,plaza de la provincia,-3.706636289,40.41466784,23,IN_SERVICE,29,Plaza de la Provincia,32,-3.7061032,40.4150099,18,59.02158796965904,1,0,0,1,4
+490,580 - Metro Herrera Oria,metro herrera oria,-3.706089,40.483289,23,IN_SERVICE,572,Metro Herrera Oria,580,-3.706904,40.48337,23,69.51401445219798,1,0,0,1,2
+16,17 - Plaza de Carlos Cambronero,plaza de carlos cambronero,-3.705051129,40.42280287,19,IN_SERVICE,17,Plaza de Carlos Cambronero,17,-3.704166,40.423126,23,83.09612590293428,1,0,0,1,2
+34,"37 - Calatrava, 38",calatrava 38,-3.713482,40.41022,23,IN_SERVICE,34,Plaza de San Francisco,37,-3.714113,40.4108,24,83.74665871071407,1,0,0,1,3
+5,6 - Colegio de Arquitectos,colegio de arquitectos,-3.699023,40.423178,19,IN_SERVICE,6,Colegio Arquitectos,6,-3.698447,40.424148,19,118.36777508313769,1,0,0,0,3
+37,40 - Conde de Romanones,conde de romanones,-3.704953888,40.4131489,23,IN_SERVICE,31,Jacinto Benavente,34,-3.7036883,40.4145422,24,188.36962688153764,1,0,0,0,2
+627,631 -  CAMPUS SUR 2,campus sur 2,-3.624811621,40.38340792,19,IN_SERVICE,430,Metro Sierra de Guadalupe,437,-3.62376457,40.38135158,27,245.25137057801862,1,0,0,0,1
+393,514 - María Sevilla Diago,maria sevilla diago,-3.61095077,40.43283006,24,IN_SERVICE,512,Niza - Plaza de Grecia,520,-3.60811578,40.4342806,23,289.11749194408674,1,0,0,0,0
+240,249 - Castellana - Cuatro Torres,castellana cuatro torres,-3.685419183,40.47645879,24,IN_SERVICE,243,Sinesio Delgado - Cuatro Torres,248,-3.6879973,40.4743209,27,322.5922232191349,1,0,0,0,0
+311,"420 - Candilejas, 5",candilejas 5,-3.66300383,40.38263599,22,IN_SERVICE,412,"Romeo y Julieta, 13",417,-3.66217563,40.37873799,27,439.07809074844795,1,0,0,0,0
+326,"422 - Travesia de Palomeras, 7",travesia de palomeras 7,-3.6705179,40.39017003,24,IN_SERVICE,614,Calle Sierra de Albarracin 2,622,-3.671961,40.386022,23,477.1587704874092,1,0,0,0,0
+626,"632 - Avda. Campus Sur, 11",avda campus sur 11,-3.63128545,40.38616403,23,IN_SERVICE,427,Charleroi - Cocherón de la Villa,434,-3.63219372,40.38191654,24,478.5236256077727,1,0,0,0,0
