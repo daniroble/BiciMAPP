@@ -1,0 +1,5 @@
+﻿origin_balance_missing,destination_balance_missing,routes,percentage
+False,False,480,14.113496030579242
+False,True,642,18.876800940899734
+True,False,501,14.730961481917081
+True,True,1778,52.27874154660393

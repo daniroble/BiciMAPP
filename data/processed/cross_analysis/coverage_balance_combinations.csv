@@ -1,0 +1,8 @@
+﻿condition,routes,percentage_of_original
+All original routes,3401,100.0
+Origin balance available,1122,32.990296971478976
+Destination balance available,981,28.844457512496323
+Both balances available,480,14.113496030579242
+Origin only,642,18.876800940899734
+Destination only,501,14.730961481917081
+Neither balance available,1778,52.27874154660393
