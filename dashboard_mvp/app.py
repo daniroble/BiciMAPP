@@ -320,6 +320,11 @@ CORRS = ["final_corridor_summary"]
 def hero(title, subtitle, kicker="BiciMAPP · DATAMAD"):
     st.markdown(f'<div class="bici-hero"><div class="bici-kicker">{kicker}</div><h1>{title}</h1><p>{subtitle}</p></div>', unsafe_allow_html=True)
 
+def metric_row(items):
+    cols = st.columns(len(items))
+    for column, (label, value, helptext) in zip(cols, items):
+        column.metric(label, value, help=helptext)
+
 CSV_COLUMN_LABELS = {
     "hour": "Hora",
     "weekday": "Día de la semana",
