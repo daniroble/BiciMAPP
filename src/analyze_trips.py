@@ -13,6 +13,7 @@ hourly = {}
 
 departures = {}
 arrivals = {}
+station_names = {}
 
 duration_count = 0
 duration_sum = 0.0
@@ -80,32 +81,49 @@ for chunk in pd.read_csv(
     destination_id = chunk["station_lock"].fillna("").str.strip()
     destination_name = chunk["lock_station_name"].fillna("").str.strip()
 
-    origin_df = pd.DataFrame({
+    # Salidas: agrupar únicamente por ID de estación
+    origin_counts = origin_id[origin_id != ""].value_counts()
+
+    for station_id, count in origin_counts.items():
+        departures[station_id] = departures.get(station_id, 0) + int(count)
+
+    # Llegadas: agrupar únicamente por ID de estación
+    destination_counts = destination_id[destination_id != ""].value_counts()
+
+    for station_id, count in destination_counts.items():
+        arrivals[station_id] = arrivals.get(station_id, 0) + int(count)
+
+    # Registrar frecuencia de los nombres para elegir el nombre dominante
+    origin_names = pd.DataFrame({
         "station_id": origin_id,
         "station_name": origin_name
     })
 
-    destination_df = pd.DataFrame({
+    destination_names = pd.DataFrame({
         "station_id": destination_id,
         "station_name": destination_name
     })
 
-    origin_counts = origin_df.groupby(
+    names_chunk = pd.concat([origin_names, destination_names], ignore_index=True)
+
+    names_chunk = names_chunk[
+        (names_chunk["station_id"] != "") &
+        (names_chunk["station_name"] != "")
+    ]
+
+    name_counts = names_chunk.groupby(
         ["station_id", "station_name"]
     ).size()
 
-    destination_counts = destination_df.groupby(
-        ["station_id", "station_name"]
-    ).size()
+    for (station_id, station_name), count in name_counts.items():
+        if station_id not in station_names:
+            station_names[station_id] = {}
 
-    for (station_id, station_name), count in origin_counts.items():
-        key = (station_id, station_name)
-        departures[key] = departures.get(key, 0) + int(count)
+        station_names[station_id][station_name] = (
+            station_names[station_id].get(station_name, 0) + int(count)
+        )
 
-    for (station_id, station_name), count in destination_counts.items():
-        key = (station_id, station_name)
-        arrivals[key] = arrivals.get(key, 0) + int(count)
-
+   
     # -----------------------
     # DURACIÓN: FILTRO
     # -----------------------
@@ -182,13 +200,21 @@ hourly_df.to_csv(
 )
 
 # 4 y 5. Estaciones
-all_station_keys = set(departures) | set(arrivals)
+all_station_ids = set(departures) | set(arrivals)
 
 station_rows = []
 
-for station_id, station_name in all_station_keys:
-    dep = departures.get((station_id, station_name), 0)
-    arr = arrivals.get((station_id, station_name), 0)
+for station_id in all_station_ids:
+    dep = departures.get(station_id, 0)
+    arr = arrivals.get(station_id, 0)
+
+    # Elegir el nombre más frecuente registrado para el ID
+    names = station_names.get(station_id, {})
+    station_name = (
+        max(names.items(), key=lambda x: x[1])[0]
+        if names
+        else "Estación " + str(station_id)
+    )
 
     station_rows.append({
         "station_id": station_id,
@@ -205,15 +231,7 @@ stations_df = pd.DataFrame(station_rows)
 stations_df = stations_df.sort_values(
     "total_activity",
     ascending=False
-)
-
-stations_df.to_csv(
-    OUT / "station_demand_balance.csv",
-    index=False,
-    encoding="utf-8-sig"
-)
-
-# Ranking de salidas
+)# Ranking de salidas
 stations_df.sort_values(
     "departures",
     ascending=False
